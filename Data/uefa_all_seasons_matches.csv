@@ -1,0 +1,620 @@
+,Season,Round,Wk,Date,Time,Home,Away,Home Score,Away Score,xG Home,xG Away,xG Diff,Actual Diff,Attendance,Venue,Referee,League
+0,2017-2018,Group stage,1,2017-09-12,19:45,Chelsea,Qarabağ FK,6.0,0.0,2.0,0.3,1.7,6.0,41150.0,Stamford Bridge,Tasos Sidiropoulos,UEFA
+1,2017-2018,Group stage,1,2017-09-12,19:45,Celtic,Paris S-G,0.0,5.0,0.4,2.5,-2.1,-5.0,57562.0,Celtic Park,Daniele Orsato,UEFA
+2,2017-2018,Group stage,1,2017-09-12,19:45,Manchester Utd,Basel,3.0,0.0,3.4,0.6,2.8,3.0,73854.0,Old Trafford,Ruddy Buquet,UEFA
+3,2017-2018,Group stage,1,2017-09-12,19:45,Benfica,CSKA Moscow,1.0,2.0,2.1,1.6,0.5,-1.0,38323.0,Estádio do Sport Lisboa e Benfica,Alberto Undiano,UEFA
+4,2017-2018,Group stage,1,2017-09-12,20:45,Roma,Atlético Madrid,0.0,0.0,0.5,2.4,-1.9,0.0,36064.0,Stadio Olimpico,Milorad Mažić,UEFA
+5,2017-2018,Group stage,1,2017-09-12,20:45,Barcelona,Juventus,3.0,0.0,0.9,0.7,0.20000000000000007,3.0,78656.0,Camp Nou,Damir Skomina,UEFA
+6,2017-2018,Group stage,1,2017-09-12,20:45,Bayern Munich,Anderlecht,3.0,0.0,4.2,0.8,3.4000000000000004,3.0,70000.0,Allianz Arena,Paolo Tagliavento,UEFA
+7,2017-2018,Group stage,1,2017-09-12,21:45,Olympiacos,Sporting CP,2.0,3.0,1.1,2.6,-1.5,-1.0,30168.0,Stadio Georgios Karaiskáki,Viktor Kassai,UEFA
+8,2017-2018,Group stage,1,2017-09-13,19:45,Porto,Beşiktaş,1.0,3.0,1.5,0.9,0.6,-2.0,42429.0,Estádio Do Dragão,Anthony Taylor,UEFA
+9,2017-2018,Group stage,1,2017-09-13,19:45,Liverpool,Sevilla,2.0,2.0,2.4,1.2,1.2,0.0,52332.0,Anfield,Danny Makkelie,UEFA
+10,2017-2018,Group stage,1,2017-09-13,19:45,Tottenham,Dortmund,3.0,1.0,1.2,0.8,0.3999999999999999,2.0,67343.0,Wembley Stadium,Gianluca Rocchi,UEFA
+11,2017-2018,Group stage,1,2017-09-13,20:45,NK Maribor,Spartak Moscow,1.0,1.0,1.1,1.8,-0.7,0.0,12566.0,Ljudski vrt,Deniz Aytekin,UEFA
+12,2017-2018,Group stage,1,2017-09-13,20:45,Feyenoord,Manchester City,0.0,4.0,0.3,1.3,-1.0,-4.0,43500.0,Stadion Feijenoord,Szymon Marciniak,UEFA
+13,2017-2018,Group stage,1,2017-09-13,20:45,RB Leipzig,Monaco,1.0,1.0,0.9,1.1,-0.20000000000000007,0.0,40068.0,Red Bull Arena,Michael Oliver,UEFA
+14,2017-2018,Group stage,1,2017-09-13,20:45,Real Madrid,APOEL FC,3.0,0.0,3.9,0.2,3.6999999999999997,3.0,71060.0,Estadio Santiago Bernabéu,Benoît Bastien,UEFA
+15,2017-2018,Group stage,1,2017-09-13,21:45,Shakhtar,Napoli,2.0,1.0,1.4,1.9,-0.5,1.0,32679.0,L'viv Arena,Felix Zwayer,UEFA
+16,2017-2018,Group stage,2,2017-09-26,19:45,Manchester City,Shakhtar,2.0,0.0,3.2,0.5,2.7,2.0,45310.0,Academy Stadium,Jorge de Sousa,UEFA
+17,2017-2018,Group stage,2,2017-09-26,20:45,Sevilla,NK Maribor,3.0,0.0,3.9,0.4,3.5,3.0,34705.0,Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakov,UEFA
+18,2017-2018,Group stage,2,2017-09-26,20:45,Dortmund,Real Madrid,1.0,3.0,1.2,3.2,-2.0,-2.0,65849.0,Signal Iduna Park,Björn Kuipers,UEFA
+19,2017-2018,Group stage,2,2017-09-26,20:45,Monaco,Porto,0.0,3.0,0.6,2.9,-2.3,-3.0,11703.0,Stade Louis II.,Slavko Vinčić,UEFA
+20,2017-2018,Group stage,2,2017-09-26,20:45,Napoli,Feyenoord,3.0,1.0,0.9,1.6,-0.7000000000000001,2.0,22577.0,Stadio San Paolo,William Collum,UEFA
+21,2017-2018,Group stage,2,2017-09-26,21:45,Spartak Moscow,Liverpool,1.0,1.0,0.2,2.8,-2.5999999999999996,0.0,43376.0,Otkrytie Arena,Clément Turpin,UEFA
+22,2017-2018,Group stage,2,2017-09-26,21:45,Beşiktaş,RB Leipzig,2.0,0.0,1.0,1.1,-0.10000000000000009,2.0,36641.0,Vodafone Arena,Sergey Karasev,UEFA
+23,2017-2018,Group stage,2,2017-09-26,21:45,APOEL FC,Tottenham,0.0,3.0,1.0,1.8,-0.8,-3.0,16324.0,Neo GSP,Pavel Královec,UEFA
+24,2017-2018,Group stage,2,2017-09-28,00:45,CSKA Moscow,Manchester Utd,1.0,4.0,0.6,4.3,-3.6999999999999997,-3.0,29073.0,Stadion CSKA,Jonas Eriksson,UEFA
+25,2017-2018,Group stage,2,2017-09-27,19:45,Sporting CP,Barcelona,0.0,1.0,0.7,0.9,-0.20000000000000007,-1.0,48575.0,Estádio José Alvalade,Ovidiu Hațegan,UEFA
+26,2017-2018,Group stage,2,2017-09-27,20:00,Qarabağ FK,Roma,1.0,2.0,0.9,1.9,-0.9999999999999999,-1.0,67200.0,Bakı Olimpiya Stadionu,Artur Soares Dias,UEFA
+27,2017-2018,Group stage,2,2017-09-27,20:45,Atlético Madrid,Chelsea,1.0,2.0,1.4,2.5,-1.1,-1.0,60643.0,Estadio Wanda Metropolitano,Cüneyt Çakιr,UEFA
+28,2017-2018,Group stage,2,2017-09-27,20:45,Juventus,Olympiacos,2.0,0.0,2.3,0.5,1.7999999999999998,2.0,33460.0,Allianz Stadium,Tobias Stieler,UEFA
+29,2017-2018,Group stage,2,2017-09-27,20:45,Basel,Benfica,5.0,0.0,3.2,0.4,2.8000000000000003,5.0,34111.0,St. Jakob-Park,Craig Thomson,UEFA
+30,2017-2018,Group stage,2,2017-09-27,20:45,Paris S-G,Bayern Munich,3.0,0.0,2.0,1.0,1.0,3.0,46252.0,Parc des Princes,Antonio Matéu Lahoz,UEFA
+31,2017-2018,Group stage,2,2017-09-27,20:45,Anderlecht,Celtic,0.0,3.0,0.6,1.2,-0.6,-3.0,19898.0,Stade Constant Vanden Stock,Jesús Gil,UEFA
+32,2017-2018,Group stage,3,2017-10-17,19:45,Manchester City,Napoli,2.0,1.0,2.7,2.2,0.5,1.0,48520.0,Etihad Stadium,Antonio Matéu Lahoz,UEFA
+33,2017-2018,Group stage,3,2017-10-17,20:45,Feyenoord,Shakhtar,1.0,2.0,1.6,1.3,0.30000000000000004,-1.0,43500.0,Stadion Feijenoord,Alberto Undiano,UEFA
+34,2017-2018,Group stage,3,2017-10-17,20:45,Monaco,Beşiktaş,1.0,2.0,0.7,1.2,-0.5,-1.0,7403.0,Stade Louis II.,Milorad Mažić,UEFA
+35,2017-2018,Group stage,3,2017-10-17,20:45,RB Leipzig,Porto,3.0,2.0,2.5,1.1,1.4,1.0,41496.0,Red Bull Arena,Paolo Tagliavento,UEFA
+36,2017-2018,Group stage,3,2017-10-17,20:45,Real Madrid,Tottenham,1.0,1.0,2.9,0.9,2.0,0.0,76589.0,Estadio Santiago Bernabéu,Szymon Marciniak,UEFA
+37,2017-2018,Group stage,3,2017-10-17,20:45,NK Maribor,Liverpool,0.0,7.0,0.4,4.6,-4.199999999999999,-7.0,12506.0,Ljudski vrt,Viktor Kassai,UEFA
+38,2017-2018,Group stage,3,2017-10-17,21:45,Spartak Moscow,Sevilla,5.0,1.0,1.7,1.3,0.3999999999999999,4.0,44307.0,Otkrytie Arena,Gianluca Rocchi,UEFA
+39,2017-2018,Group stage,3,2017-10-17,21:45,APOEL FC,Dortmund,1.0,1.0,1.0,2.1,-1.1,0.0,15604.0,Neo GSP,Aliaksei Kulbakov,UEFA
+40,2017-2018,Group stage,3,2017-10-18,19:45,Benfica,Manchester Utd,0.0,1.0,0.5,0.6,-0.09999999999999998,-1.0,57684.0,Estádio do Sport Lisboa e Benfica,Felix Zwayer,UEFA
+41,2017-2018,Group stage,3,2017-10-18,19:45,Chelsea,Roma,3.0,3.0,1.6,1.6,0.0,0.0,41105.0,Stamford Bridge,Damir Skomina,UEFA
+42,2017-2018,Group stage,3,2017-10-18,20:00,Qarabağ FK,Atlético Madrid,0.0,0.0,0.4,1.9,-1.5,0.0,47923.0,Bakı Olimpiya Stadionu,Ruddy Buquet,UEFA
+43,2017-2018,Group stage,3,2017-10-18,20:45,Barcelona,Olympiacos,3.0,1.0,3.5,0.2,3.3,2.0,55026.0,Camp Nou,William Collum,UEFA
+44,2017-2018,Group stage,3,2017-10-18,20:45,Anderlecht,Paris S-G,0.0,4.0,1.2,3.3,-2.0999999999999996,-4.0,19108.0,Stade Constant Vanden Stock,Pavel Královec,UEFA
+45,2017-2018,Group stage,3,2017-10-18,20:45,Bayern Munich,Celtic,3.0,0.0,3.2,0.6,2.6,3.0,70000.0,Allianz Arena,Sergey Karasev,UEFA
+46,2017-2018,Group stage,3,2017-10-18,20:45,Juventus,Sporting CP,2.0,1.0,1.5,0.5,1.0,1.0,36288.0,Allianz Stadium,Michael Oliver,UEFA
+47,2017-2018,Group stage,3,2017-10-18,21:45,CSKA Moscow,Basel,0.0,2.0,0.4,1.4,-0.9999999999999999,-2.0,27996.0,VEB Arena,Björn Kuipers,UEFA
+48,2017-2018,Group stage,4,2017-10-31,19:45,Celtic,Bayern Munich,1.0,2.0,1.4,0.7,0.7,-1.0,58269.0,Celtic Park,Danny Makkelie,UEFA
+49,2017-2018,Group stage,4,2017-10-31,19:45,Sporting CP,Juventus,1.0,1.0,0.5,2.0,-1.5,0.0,48442.0,Estádio José Alvalade,Clément Turpin,UEFA
+50,2017-2018,Group stage,4,2017-10-31,19:45,Manchester Utd,Benfica,2.0,0.0,2.7,0.9,1.8000000000000003,2.0,74437.0,Old Trafford,Gediminas Mažeika,UEFA
+51,2017-2018,Group stage,4,2017-10-31,20:45,Paris S-G,Anderlecht,5.0,0.0,2.6,0.2,2.4,5.0,46403.0,Parc des Princes,David Fernández,UEFA
+52,2017-2018,Group stage,4,2017-10-31,20:45,Atlético Madrid,Qarabağ FK,1.0,1.0,3.2,0.2,3.0,0.0,55893.0,Estadio Wanda Metropolitano,Deniz Aytekin,UEFA
+53,2017-2018,Group stage,4,2017-10-31,20:45,Roma,Chelsea,3.0,0.0,1.5,1.3,0.19999999999999996,3.0,55036.0,Stadio Olimpico,Jonas Eriksson,UEFA
+54,2017-2018,Group stage,4,2017-10-31,20:45,Basel,CSKA Moscow,1.0,2.0,1.2,1.3,-0.10000000000000009,-1.0,33303.0,St. Jakob-Park,Milorad Mažić,UEFA
+55,2017-2018,Group stage,4,2017-10-31,21:45,Olympiacos,Barcelona,0.0,0.0,0.3,1.8,-1.5,0.0,31600.0,Stadio Georgios Karaiskáki,Anthony Taylor,UEFA
+56,2017-2018,Group stage,4,2017-11-01,19:45,Tottenham,Real Madrid,3.0,1.0,2.3,2.2,0.09999999999999964,2.0,83782.0,Wembley Stadium,Cüneyt Çakιr,UEFA
+57,2017-2018,Group stage,4,2017-11-01,19:45,Porto,RB Leipzig,3.0,1.0,1.8,0.6,1.2000000000000002,2.0,41616.0,Estádio Do Dragão,Ovidiu Hațegan,UEFA
+58,2017-2018,Group stage,4,2017-11-01,19:45,Liverpool,NK Maribor,3.0,0.0,2.7,0.3,2.4000000000000004,3.0,47957.0,Anfield,Ivan Kružliak,UEFA
+59,2017-2018,Group stage,4,2017-11-01,20:00,Beşiktaş,Monaco,1.0,1.0,1.3,1.0,0.30000000000000004,0.0,39346.0,Vodafone Arena,Paolo Tagliavento,UEFA
+60,2017-2018,Group stage,4,2017-11-01,20:45,Sevilla,Spartak Moscow,2.0,1.0,0.9,1.2,-0.29999999999999993,1.0,38002.0,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias,UEFA
+61,2017-2018,Group stage,4,2017-11-01,20:45,Dortmund,APOEL FC,1.0,1.0,2.8,0.6,2.1999999999999997,0.0,64500.0,Fußballpark BVB Hohenbuschei,Matej Jug,UEFA
+62,2017-2018,Group stage,4,2017-11-01,20:45,Napoli,Manchester City,2.0,4.0,2.1,1.4,0.7000000000000002,-2.0,44483.0,Stadio San Paolo,Felix Brych,UEFA
+63,2017-2018,Group stage,4,2017-11-01,21:45,Shakhtar,Feyenoord,3.0,1.0,2.6,1.0,1.6,2.0,24570.0,Oblasny SportKomplex Metalist,Tasos Sidiropoulos,UEFA
+64,2017-2018,Group stage,5,2017-11-21,19:45,Manchester City,Feyenoord,1.0,0.0,1.3,0.3,1.0,1.0,43548.0,Etihad Stadium,Ivan Kružliak,UEFA
+65,2017-2018,Group stage,5,2017-11-21,20:00,Beşiktaş,Porto,1.0,1.0,0.7,0.7,0.0,0.0,36919.0,Vodafone Arena,Antonio Matéu Lahoz,UEFA
+66,2017-2018,Group stage,5,2017-11-21,20:00,Spartak Moscow,NK Maribor,1.0,1.0,1.4,1.2,0.19999999999999996,0.0,42920.0,Otkrytie Arena,William Collum,UEFA
+67,2017-2018,Group stage,5,2017-11-21,20:45,Sevilla,Liverpool,3.0,3.0,1.9,2.3,-0.3999999999999999,0.0,39495.0,Estadio Ramón Sánchez Pizjuán,Felix Brych,UEFA
+68,2017-2018,Group stage,5,2017-11-21,20:45,Napoli,Shakhtar,3.0,0.0,1.9,0.5,1.4,3.0,10573.0,Stadio San Paolo,Damir Skomina,UEFA
+69,2017-2018,Group stage,5,2017-11-21,20:45,Dortmund,Tottenham,1.0,2.0,1.1,1.1,0.0,-1.0,65849.0,Signal Iduna Park,Clément Turpin,UEFA
+70,2017-2018,Group stage,5,2017-11-21,20:45,Monaco,RB Leipzig,1.0,4.0,0.8,1.5,-0.7,-3.0,9029.0,Stade Louis II.,Alberto Undiano,UEFA
+71,2017-2018,Group stage,5,2017-11-21,21:45,APOEL FC,Real Madrid,0.0,6.0,0.5,3.7,-3.2,-6.0,19705.0,Neo GSP,Artur Soares Dias,UEFA
+72,2017-2018,Group stage,5,2017-11-22,19:45,Sporting CP,Olympiacos,3.0,1.0,2.0,0.4,1.6,2.0,42528.0,Estádio José Alvalade,Felix Zwayer,UEFA
+73,2017-2018,Group stage,5,2017-11-22,20:00,CSKA Moscow,Benfica,2.0,0.0,1.0,1.0,0.0,2.0,27709.0,VEB Arena,Deniz Aytekin,UEFA
+74,2017-2018,Group stage,5,2017-11-22,20:45,Juventus,Barcelona,0.0,0.0,0.5,0.9,-0.4,0.0,40876.0,Allianz Stadium,Milorad Mažić,UEFA
+75,2017-2018,Group stage,5,2017-11-22,20:45,Basel,Manchester Utd,1.0,0.0,1.1,1.5,-0.3999999999999999,1.0,36000.0,St. Jakob-Park,Daniele Orsato,UEFA
+76,2017-2018,Group stage,5,2017-11-22,20:45,Anderlecht,Bayern Munich,1.0,2.0,1.8,2.2,-0.40000000000000013,-1.0,19753.0,Stade Constant Vanden Stock,Anthony Taylor,UEFA
+77,2017-2018,Group stage,5,2017-11-22,20:45,Paris S-G,Celtic,7.0,1.0,2.8,0.3,2.5,6.0,46288.0,Parc des Princes,Tasos Sidiropoulos,UEFA
+78,2017-2018,Group stage,5,2017-11-22,20:45,Atlético Madrid,Roma,2.0,0.0,1.4,0.5,0.8999999999999999,2.0,56253.0,Estadio Wanda Metropolitano,Björn Kuipers,UEFA
+79,2017-2018,Group stage,5,2017-11-22,21:00,Qarabağ FK,Chelsea,0.0,4.0,0.2,3.9,-3.6999999999999997,-4.0,67100.0,Bakı Olimpiya Stadionu,Jorge de Sousa,UEFA
+80,2017-2018,Group stage,6,2017-12-05,19:45,Chelsea,Atlético Madrid,1.0,1.0,2.9,1.0,1.9,0.0,40875.0,Stamford Bridge,Danny Makkelie,UEFA
+81,2017-2018,Group stage,6,2017-12-05,19:45,Celtic,Anderlecht,0.0,1.0,0.8,0.7,0.10000000000000009,-1.0,57931.0,Celtic Park,Matej Jug,UEFA
+82,2017-2018,Group stage,6,2017-12-05,19:45,Manchester Utd,CSKA Moscow,2.0,1.0,2.9,0.8,2.0999999999999996,1.0,74669.0,Old Trafford,Gianluca Rocchi,UEFA
+83,2017-2018,Group stage,6,2017-12-05,19:45,Benfica,Basel,0.0,2.0,1.4,1.4,0.0,-2.0,22470.0,Estádio do Sport Lisboa e Benfica,Jesús Gil,UEFA
+84,2017-2018,Group stage,6,2017-12-05,20:45,Barcelona,Sporting CP,2.0,0.0,1.2,1.0,0.19999999999999996,2.0,48336.0,Camp Nou,Craig Thomson,UEFA
+85,2017-2018,Group stage,6,2017-12-05,20:45,Roma,Qarabağ FK,1.0,0.0,1.9,0.4,1.5,1.0,34258.0,Stadio Olimpico,Tobias Stieler,UEFA
+86,2017-2018,Group stage,6,2017-12-05,20:45,Bayern Munich,Paris S-G,3.0,1.0,1.8,1.9,-0.09999999999999987,2.0,70000.0,Allianz Arena,Cüneyt Çakιr,UEFA
+87,2017-2018,Group stage,6,2017-12-05,21:45,Olympiacos,Juventus,0.0,2.0,1.0,1.5,-0.5,-2.0,29567.0,Stadio Georgios Karaiskáki,David Fernández,UEFA
+88,2017-2018,Group stage,6,2017-12-06,19:45,Tottenham,APOEL FC,3.0,0.0,2.3,0.6,1.6999999999999997,3.0,42679.0,Wembley Stadium,Slavko Vinčić,UEFA
+89,2017-2018,Group stage,6,2017-12-06,19:45,Porto,Monaco,5.0,2.0,1.9,1.7,0.19999999999999996,3.0,42509.0,Estádio Do Dragão,Jonas Eriksson,UEFA
+90,2017-2018,Group stage,6,2017-12-06,19:45,Liverpool,Spartak Moscow,7.0,0.0,4.2,0.6,3.6,7.0,48779.0,Anfield,Szymon Marciniak,UEFA
+91,2017-2018,Group stage,6,2017-12-06,20:45,RB Leipzig,Beşiktaş,1.0,2.0,3.0,1.8,1.2,-1.0,42558.0,Red Bull Arena,Viktor Kassai,UEFA
+92,2017-2018,Group stage,6,2017-12-06,20:45,Feyenoord,Napoli,2.0,1.0,0.7,1.3,-0.6000000000000001,1.0,36500.0,Stadion Feijenoord,Michael Oliver,UEFA
+93,2017-2018,Group stage,6,2017-12-06,20:45,NK Maribor,Sevilla,1.0,1.0,0.8,1.7,-0.8999999999999999,0.0,11976.0,Ljudski vrt,Ovidiu Hațegan,UEFA
+94,2017-2018,Group stage,6,2017-12-06,20:45,Real Madrid,Dortmund,3.0,2.0,2.7,1.7,1.0000000000000002,1.0,73323.0,Estadio Santiago Bernabéu,Pavel Královec,UEFA
+95,2017-2018,Group stage,6,2017-12-06,21:45,Shakhtar,Manchester City,2.0,1.0,1.7,1.7,0.0,1.0,33154.0,Oblasny SportKomplex Metalist,Benoît Bastien,UEFA
+96,2017-2018,Round of 16,,2018-02-13,20:45,Basel,Manchester City,0.0,4.0,1.0,0.7,0.30000000000000004,-4.0,36000.0,St. Jakob-Park,Jonas Eriksson,UEFA
+97,2017-2018,Round of 16,,2018-02-13,20:45,Juventus,Tottenham,2.0,2.0,2.5,1.8,0.7,0.0,41232.0,Allianz Stadium,Felix Brych,UEFA
+98,2017-2018,Round of 16,,2018-02-14,19:45,Porto,Liverpool,0.0,5.0,0.5,2.6,-2.1,-5.0,47718.0,Estádio Do Dragão,Daniele Orsato,UEFA
+99,2017-2018,Round of 16,,2018-02-14,20:45,Real Madrid,Paris S-G,3.0,1.0,2.4,1.0,1.4,2.0,78158.0,Estadio Ramón Sánchez Pizjuán,Gianluca Rocchi,UEFA
+100,2017-2018,Round of 16,,2018-02-20,19:45,Chelsea,Barcelona,1.0,1.0,0.5,0.6,-0.09999999999999998,0.0,37741.0,Stamford Bridge,Cüneyt Çakιr,UEFA
+101,2017-2018,Round of 16,,2018-02-20,20:45,Bayern Munich,Beşiktaş,5.0,0.0,4.9,0.3,4.6000000000000005,5.0,70000.0,Allianz Arena,Ovidiu Hațegan,UEFA
+102,2017-2018,Round of 16,,2018-02-21,20:45,Sevilla,Manchester Utd,0.0,0.0,2.0,0.7,1.3,0.0,39725.0,Estadio Ramón Sánchez Pizjuán,Clément Turpin,UEFA
+103,2017-2018,Round of 16,,2018-02-21,21:45,Shakhtar,Roma,2.0,1.0,1.7,1.8,-0.10000000000000009,1.0,35124.0,Oblasny SportKomplex Metalist,William Collum,UEFA
+104,2017-2018,Round of 16,,2018-03-06,19:45,Liverpool,Porto,0.0,0.0,1.6,0.6,1.0,0.0,48768.0,Anfield,Felix Zwayer,UEFA
+105,2017-2018,Round of 16,,2018-03-06,20:45,Paris S-G,Real Madrid,1.0,2.0,1.1,2.2,-1.1,-1.0,46585.0,Parc des Princes,Felix Brych,UEFA
+106,2017-2018,Round of 16,,2018-03-07,19:45,Tottenham,Juventus,1.0,2.0,1.7,1.5,0.19999999999999996,-1.0,84010.0,Wembley Stadium,Szymon Marciniak,UEFA
+107,2017-2018,Round of 16,,2018-03-07,19:45,Manchester City,Basel,1.0,2.0,1.6,0.6,1.0,-1.0,49411.0,Etihad Stadium,Pavel Královec,UEFA
+108,2017-2018,Round of 16,,2018-03-13,19:45,Manchester Utd,Sevilla,1.0,2.0,1.9,1.7,0.19999999999999996,-1.0,74909.0,Old Trafford,Danny Makkelie,UEFA
+109,2017-2018,Round of 16,,2018-03-13,20:45,Roma,Shakhtar,1.0,0.0,0.7,0.2,0.49999999999999994,1.0,47693.0,Stadio Olimpico,Alberto Undiano,UEFA
+110,2017-2018,Round of 16,,2018-03-14,20:00,Beşiktaş,Bayern Munich,1.0,3.0,1.2,2.1,-0.9000000000000001,-2.0,36885.0,Vodafone Arena,Michael Oliver,UEFA
+111,2017-2018,Round of 16,,2018-03-14,20:45,Barcelona,Chelsea,3.0,0.0,1.0,0.7,0.30000000000000004,3.0,97183.0,Camp Nou,Damir Skomina,UEFA
+112,2017-2018,Quarter-finals,,2018-04-03,20:45,Sevilla,Bayern Munich,1.0,2.0,0.9,1.4,-0.4999999999999999,-1.0,40635.0,Estadio Ramón Sánchez Pizjuán,Daniele Orsato,UEFA
+113,2017-2018,Quarter-finals,,2018-04-03,20:45,Juventus,Real Madrid,0.0,3.0,1.6,3.1,-1.5,-3.0,40849.0,Allianz Stadium,Cüneyt Çakιr,UEFA
+114,2017-2018,Quarter-finals,,2018-04-04,19:45,Liverpool,Manchester City,3.0,0.0,1.6,0.6,1.0,3.0,50685.0,Anfield,Felix Brych,UEFA
+115,2017-2018,Quarter-finals,,2018-04-04,20:45,Barcelona,Roma,4.0,1.0,1.9,1.7,0.19999999999999996,3.0,90106.0,Camp Nou,Danny Makkelie,UEFA
+116,2017-2018,Quarter-finals,,2018-04-10,19:45,Manchester City,Liverpool,1.0,2.0,1.2,0.8,0.3999999999999999,-1.0,53461.0,Etihad Stadium,Antonio Matéu Lahoz,UEFA
+117,2017-2018,Quarter-finals,,2018-04-10,20:45,Roma,Barcelona,3.0,0.0,2.7,0.9,1.8000000000000003,3.0,56580.0,Stadio Olimpico,Clément Turpin,UEFA
+118,2017-2018,Quarter-finals,,2018-04-11,20:45,Bayern Munich,Sevilla,0.0,0.0,1.2,0.6,0.6,0.0,70000.0,Allianz Arena,William Collum,UEFA
+119,2017-2018,Quarter-finals,,2018-04-11,20:45,Real Madrid,Juventus,1.0,3.0,2.7,2.7,0.0,-2.0,75796.0,Estadio Santiago Bernabéu,Michael Oliver,UEFA
+120,2017-2018,Semi-finals,,2018-04-24,19:45,Liverpool,Roma,5.0,2.0,3.7,1.9,1.8000000000000003,3.0,51236.0,Anfield,Felix Brych,UEFA
+122,2017-2018,Semi-finals,,2018-04-25,20:45,Bayern Munich,Real Madrid,1.0,2.0,1.9,0.7,1.2,-1.0,70000.0,Allianz Arena,Björn Kuipers,UEFA
+123,2017-2018,Semi-finals,,2018-05-01,20:45,Real Madrid,Bayern Munich,2.0,2.0,1.8,3.0,-1.2,0.0,77459.0,Estadio Santiago Bernabéu,Cüneyt Çakιr,UEFA
+124,2017-2018,Semi-finals,,2018-05-02,20:45,Roma,Liverpool,4.0,2.0,2.4,1.6,0.7999999999999998,2.0,61889.0,Stadio Olimpico,Damir Skomina,UEFA
+125,2017-2018,Final,,2018-05-26,21:45,Real Madrid,Liverpool,3.0,1.0,1.5,1.9,-0.3999999999999999,2.0,61561.0,NSK Olimpijs'kyj (Neutral Site),Milorad Mažić,UEFA
+126,2018-2019,Group stage,1,2018-09-18,18:55,Barcelona,PSV Eindhoven,4.0,0.0,1.5,0.7,0.8,4.0,73462.0,Camp Nou,Tasos Sidiropoulos,UEFA
+127,2018-2019,Group stage,1,2018-09-18,18:55,Inter,Tottenham,2.0,1.0,1.2,0.8,0.3999999999999999,1.0,64123.0,Stadio Giuseppe Meazza,Ruddy Buquet,UEFA
+128,2018-2019,Group stage,1,2018-09-18,20:00,Liverpool,Paris S-G,3.0,2.0,2.3,0.8,1.4999999999999998,1.0,52478.0,Anfield,Baris Şimşek,UEFA
+129,2018-2019,Group stage,1,2018-09-18,21:00,Red Star,Napoli,0.0,0.0,0.2,1.6,-1.4000000000000001,0.0,49112.0,Stadion Rajko Mitić,Tomasz Musiał,UEFA
+130,2018-2019,Group stage,1,2018-09-18,21:00,Club Brugge,Dortmund,0.0,1.0,0.6,1.0,-0.4,-1.0,25181.0,Jan Breydelstadion,Danny Makkelie,UEFA
+131,2018-2019,Group stage,1,2018-09-18,21:00,Monaco,Atlético Madrid,1.0,2.0,0.7,0.9,-0.20000000000000007,-1.0,10575.0,Stade Louis II.,William Collum,UEFA
+132,2018-2019,Group stage,1,2018-09-18,21:00,Schalke 04,Porto,1.0,1.0,0.9,2.2,-1.3000000000000003,0.0,45755.0,Veltins-Arena,Ricardo de Burgos,UEFA
+133,2018-2019,Group stage,1,2018-09-18,22:00,Galatasaray,Loko Moscow,3.0,0.0,1.8,0.9,0.9,3.0,43542.0,Türk Telekom Arena,Luca Banti,UEFA
+134,2018-2019,Group stage,1,2018-09-19,18:55,Ajax,AEK Athens,3.0,0.0,1.7,0.4,1.2999999999999998,3.0,52285.0,Johan Cruyff ArenA,Carlos del Cerro,UEFA
+135,2018-2019,Group stage,1,2018-09-19,19:55,Shakhtar,Hoffenheim,2.0,2.0,0.6,1.8,-1.2000000000000002,0.0,28336.0,Oblasny SportKomplex Metalist,Jakob Kehlet,UEFA
+136,2018-2019,Group stage,1,2018-09-19,20:00,Manchester City,Lyon,1.0,2.0,1.2,0.8,0.3999999999999999,-1.0,40111.0,Etihad Stadium,Daniele Orsato,UEFA
+137,2018-2019,Group stage,1,2018-09-19,20:00,Benfica,Bayern Munich,0.0,2.0,0.7,2.4,-1.7,-2.0,60274.0,Estádio do Sport Lisboa e Benfica,Antonio Matéu Lahoz,UEFA
+138,2018-2019,Group stage,1,2018-09-19,21:00,Valencia,Juventus,0.0,2.0,2.0,3.7,-1.7000000000000002,-2.0,46067.0,Estadio de Mestalla,Felix Brych,UEFA
+139,2018-2019,Group stage,1,2018-09-19,21:00,Real Madrid,Roma,3.0,0.0,3.5,0.6,2.9,3.0,69251.0,Estadio Santiago Bernabéu,Björn Kuipers,UEFA
+140,2018-2019,Group stage,1,2018-09-19,21:00,Young Boys,Manchester Utd,0.0,3.0,1.7,2.0,-0.30000000000000004,-3.0,31120.0,Stade de Suisse Wankdorf Bern,Deniz Aytekin,UEFA
+141,2018-2019,Group stage,1,2018-09-19,21:00,Viktoria Plzeň,CSKA Moscow,2.0,2.0,1.5,1.7,-0.19999999999999996,0.0,11312.0,Doosan Arena,Benoît Bastien,UEFA
+142,2018-2019,Group stage,2,2018-10-02,18:55,Hoffenheim,Manchester City,1.0,2.0,0.6,2.2,-1.6,-1.0,24851.0,PreZero Arena,Matej Jug,UEFA
+143,2018-2019,Group stage,2,2018-10-02,18:55,Juventus,Young Boys,3.0,0.0,3.3,0.2,3.0999999999999996,3.0,40961.0,Allianz Stadium,Sergey Karasev,UEFA
+144,2018-2019,Group stage,2,2018-10-02,20:00,Manchester Utd,Valencia,0.0,0.0,0.9,0.4,0.5,0.0,73569.0,Old Trafford,Slavko Vinčič,UEFA
+145,2018-2019,Group stage,2,2018-10-02,21:00,Bayern Munich,Ajax,1.0,1.0,1.5,1.2,0.30000000000000004,0.0,70000.0,Allianz Arena,Pavel Královec,UEFA
+146,2018-2019,Group stage,2,2018-10-02,21:00,Lyon,Shakhtar,2.0,2.0,2.8,1.6,1.1999999999999997,0.0,,Groupama OL Academy Décines-Charpieu,Aleksandrs Golubevs,UEFA
+147,2018-2019,Group stage,2,2018-10-02,21:00,Roma,Viktoria Plzeň,5.0,0.0,3.1,0.3,2.8000000000000003,5.0,41243.0,Stadio Olimpico,Paweł Raczkowski,UEFA
+148,2018-2019,Group stage,2,2018-10-02,22:00,CSKA Moscow,Real Madrid,1.0,0.0,0.4,2.2,-1.8000000000000003,1.0,71811.0,VEB Arena,Ovidiu Hațegan,UEFA
+149,2018-2019,Group stage,2,2018-10-02,22:00,AEK Athens,Benfica,2.0,3.0,2.8,1.2,1.5999999999999999,-1.0,31154.0,Olympiako Stadio Spyros Louis,Orel Grinfeeld,UEFA
+150,2018-2019,Group stage,2,2018-10-03,18:55,Paris S-G,Red Star,6.0,1.0,5.4,0.3,5.1000000000000005,5.0,39979.0,Parc des Princes,Artur Dias,UEFA
+151,2018-2019,Group stage,2,2018-10-03,19:55,Loko Moscow,Schalke 04,0.0,1.0,0.7,1.0,-0.30000000000000004,-1.0,21471.0,RZD Arena,Anthony Taylor,UEFA
+152,2018-2019,Group stage,2,2018-10-03,20:00,Porto,Galatasaray,1.0,0.0,1.8,1.5,0.30000000000000004,1.0,42711.0,Estádio Do Dragão,Michael Oliver,UEFA
+153,2018-2019,Group stage,2,2018-10-03,20:00,Tottenham,Barcelona,2.0,4.0,0.5,1.4,-0.8999999999999999,-2.0,82137.0,Wembley Stadium,Tobias Stieler,UEFA
+154,2018-2019,Group stage,2,2018-10-03,21:00,Dortmund,Monaco,3.0,0.0,3.2,0.5,2.7,3.0,66099.0,Signal Iduna Park,Aliaksei Kulbakou,UEFA
+155,2018-2019,Group stage,2,2018-10-03,21:00,PSV Eindhoven,Inter,1.0,2.0,0.7,2.6,-1.9000000000000001,-1.0,34750.0,Philips Stadion,Danilo Grujić,UEFA
+156,2018-2019,Group stage,2,2018-10-03,21:00,Napoli,Liverpool,1.0,0.0,1.9,0.1,1.7999999999999998,1.0,37057.0,Stadio San Paolo,Sándor Andó-Szabó,UEFA
+157,2018-2019,Group stage,2,2018-10-03,21:00,Atlético Madrid,Club Brugge,3.0,1.0,1.8,0.6,1.2000000000000002,2.0,55742.0,Estadio Wanda Metropolitano,Filip Glova,UEFA
+158,2018-2019,Group stage,3,2018-10-23,18:55,Young Boys,Valencia,1.0,1.0,1.9,0.9,0.9999999999999999,0.0,31120.0,Stade de Suisse Wankdorf Bern,Aleksandrs Anufrijevs,UEFA
+159,2018-2019,Group stage,3,2018-10-23,19:55,AEK Athens,Bayern Munich,0.0,2.0,0.3,2.3,-1.9999999999999998,-2.0,61221.0,Olympiako Stadio Spyros Louis,Aliaksei Kulbakou,UEFA
+160,2018-2019,Group stage,3,2018-10-23,20:00,Manchester Utd,Juventus,0.0,1.0,0.3,1.3,-1.0,-1.0,73946.0,Old Trafford,Danilo Grujić,UEFA
+161,2018-2019,Group stage,3,2018-10-23,21:00,Real Madrid,Viktoria Plzeň,2.0,1.0,2.6,1.6,1.0,1.0,67356.0,Estadio Santiago Bernabéu,Orel Grinfeeld,UEFA
+162,2018-2019,Group stage,3,2018-10-23,21:00,Roma,CSKA Moscow,3.0,0.0,2.3,0.5,1.7999999999999998,3.0,46005.0,Stadio Olimpico,Tasos Sidiropoulos,UEFA
+163,2018-2019,Group stage,3,2018-10-23,21:00,Hoffenheim,Lyon,3.0,3.0,4.1,1.5,2.5999999999999996,0.0,24144.0,PreZero Arena,Alberto Undiano,UEFA
+164,2018-2019,Group stage,3,2018-10-23,21:00,Ajax,Benfica,1.0,0.0,1.5,0.7,0.8,1.0,52489.0,Johan Cruyff ArenA,Ruddy Buquet,UEFA
+165,2018-2019,Group stage,3,2018-10-23,22:00,Shakhtar,Manchester City,0.0,3.0,1.1,2.6,-1.5,-3.0,37106.0,Oblasny SportKomplex Metalist,Carlos del Cerro,UEFA
+166,2018-2019,Group stage,3,2018-10-24,18:55,Club Brugge,Monaco,1.0,1.0,1.5,0.8,0.7,0.0,23957.0,Jan Breydelstadion,Michael Oliver,UEFA
+167,2018-2019,Group stage,3,2018-10-24,18:55,PSV Eindhoven,Tottenham,2.0,2.0,0.9,2.0,-1.1,0.0,35000.0,Philips Stadion,Slavko Vinčič,UEFA
+168,2018-2019,Group stage,3,2018-10-24,20:00,Liverpool,Red Star,4.0,0.0,5.0,0.5,4.5,4.0,53024.0,Anfield,Daniel Siebert,UEFA
+169,2018-2019,Group stage,3,2018-10-24,21:00,Barcelona,Inter,2.0,0.0,2.2,1.0,1.2000000000000002,2.0,86290.0,Camp Nou,Ovidiu Hațegan,UEFA
+170,2018-2019,Group stage,3,2018-10-24,21:00,Paris S-G,Napoli,2.0,2.0,1.1,1.7,-0.5999999999999999,0.0,46274.0,Parc des Princes,Tobias Stieler,UEFA
+171,2018-2019,Group stage,3,2018-10-24,21:00,Dortmund,Atlético Madrid,4.0,0.0,2.0,0.6,1.4,4.0,66099.0,Signal Iduna Park,Anthony Taylor,UEFA
+172,2018-2019,Group stage,3,2018-10-24,22:00,Loko Moscow,Porto,1.0,3.0,2.1,1.5,0.6000000000000001,-2.0,16034.0,RZD Arena,John Beaton,UEFA
+173,2018-2019,Group stage,3,2018-10-24,22:00,Galatasaray,Schalke 04,0.0,0.0,0.6,2.2,-1.6,0.0,46667.0,Türk Telekom Arena,Benoît Bastien,UEFA
+174,2018-2019,Group stage,4,2018-11-06,18:55,Red Star,Liverpool,2.0,0.0,0.7,2.2,-1.5000000000000002,2.0,51318.0,Stadion Rajko Mitić,Antonio Matéu Lahoz,UEFA
+175,2018-2019,Group stage,4,2018-11-06,18:55,Monaco,Club Brugge,0.0,4.0,1.1,1.9,-0.7999999999999998,-4.0,8347.0,Stade Louis II.,Hugo Miguel,UEFA
+176,2018-2019,Group stage,4,2018-11-06,20:00,Porto,Loko Moscow,4.0,1.0,1.4,0.7,0.7,3.0,34616.0,Estádio Do Dragão,Massimiliano Irrati,UEFA
+177,2018-2019,Group stage,4,2018-11-06,20:00,Tottenham,PSV Eindhoven,2.0,1.0,3.5,0.6,2.9,1.0,46588.0,Wembley Stadium,Filip Glova,UEFA
+178,2018-2019,Group stage,4,2018-11-06,21:00,Napoli,Paris S-G,1.0,1.0,2.0,1.3,0.7,0.0,55489.0,Stadio San Paolo,Björn Kuipers,UEFA
+179,2018-2019,Group stage,4,2018-11-06,21:00,Schalke 04,Galatasaray,2.0,0.0,1.5,0.7,0.8,2.0,54740.0,Veltins-Arena,William Collum,UEFA
+180,2018-2019,Group stage,4,2018-11-06,21:00,Atlético Madrid,Dortmund,2.0,0.0,1.5,0.6,0.9,2.0,61023.0,Estadio Wanda Metropolitano,Daniele Orsato,UEFA
+181,2018-2019,Group stage,4,2018-11-06,21:00,Inter,Barcelona,1.0,1.0,1.0,1.6,-0.6000000000000001,0.0,70915.0,Stadio Giuseppe Meazza,Szymon Marciniak,UEFA
+182,2018-2019,Group stage,4,2018-11-07,18:55,Valencia,Young Boys,3.0,1.0,1.8,1.0,0.8,2.0,36480.0,Estadio de Mestalla,István Kovács,UEFA
+183,2018-2019,Group stage,4,2018-11-07,20:00,Benfica,Ajax,1.0,1.0,1.4,1.6,-0.20000000000000018,0.0,51328.0,Estádio do Sport Lisboa e Benfica,Luca Banti,UEFA
+184,2018-2019,Group stage,4,2018-11-07,20:00,Manchester City,Shakhtar,6.0,0.0,3.4,0.4,3.0,6.0,52286.0,Etihad Stadium,Sándor Andó-Szabó,UEFA
+185,2018-2019,Group stage,4,2018-11-07,20:55,CSKA Moscow,Roma,1.0,2.0,1.1,2.4,-1.2999999999999998,-1.0,64454.0,VEB Arena,Baris Şimşek,UEFA
+186,2018-2019,Group stage,4,2018-11-07,21:00,Viktoria Plzeň,Real Madrid,0.0,5.0,0.5,1.6,-1.1,-5.0,11483.0,Doosan Arena,Deniz Aytekin,UEFA
+187,2018-2019,Group stage,4,2018-11-07,21:00,Bayern Munich,AEK Athens,2.0,0.0,2.7,0.4,2.3000000000000003,2.0,70000.0,Allianz Arena,Slavko Vinčič,UEFA
+188,2018-2019,Group stage,4,2018-11-07,21:00,Lyon,Hoffenheim,2.0,2.0,2.5,1.9,0.6000000000000001,0.0,53850.0,Groupama Stadium,Danny Makkelie,UEFA
+189,2018-2019,Group stage,4,2018-11-07,21:00,Juventus,Manchester Utd,1.0,2.0,1.9,0.8,1.0999999999999999,-1.0,41470.0,Allianz Stadium,Ovidiu Hațegan,UEFA
+190,2018-2019,Group stage,5,2018-11-27,19:55,AEK Athens,Ajax,0.0,2.0,0.4,2.2,-1.8000000000000003,-2.0,25756.0,Olympiako Stadio Spyros Louis,Michael Oliver,UEFA
+191,2018-2019,Group stage,5,2018-11-27,20:00,Manchester Utd,Young Boys,1.0,0.0,1.3,0.6,0.7000000000000001,1.0,72876.0,Old Trafford,Felix Brych,UEFA
+192,2018-2019,Group stage,5,2018-11-27,20:55,CSKA Moscow,Viktoria Plzeň,1.0,2.0,2.2,2.0,0.20000000000000018,-1.0,52892.0,VEB Arena,Jochem Kamphuis,UEFA
+193,2018-2019,Group stage,5,2018-11-27,21:00,Roma,Real Madrid,0.0,2.0,2.1,1.7,0.40000000000000013,-2.0,59124.0,Stadio Olimpico,Ruddy Buquet,UEFA
+194,2018-2019,Group stage,5,2018-11-27,21:00,Juventus,Valencia,1.0,0.0,1.8,0.3,1.5,1.0,39070.0,Allianz Stadium,William Collum,UEFA
+195,2018-2019,Group stage,5,2018-11-27,21:00,Lyon,Manchester City,2.0,2.0,2.3,1.0,1.2999999999999998,0.0,56039.0,Groupama Stadium,Luca Banti,UEFA
+196,2018-2019,Group stage,5,2018-11-27,21:00,Hoffenheim,Shakhtar,2.0,3.0,1.3,2.1,-0.8,-1.0,22920.0,PreZero Arena,Filip Glova,UEFA
+197,2018-2019,Group stage,5,2018-11-27,21:00,Bayern Munich,Benfica,5.0,1.0,1.9,0.5,1.4,4.0,70000.0,Allianz Arena,Daniele Orsato,UEFA
+198,2018-2019,Group stage,5,2018-11-28,18:55,Atlético Madrid,Monaco,2.0,0.0,0.9,1.3,-0.4,2.0,56314.0,Estadio Wanda Metropolitano,Mattias Gestranius,UEFA
+199,2018-2019,Group stage,5,2018-11-28,20:00,Tottenham,Inter,1.0,0.0,1.3,1.0,0.30000000000000004,1.0,57132.0,Wembley Stadium,Baris Şimşek,UEFA
+200,2018-2019,Group stage,5,2018-11-28,20:00,Porto,Schalke 04,3.0,1.0,1.6,0.9,0.7000000000000001,2.0,41603.0,Estádio Do Dragão,Ovidiu Hațegan,UEFA
+201,2018-2019,Group stage,5,2018-11-28,20:55,Loko Moscow,Galatasaray,2.0,0.0,1.4,1.3,0.09999999999999987,2.0,14037.0,RZD Arena,Antonio Matéu Lahoz,UEFA
+202,2018-2019,Group stage,5,2018-11-28,21:00,Paris S-G,Liverpool,2.0,1.0,1.5,1.3,0.19999999999999996,1.0,46880.0,Parc des Princes,Tomasz Musiał,UEFA
+203,2018-2019,Group stage,5,2018-11-28,21:00,Dortmund,Club Brugge,0.0,0.0,1.2,0.3,0.8999999999999999,0.0,66099.0,Signal Iduna Park,Gediminas Mažeika,UEFA
+204,2018-2019,Group stage,5,2018-11-28,21:00,Napoli,Red Star,3.0,1.0,2.4,0.8,1.5999999999999999,2.0,44470.0,Stadio San Paolo,Ricardo de Burgos,UEFA
+205,2018-2019,Group stage,5,2018-11-28,21:00,PSV Eindhoven,Barcelona,1.0,2.0,3.0,2.4,0.6000000000000001,-1.0,34600.0,Philips Stadion,Miroslav Zelinka,UEFA
+206,2018-2019,Group stage,6,2018-12-11,18:55,Schalke 04,Loko Moscow,1.0,0.0,2.1,0.7,1.4000000000000001,1.0,48883.0,Veltins-Arena,Tasos Sidiropoulos,UEFA
+207,2018-2019,Group stage,6,2018-12-11,20:00,Liverpool,Napoli,1.0,0.0,3.0,1.2,1.8,1.0,52015.0,Anfield,Damir Skomina,UEFA
+208,2018-2019,Group stage,6,2018-12-11,20:55,Galatasaray,Porto,2.0,3.0,3.9,1.7,2.2,-1.0,33972.0,Türk Telekom Arena,Aliaksei Kulbakou,UEFA
+209,2018-2019,Group stage,6,2018-12-11,21:00,Red Star,Paris S-G,1.0,4.0,0.4,2.9,-2.5,-3.0,48357.0,Stadion Rajko Mitić,William Collum,UEFA
+210,2018-2019,Group stage,6,2018-12-11,21:00,Monaco,Dortmund,0.0,2.0,0.6,2.6,-2.0,-2.0,8731.0,Stade Louis II.,Craig Pawson,UEFA
+211,2018-2019,Group stage,6,2018-12-11,21:00,Club Brugge,Atlético Madrid,0.0,0.0,0.6,0.4,0.19999999999999996,0.0,25645.0,Jan Breydelstadion,Davide Massa,UEFA
+212,2018-2019,Group stage,6,2018-12-11,21:00,Barcelona,Tottenham,1.0,1.0,1.3,2.4,-1.0999999999999999,0.0,69961.0,Camp Nou,Milorad Mažić,UEFA
+213,2018-2019,Group stage,6,2018-12-11,21:00,Inter,PSV Eindhoven,1.0,1.0,1.9,1.2,0.7,0.0,62533.0,Stadio Giuseppe Meazza,Felix Zwayer,UEFA
+214,2018-2019,Group stage,6,2018-12-12,18:55,Viktoria Plzeň,Roma,2.0,1.0,2.0,1.1,0.8999999999999999,1.0,11217.0,Doosan Arena,Anthony Taylor,UEFA
+215,2018-2019,Group stage,6,2018-12-12,18:55,Real Madrid,CSKA Moscow,0.0,3.0,1.3,0.9,0.4,-3.0,51636.0,Estadio Santiago Bernabéu,Hugo Miguel,UEFA
+216,2018-2019,Group stage,6,2018-12-12,20:00,Manchester City,Hoffenheim,2.0,1.0,3.4,1.4,2.0,1.0,50411.0,Etihad Stadium,Andreas Ekberg,UEFA
+217,2018-2019,Group stage,6,2018-12-12,20:00,Benfica,AEK Athens,1.0,0.0,1.8,0.4,1.4,1.0,33633.0,Estádio do Sport Lisboa e Benfica,Bobby Madden,UEFA
+218,2018-2019,Group stage,6,2018-12-12,21:00,Valencia,Manchester Utd,2.0,1.0,1.4,1.8,-0.40000000000000013,1.0,36544.0,Estadio de Mestalla,Georgi Kabakov,UEFA
+219,2018-2019,Group stage,6,2018-12-12,21:00,Young Boys,Juventus,2.0,1.0,1.2,2.1,-0.9000000000000001,1.0,30114.0,Stade de Suisse Wankdorf Bern,Tobias Stieler,UEFA
+220,2018-2019,Group stage,6,2018-12-12,21:00,Ajax,Bayern Munich,3.0,3.0,3.0,3.1,-0.10000000000000009,0.0,52244.0,Johan Cruyff ArenA,Clément Turpin,UEFA
+221,2018-2019,Group stage,6,2018-12-12,22:00,Shakhtar,Lyon,1.0,1.0,1.1,1.3,-0.19999999999999996,0.0,38916.0,NSK Olimpijs'kyj,Björn Kuipers,UEFA
+222,2018-2019,Round of 16,,2019-02-12,20:00,Manchester Utd,Paris S-G,0.0,2.0,0.4,2.5,-2.1,-2.0,74054.0,Old Trafford,Daniele Orsato,UEFA
+223,2018-2019,Round of 16,,2019-02-12,21:00,Roma,Porto,2.0,1.0,1.5,0.6,0.9,1.0,51727.0,Stadio Olimpico,Jochem Kamphuis,UEFA
+224,2018-2019,Round of 16,,2019-02-13,20:00,Tottenham,Dortmund,3.0,0.0,1.8,0.3,1.5,3.0,71214.0,Wembley Stadium,Antonio Matéu Lahoz,UEFA
+225,2018-2019,Round of 16,,2019-02-13,21:00,Ajax,Real Madrid,1.0,2.0,2.2,1.5,0.7000000000000002,-1.0,52286.0,Johan Cruyff ArenA,Szymon Marciniak,UEFA
+226,2018-2019,Round of 16,,2019-02-19,20:00,Liverpool,Bayern Munich,0.0,0.0,2.1,0.4,1.7000000000000002,0.0,52250.0,Anfield,Gianluca Rocchi,UEFA
+227,2018-2019,Round of 16,,2019-02-19,21:00,Lyon,Barcelona,0.0,0.0,0.3,2.1,-1.8,0.0,57889.0,Groupama Stadium,Cüneyt Çakιr,UEFA
+228,2018-2019,Round of 16,,2019-02-20,21:00,Schalke 04,Manchester City,2.0,3.0,1.8,1.6,0.19999999999999996,-1.0,54417.0,Veltins-Arena,Alejandro Hernández,UEFA
+229,2018-2019,Round of 16,,2019-02-20,21:00,Atlético Madrid,Juventus,2.0,0.0,1.4,0.7,0.7,2.0,67193.0,Estadio Wanda Metropolitano,Felix Zwayer,UEFA
+230,2018-2019,Round of 16,,2019-03-05,21:00,Real Madrid,Ajax,1.0,4.0,2.5,2.6,-0.10000000000000009,-3.0,77013.0,Estadio Santiago Bernabéu,Felix Brych,UEFA
+231,2018-2019,Round of 16,,2019-03-05,21:00,Dortmund,Tottenham,0.0,1.0,1.4,1.0,0.3999999999999999,-1.0,66099.0,Signal Iduna Park,Danny Makkelie,UEFA
+232,2018-2019,Round of 16,,2019-03-06,20:00,Porto,Roma,3.0,1.0,4.2,1.9,2.3000000000000003,2.0,49029.0,Estádio Do Dragão,Paweł Gil,UEFA
+233,2018-2019,Round of 16,,2019-03-06,21:00,Paris S-G,Manchester Utd,1.0,3.0,1.4,2.1,-0.7000000000000002,-2.0,47441.0,Parc des Princes,Damir Skomina,UEFA
+234,2018-2019,Round of 16,,2019-03-12,20:00,Manchester City,Schalke 04,7.0,0.0,3.7,0.1,3.6,7.0,51518.0,Etihad Stadium,Clément Turpin,UEFA
+235,2018-2019,Round of 16,,2019-03-12,21:00,Juventus,Atlético Madrid,3.0,0.0,2.5,0.4,2.1,3.0,40884.0,Allianz Stadium,Björn Kuipers,UEFA
+236,2018-2019,Round of 16,,2019-03-13,21:00,Barcelona,Lyon,5.0,1.0,4.3,0.6,3.6999999999999997,4.0,92346.0,Camp Nou,Szymon Marciniak,UEFA
+237,2018-2019,Round of 16,,2019-03-13,21:00,Bayern Munich,Liverpool,1.0,3.0,0.3,1.1,-0.8,-2.0,68145.0,Allianz Arena,Daniele Orsato,UEFA
+238,2018-2019,Quarter-finals,,2019-04-09,20:00,Liverpool,Porto,2.0,0.0,2.3,0.8,1.4999999999999998,2.0,52465.0,Anfield,Antonio Matéu Lahoz,UEFA
+239,2018-2019,Quarter-finals,,2019-04-09,20:00,Tottenham,Manchester City,1.0,0.0,0.9,1.3,-0.4,1.0,60044.0,Tottenham Hotspur Stadium,Björn Kuipers,UEFA
+240,2018-2019,Quarter-finals,,2019-04-10,20:00,Manchester Utd,Barcelona,0.0,1.0,0.5,1.1,-0.6000000000000001,-1.0,74093.0,Old Trafford,Gianluca Rocchi,UEFA
+241,2018-2019,Quarter-finals,,2019-04-10,21:00,Ajax,Juventus,1.0,1.0,1.2,0.7,0.5,0.0,50390.0,Johan Cruyff ArenA,Carlos del Cerro,UEFA
+242,2018-2019,Quarter-finals,,2019-04-16,21:00,Juventus,Ajax,1.0,2.0,0.8,2.2,-1.4000000000000001,-1.0,41445.0,Allianz Stadium,Clément Turpin,UEFA
+243,2018-2019,Quarter-finals,,2019-04-16,21:00,Barcelona,Manchester Utd,3.0,0.0,1.4,0.4,0.9999999999999999,3.0,96708.0,Camp Nou,Felix Brych,UEFA
+244,2018-2019,Quarter-finals,,2019-04-17,20:00,Porto,Liverpool,1.0,4.0,1.0,3.5,-2.5,-3.0,49117.0,Estádio Do Dragão,Danny Makkelie,UEFA
+245,2018-2019,Quarter-finals,,2019-04-17,20:00,Manchester City,Tottenham,4.0,3.0,2.5,0.7,1.8,1.0,53348.0,Etihad Stadium,Cüneyt Çakιr,UEFA
+246,2018-2019,Semi-finals,,2019-04-30,20:00,Tottenham,Ajax,0.0,1.0,0.6,1.3,-0.7000000000000001,-1.0,60243.0,Tottenham Hotspur Stadium,Antonio Matéu Lahoz,UEFA
+248,2018-2019,Semi-finals,,2019-05-01,21:00,Barcelona,Liverpool,3.0,0.0,2.4,1.8,0.5999999999999999,3.0,98299.0,Camp Nou,Björn Kuipers,UEFA
+249,2018-2019,Semi-finals,,2019-05-07,20:00,Liverpool,Barcelona,4.0,0.0,2.3,1.4,0.8999999999999999,4.0,55212.0,Anfield,Cüneyt Çakιr,UEFA
+250,2018-2019,Semi-finals,,2019-05-08,21:00,Ajax,Tottenham,2.0,3.0,1.6,4.2,-2.6,-1.0,52641.0,Johan Cruyff ArenA,Felix Brych,UEFA
+251,2018-2019,Final,,2019-06-01,21:00,Tottenham,Liverpool,0.0,2.0,0.8,1.3,-0.5,-2.0,63272.0,Estadio Wanda Metropolitano,Damir Skomina,UEFA
+252,2019-2020,Group stage,1.0,2019-09-17,18:55,Lyon,Zenit,1.0,1.0,1.6,1.0,0.6000000000000001,0.0,47201.0,Groupama Stadium,Michael Oliver,UEFA
+253,2019-2020,Group stage,1.0,2019-09-17,18:55,Inter,Slavia Prague,1.0,1.0,1.4,1.0,0.3999999999999999,0.0,50128.0,Stadio Giuseppe Meazza,Ruddy Buquet,UEFA
+254,2019-2020,Group stage,1.0,2019-09-17,20:00,Chelsea,Valencia,0.0,1.0,2.8,1.0,1.7999999999999998,-1.0,39469.0,Stamford Bridge,Cüneyt Çakιr,UEFA
+255,2019-2020,Group stage,1.0,2019-09-17,20:00,Benfica,RB Leipzig,1.0,2.0,1.8,1.0,0.8,-1.0,46460.0,Estádio do Sport Lisboa e Benfica,Tasos Sidiropoulos,UEFA
+256,2019-2020,Group stage,1.0,2019-09-17,21:00,Dortmund,Barcelona,0.0,0.0,3.4,0.4,3.0,0.0,66099.0,Signal Iduna Park,Ovidiu Hațegan,UEFA
+257,2019-2020,Group stage,1.0,2019-09-17,21:00,RB Salzburg,Genk,6.0,2.0,4.3,0.7,3.5999999999999996,4.0,29520.0,Red Bull Arena,Felix Zwayer,UEFA
+258,2019-2020,Group stage,1.0,2019-09-17,21:00,Ajax,Lille,3.0,0.0,1.5,2.0,-0.5,3.0,51441.0,Johan Cruyff ArenA,Srđan Jovanović,UEFA
+259,2019-2020,Group stage,1.0,2019-09-17,21:00,Napoli,Liverpool,2.0,0.0,1.8,0.7,1.1,2.0,38878.0,Stadio San Paolo,Felix Brych,UEFA
+260,2019-2020,Group stage,1.0,2019-09-18,18:55,Club Brugge,Galatasaray,0.0,0.0,1.7,0.6,1.1,0.0,26616.0,Jan Breydelstadion,Slavko Vinčič,UEFA
+261,2019-2020,Group stage,1.0,2019-09-18,19:55,Olympiacos,Tottenham,2.0,2.0,1.7,1.7,0.0,0.0,31001.0,Stadio Georgios Karaiskáki,Gianluca Rocchi,UEFA
+262,2019-2020,Group stage,1.0,2019-09-18,21:00,Atlético Madrid,Juventus,2.0,2.0,2.3,1.1,1.1999999999999997,0.0,66283.0,Estadio Wanda Metropolitano,Danny Makkelie,UEFA
+263,2019-2020,Group stage,1.0,2019-09-18,21:00,Paris S-G,Real Madrid,3.0,0.0,1.7,0.6,1.1,3.0,46361.0,Parc des Princes,Anthony Taylor,UEFA
+264,2019-2020,Group stage,1.0,2019-09-18,21:00,Bayern Munich,Red Star,3.0,0.0,4.3,0.3,4.0,3.0,70000.0,Allianz Arena,Bobby Madden,UEFA
+265,2019-2020,Group stage,1.0,2019-09-18,21:00,Dinamo Zagreb,Atalanta,4.0,0.0,2.7,1.8,0.9000000000000001,4.0,28863.0,Stadion Maksimir,Jesús Gil,UEFA
+266,2019-2020,Group stage,1.0,2019-09-18,21:00,Leverkusen,Loko Moscow,1.0,2.0,1.5,0.9,0.6,-1.0,26592.0,BayArena,Paweł Raczkowski,UEFA
+267,2019-2020,Group stage,1.0,2019-09-18,22:00,Shakhtar,Manchester City,0.0,3.0,0.9,2.5,-1.6,-3.0,36675.0,Oblasny SportKomplex Metalist,Artur Soares Dias,UEFA
+268,2019-2020,Group stage,2.0,2019-10-01,18:55,Atalanta,Shakhtar,1.0,2.0,2.5,1.5,1.0,-1.0,26022.0,Stadio Giuseppe Meazza,Tobias Stieler,UEFA
+269,2019-2020,Group stage,2.0,2019-10-01,18:55,Real Madrid,Club Brugge,2.0,2.0,2.3,1.4,0.8999999999999999,0.0,65112.0,Estadio Santiago Bernabéu,Georgi Kabakov,UEFA
+270,2019-2020,Group stage,2.0,2019-10-01,20:00,Manchester City,Dinamo Zagreb,2.0,0.0,3.6,0.1,3.5,2.0,49046.0,Etihad Stadium,Serdar Gözübüyük,UEFA
+271,2019-2020,Group stage,2.0,2019-10-01,20:00,Tottenham,Bayern Munich,2.0,7.0,1.9,1.3,0.5999999999999999,-5.0,60127.0,Tottenham Hotspur Stadium,Clément Turpin,UEFA
+272,2019-2020,Group stage,2.0,2019-10-01,21:00,Juventus,Leverkusen,3.0,0.0,1.2,0.5,0.7,3.0,34525.0,Allianz Stadium,William Collum,UEFA
+273,2019-2020,Group stage,2.0,2019-10-01,21:00,Red Star,Olympiacos,3.0,1.0,1.3,0.9,0.4,2.0,43291.0,Stadion Rajko Mitić,Benoît Bastien,UEFA
+274,2019-2020,Group stage,2.0,2019-10-01,22:00,Loko Moscow,Atlético Madrid,0.0,2.0,1.1,2.9,-1.7999999999999998,-2.0,27051.0,RZD Arena,Orel Grinfeeld,UEFA
+275,2019-2020,Group stage,2.0,2019-10-01,22:00,Galatasaray,Paris S-G,0.0,1.0,0.5,2.6,-2.1,-1.0,46532.0,Türk Telekom Arena,Szymon Marciniak,UEFA
+276,2019-2020,Group stage,2.0,2019-10-02,18:55,Genk,Napoli,0.0,0.0,0.7,3.2,-2.5,0.0,19962.0,Luminus Arena,István Kovács,UEFA
+277,2019-2020,Group stage,2.0,2019-10-02,18:55,Slavia Prague,Dortmund,0.0,2.0,1.4,0.8,0.5999999999999999,-2.0,19370.0,Sinobo Stadium,Björn Kuipers,UEFA
+278,2019-2020,Group stage,2.0,2019-10-02,20:00,Liverpool,RB Salzburg,4.0,3.0,2.5,1.6,0.8999999999999999,1.0,52243.0,Anfield,Andreas Ekberg,UEFA
+279,2019-2020,Group stage,2.0,2019-10-02,21:00,Barcelona,Inter,2.0,1.0,1.5,1.1,0.3999999999999999,1.0,86141.0,Camp Nou,Damir Skomina,UEFA
+280,2019-2020,Group stage,2.0,2019-10-02,21:00,RB Leipzig,Lyon,0.0,2.0,1.9,1.5,0.3999999999999999,-2.0,40194.0,Red Bull Arena,Antonio Matéu Lahoz,UEFA
+281,2019-2020,Group stage,2.0,2019-10-02,21:00,Lille,Chelsea,1.0,2.0,0.6,1.4,-0.7999999999999999,-1.0,48523.0,Stade Pierre-Mauroy,Aliaksei Kulbakou,UEFA
+282,2019-2020,Group stage,2.0,2019-10-02,21:00,Valencia,Ajax,0.0,3.0,2.0,1.7,0.30000000000000004,-3.0,44659.0,Estadio de Mestalla,Daniele Orsato,UEFA
+283,2019-2020,Group stage,2.0,2019-10-02,22:00,Zenit,Benfica,3.0,1.0,2.1,1.2,0.9000000000000001,2.0,51683.0,Gazprom Arena,Carlos del Cerro,UEFA
+284,2019-2020,Group stage,3.0,2019-10-22,18:55,Atlético Madrid,Leverkusen,1.0,0.0,0.8,0.5,0.30000000000000004,1.0,56776.0,Estadio Wanda Metropolitano,Artur Soares Dias,UEFA
+285,2019-2020,Group stage,3.0,2019-10-22,19:55,Shakhtar,Dinamo Zagreb,2.0,2.0,1.5,2.1,-0.6000000000000001,0.0,21526.0,Oblasny SportKomplex Metalist,Antonio Matéu Lahoz,UEFA
+286,2019-2020,Group stage,3.0,2019-10-22,20:00,Tottenham,Red Star,5.0,0.0,3.7,0.6,3.1,5.0,51743.0,Tottenham Hotspur Stadium,Marco Guida,UEFA
+287,2019-2020,Group stage,3.0,2019-10-22,20:00,Manchester City,Atalanta,5.0,1.0,4.2,1.8,2.4000000000000004,4.0,49308.0,Etihad Stadium,Orel Grinfeeld,UEFA
+288,2019-2020,Group stage,3.0,2019-10-22,21:00,Club Brugge,Paris S-G,0.0,5.0,0.3,3.5,-3.2,-5.0,26946.0,Jan Breydelstadion,Daniel Siebert,UEFA
+289,2019-2020,Group stage,3.0,2019-10-22,21:00,Juventus,Loko Moscow,2.0,1.0,2.4,0.7,1.7,1.0,38547.0,Allianz Stadium,Tasos Sidiropoulos,UEFA
+290,2019-2020,Group stage,3.0,2019-10-22,22:00,Olympiacos,Bayern Munich,2.0,3.0,0.5,2.6,-2.1,-1.0,31670.0,Stadio Georgios Karaiskáki,Danny Makkelie,UEFA
+291,2019-2020,Group stage,3.0,2019-10-22,22:00,Galatasaray,Real Madrid,0.0,1.0,1.2,2.4,-1.2,-1.0,48886.0,Türk Telekom Arena,Daniele Orsato,UEFA
+292,2019-2020,Group stage,3.0,2019-10-23,18:55,RB Leipzig,Zenit,2.0,1.0,2.2,0.7,1.5000000000000002,1.0,41058.0,Red Bull Arena,Ali Palabıyık,UEFA
+293,2019-2020,Group stage,3.0,2019-10-23,18:55,Ajax,Chelsea,0.0,1.0,0.5,1.6,-1.1,-1.0,52482.0,Johan Cruyff ArenA,Ovidiu Hațegan,UEFA
+294,2019-2020,Group stage,3.0,2019-10-23,20:00,Benfica,Lyon,2.0,1.0,0.5,1.5,-1.0,1.0,53035.0,Estádio do Sport Lisboa e Benfica,Ivan Kružliak,UEFA
+295,2019-2020,Group stage,3.0,2019-10-23,21:00,Inter,Dortmund,2.0,0.0,2.1,0.4,1.7000000000000002,2.0,65673.0,Stadio Giuseppe Meazza,Anthony Taylor,UEFA
+296,2019-2020,Group stage,3.0,2019-10-23,21:00,RB Salzburg,Napoli,2.0,3.0,2.7,0.9,1.8000000000000003,-1.0,29520.0,Red Bull Arena,Clément Turpin,UEFA
+297,2019-2020,Group stage,3.0,2019-10-23,21:00,Lille,Valencia,1.0,1.0,1.9,0.6,1.2999999999999998,0.0,47488.0,Stade Pierre-Mauroy,Deniz Aytekin,UEFA
+298,2019-2020,Group stage,3.0,2019-10-23,21:00,Genk,Liverpool,1.0,4.0,1.3,2.5,-1.2,-3.0,19626.0,Luminus Arena,Slavko Vinčič,UEFA
+299,2019-2020,Group stage,3.0,2019-10-23,21:00,Slavia Prague,Barcelona,1.0,2.0,1.5,2.5,-1.0,-1.0,19170.0,Sinobo Stadium,Bobby Madden,UEFA
+300,2019-2020,Group stage,4.0,2019-11-05,18:55,Barcelona,Slavia Prague,0.0,0.0,2.3,0.3,1.9999999999999998,0.0,67023.0,Camp Nou,Michael Oliver,UEFA
+301,2019-2020,Group stage,4.0,2019-11-05,20:00,Liverpool,Genk,2.0,1.0,2.3,0.7,1.5999999999999999,1.0,52611.0,Anfield,Ivan Kružliak,UEFA
+302,2019-2020,Group stage,4.0,2019-11-05,20:00,Chelsea,Ajax,4.0,4.0,4.8,1.0,3.8,0.0,39132.0,Stamford Bridge,Gianluca Rocchi,UEFA
+303,2019-2020,Group stage,4.0,2019-11-05,20:55,Zenit,RB Leipzig,0.0,2.0,1.2,1.4,-0.19999999999999996,-2.0,50452.0,Gazprom Arena,Orel Grinfeeld,UEFA
+304,2019-2020,Group stage,4.0,2019-11-05,21:00,Valencia,Lille,4.0,1.0,2.3,1.5,0.7999999999999998,3.0,38252.0,Estadio de Mestalla,Sergey Karasev,UEFA
+305,2019-2020,Group stage,4.0,2019-11-05,21:00,Napoli,RB Salzburg,1.0,1.0,2.7,1.5,1.2000000000000002,0.0,32862.0,Stadio San Paolo,Szymon Marciniak,UEFA
+306,2019-2020,Group stage,4.0,2019-11-05,21:00,Dortmund,Inter,3.0,2.0,3.5,1.4,2.1,1.0,66099.0,Signal Iduna Park,Danny Makkelie,UEFA
+307,2019-2020,Group stage,4.0,2019-11-05,21:00,Lyon,Benfica,3.0,1.0,1.4,1.3,0.09999999999999987,2.0,51077.0,Groupama Stadium,Björn Kuipers,UEFA
+308,2019-2020,Group stage,4.0,2019-11-06,18:55,Bayern Munich,Olympiacos,2.0,0.0,3.3,0.2,3.0999999999999996,2.0,63646.0,Allianz Arena,Paweł Raczkowski,UEFA
+309,2019-2020,Group stage,4.0,2019-11-06,20:55,Loko Moscow,Juventus,1.0,2.0,2.4,2.4,0.0,-1.0,26862.0,RZD Arena,Ruddy Buquet,UEFA
+310,2019-2020,Group stage,4.0,2019-11-06,21:00,Atalanta,Manchester City,1.0,1.0,0.7,2.0,-1.3,0.0,34326.0,Stadio Giuseppe Meazza,Aliaksei Kulbakou,UEFA
+311,2019-2020,Group stage,4.0,2019-11-06,21:00,Leverkusen,Atlético Madrid,2.0,1.0,1.3,2.0,-0.7,1.0,28160.0,BayArena,Damir Skomina,UEFA
+312,2019-2020,Group stage,4.0,2019-11-06,21:00,Paris S-G,Club Brugge,1.0,0.0,1.9,1.8,0.09999999999999987,1.0,47418.0,Parc des Princes,Bobby Madden,UEFA
+313,2019-2020,Group stage,4.0,2019-11-06,21:00,Real Madrid,Galatasaray,6.0,0.0,4.2,0.6,3.6,6.0,65492.0,Estadio Santiago Bernabéu,Felix Zwayer,UEFA
+314,2019-2020,Group stage,4.0,2019-11-06,21:00,Red Star,Tottenham,0.0,4.0,0.5,2.5,-2.0,-4.0,42381.0,Stadion Rajko Mitić,Carlos del Cerro,UEFA
+315,2019-2020,Group stage,4.0,2019-11-06,21:00,Dinamo Zagreb,Shakhtar,3.0,3.0,2.0,2.7,-0.7000000000000002,0.0,28316.0,Stadion Maksimir,Felix Brych,UEFA
+316,2019-2020,Group stage,5.0,2019-11-26,20:00,Manchester City,Shakhtar,1.0,1.0,1.2,1.0,0.19999999999999996,0.0,52020.0,Etihad Stadium,Slavko Vinčič,UEFA
+317,2019-2020,Group stage,5.0,2019-11-26,20:00,Tottenham,Olympiacos,4.0,2.0,2.2,1.2,1.0000000000000002,2.0,57024.0,Tottenham Hotspur Stadium,Georgi Kabakov,UEFA
+318,2019-2020,Group stage,5.0,2019-11-26,20:55,Galatasaray,Club Brugge,1.0,1.0,0.9,1.1,-0.20000000000000007,0.0,34500.0,Türk Telekom Arena,Ivan Kružliak,UEFA
+319,2019-2020,Group stage,5.0,2019-11-26,20:55,Loko Moscow,Leverkusen,0.0,2.0,1.0,0.7,0.30000000000000004,-2.0,25757.0,RZD Arena,Michael Oliver,UEFA
+320,2019-2020,Group stage,5.0,2019-11-26,21:00,Real Madrid,Paris S-G,2.0,2.0,3.9,2.4,1.5,0.0,75534.0,Estadio Santiago Bernabéu,Artur Soares Dias,UEFA
+321,2019-2020,Group stage,5.0,2019-11-26,21:00,Red Star,Bayern Munich,0.0,6.0,0.2,4.9,-4.7,-6.0,44118.0,Stadion Rajko Mitić,Björn Kuipers,UEFA
+322,2019-2020,Group stage,5.0,2019-11-26,21:00,Juventus,Atlético Madrid,1.0,0.0,0.4,0.7,-0.29999999999999993,1.0,40486.0,Allianz Stadium,Anthony Taylor,UEFA
+323,2019-2020,Group stage,5.0,2019-11-26,21:00,Atalanta,Dinamo Zagreb,2.0,0.0,3.0,0.3,2.7,2.0,26496.0,Stadio Giuseppe Meazza,Sergey Karasev,UEFA
+324,2019-2020,Group stage,5.0,2019-11-27,18:55,Valencia,Chelsea,2.0,2.0,3.1,2.1,1.0,0.0,43486.0,Estadio de Mestalla,Felix Zwayer,UEFA
+325,2019-2020,Group stage,5.0,2019-11-27,20:00,Liverpool,Napoli,1.0,1.0,0.8,0.5,0.30000000000000004,0.0,52128.0,Anfield,Carlos del Cerro,UEFA
+326,2019-2020,Group stage,5.0,2019-11-27,20:55,Zenit,Lyon,2.0,0.0,0.9,0.6,0.30000000000000004,2.0,51183.0,Gazprom Arena,Daniele Orsato,UEFA
+327,2019-2020,Group stage,5.0,2019-11-27,21:00,Slavia Prague,Inter,1.0,3.0,2.4,2.3,0.10000000000000009,-2.0,19370.0,Sinobo Stadium,Szymon Marciniak,UEFA
+328,2019-2020,Group stage,5.0,2019-11-27,21:00,Genk,RB Salzburg,1.0,4.0,1.6,3.0,-1.4,-3.0,17284.0,Luminus Arena,Mattias Gestranius,UEFA
+329,2019-2020,Group stage,5.0,2019-11-27,21:00,Lille,Ajax,0.0,2.0,2.4,1.6,0.7999999999999998,-2.0,48612.0,Stade Pierre-Mauroy,Felix Brych,UEFA
+330,2019-2020,Group stage,5.0,2019-11-27,21:00,RB Leipzig,Benfica,2.0,2.0,3.2,0.9,2.3000000000000003,0.0,38339.0,Red Bull Arena,Jesús Gil,UEFA
+331,2019-2020,Group stage,5.0,2019-11-27,21:00,Barcelona,Dortmund,3.0,1.0,2.4,1.6,0.7999999999999998,2.0,90071.0,Camp Nou,Clément Turpin,UEFA
+332,2019-2020,Group stage,6.0,2019-12-10,18:55,Napoli,Genk,4.0,0.0,3.0,1.8,1.2,4.0,22265.0,Stadio San Paolo,Cüneyt Çakιr,UEFA
+333,2019-2020,Group stage,6.0,2019-12-10,18:55,RB Salzburg,Liverpool,0.0,2.0,0.7,3.4,-2.7,-2.0,29520.0,Red Bull Arena,Danny Makkelie,UEFA
+334,2019-2020,Group stage,6.0,2019-12-10,20:00,Benfica,Zenit,3.0,0.0,2.4,0.1,2.3,3.0,40232.0,Estádio do Sport Lisboa e Benfica,Antonio Matéu Lahoz,UEFA
+335,2019-2020,Group stage,6.0,2019-12-10,20:00,Chelsea,Lille,2.0,1.0,2.7,0.3,2.4000000000000004,1.0,40016.0,Stamford Bridge,Anastasios Sidiropoulos,UEFA
+336,2019-2020,Group stage,6.0,2019-12-10,21:00,Inter,Barcelona,1.0,2.0,1.7,1.5,0.19999999999999996,-1.0,71818.0,Stadio Giuseppe Meazza,Björn Kuipers,UEFA
+337,2019-2020,Group stage,6.0,2019-12-10,21:00,Lyon,RB Leipzig,2.0,2.0,1.1,3.4,-2.3,0.0,53288.0,Groupama Stadium,Anthony Taylor,UEFA
+338,2019-2020,Group stage,6.0,2019-12-10,21:00,Ajax,Valencia,0.0,1.0,1.2,1.1,0.09999999999999987,-1.0,51931.0,Johan Cruyff ArenA,Clément Turpin,UEFA
+339,2019-2020,Group stage,6.0,2019-12-10,21:00,Dortmund,Slavia Prague,2.0,1.0,2.9,2.8,0.10000000000000009,1.0,65079.0,Signal Iduna Park,Sergey Karasev,UEFA
+340,2019-2020,Group stage,6.0,2019-12-11,18:55,Dinamo Zagreb,Manchester City,1.0,4.0,0.4,3.6,-3.2,-3.0,29385.0,Stadion Maksimir,Carlos del Cerro,UEFA
+341,2019-2020,Group stage,6.0,2019-12-11,19:55,Shakhtar,Atalanta,0.0,3.0,0.6,2.9,-2.3,-3.0,26536.0,Oblasny SportKomplex Metalist,Felix Zwayer,UEFA
+342,2019-2020,Group stage,6.0,2019-12-11,21:00,Paris S-G,Galatasaray,5.0,0.0,4.4,0.3,4.1000000000000005,5.0,46509.0,Parc des Princes,István Kovács,UEFA
+343,2019-2020,Group stage,6.0,2019-12-11,21:00,Bayern Munich,Tottenham,3.0,1.0,2.9,1.0,1.9,2.0,66353.0,Allianz Arena,Gianluca Rocchi,UEFA
+344,2019-2020,Group stage,6.0,2019-12-11,21:00,Atlético Madrid,Loko Moscow,2.0,0.0,3.2,0.1,3.1,2.0,58426.0,Estadio Wanda Metropolitano,Viktor Kassai,UEFA
+345,2019-2020,Group stage,6.0,2019-12-11,21:00,Leverkusen,Juventus,0.0,2.0,2.2,0.9,1.3000000000000003,-2.0,29542.0,BayArena,Benoît Bastien,UEFA
+346,2019-2020,Group stage,6.0,2019-12-11,21:00,Club Brugge,Real Madrid,1.0,3.0,1.0,1.2,-0.19999999999999996,-2.0,27308.0,Jan Breydelstadion,Tobias Stieler,UEFA
+347,2019-2020,Group stage,6.0,2019-12-11,22:00,Olympiacos,Red Star,1.0,0.0,3.5,1.2,2.3,1.0,31898.0,Stadio Georgios Karaiskáki,Daniele Orsato,UEFA
+348,2019-2020,Round of 16,,2020-02-18,21:00,Dortmund,Paris S-G,2.0,1.0,1.3,1.5,-0.19999999999999996,1.0,66099.0,Signal Iduna Park,Antonio Matéu Lahoz,UEFA
+349,2019-2020,Round of 16,,2020-02-18,21:00,Atlético Madrid,Liverpool,1.0,0.0,1.2,0.5,0.7,1.0,67443.0,Estadio Wanda Metropolitano,Szymon Marciniak,UEFA
+350,2019-2020,Round of 16,,2020-02-19,20:00,Tottenham,RB Leipzig,0.0,1.0,1.1,2.1,-1.0,-1.0,60095.0,Tottenham Hotspur Stadium,Cüneyt Çakιr,UEFA
+351,2019-2020,Round of 16,,2020-02-19,21:00,Atalanta,Valencia,4.0,1.0,1.8,2.5,-0.7,3.0,44236.0,Stadio Giuseppe Meazza,Michael Oliver,UEFA
+352,2019-2020,Round of 16,,2020-02-25,20:00,Chelsea,Bayern Munich,0.0,3.0,1.1,3.4,-2.3,-3.0,36761.0,Stamford Bridge,Clément Turpin,UEFA
+353,2019-2020,Round of 16,,2020-02-25,21:00,Napoli,Barcelona,1.0,1.0,0.7,1.6,-0.9000000000000001,0.0,44388.0,Stadio San Paolo,Felix Brych,UEFA
+354,2019-2020,Round of 16,,2020-02-26,21:00,Real Madrid,Manchester City,1.0,2.0,1.2,3.2,-2.0,-1.0,75615.0,Estadio Santiago Bernabéu,Daniele Orsato,UEFA
+355,2019-2020,Round of 16,,2020-02-26,21:00,Lyon,Juventus,1.0,0.0,1.1,1.1,0.0,1.0,57335.0,Groupama Stadium,Jesús Gil,UEFA
+356,2019-2020,Round of 16,,2020-03-10,21:00,Valencia,Atalanta,3.0,4.0,2.2,2.7,-0.5,-1.0,,Estadio de Mestalla,Ovidiu Hațegan,UEFA
+357,2019-2020,Round of 16,,2020-03-10,21:00,RB Leipzig,Tottenham,3.0,0.0,0.9,0.3,0.6000000000000001,3.0,42146.0,Red Bull Arena,Carlos del Cerro,UEFA
+358,2019-2020,Round of 16,,2020-03-11,20:00,Liverpool,Atlético Madrid,2.0,3.0,3.4,1.1,2.3,-1.0,52267.0,Anfield,Danny Makkelie,UEFA
+359,2019-2020,Round of 16,,2020-03-11,21:00,Paris S-G,Dortmund,2.0,0.0,1.2,0.5,0.7,2.0,,Parc des Princes,Anthony Taylor,UEFA
+360,2019-2020,Round of 16,,2020-08-07,20:00,Manchester City,Real Madrid,2.0,1.0,2.1,0.8,1.3,1.0,,Etihad Stadium,Felix Brych,UEFA
+361,2019-2020,Round of 16,,2020-08-07,21:00,Juventus,Lyon,2.0,1.0,2.6,1.0,1.6,1.0,,Allianz Stadium,Felix Zwayer,UEFA
+362,2019-2020,Round of 16,,2020-08-08,21:00,Barcelona,Napoli,3.0,1.0,1.1,2.2,-1.1,2.0,,Camp Nou,Cüneyt Çakιr,UEFA
+363,2019-2020,Round of 16,,2020-08-08,21:00,Bayern Munich,Chelsea,4.0,1.0,2.9,1.0,1.9,3.0,,Allianz Arena,Ovidiu Hațegan,UEFA
+364,2019-2020,Quarter-finals,,2020-08-12,21:00,Atalanta,Paris S-G,1.0,2.0,0.5,2.8,-2.3,-1.0,,Estádio do Sport Lisboa e Benfica (Neutral Site),Anthony Taylor,UEFA
+365,2019-2020,Quarter-finals,,2020-08-13,21:00,RB Leipzig,Atlético Madrid,2.0,1.0,0.9,1.1,-0.20000000000000007,1.0,,Estádio José Alvalade (Neutral Site),Szymon Marciniak,UEFA
+366,2019-2020,Quarter-finals,,2020-08-14,20:00,Barcelona,Bayern Munich,2.0,8.0,1.1,5.3,-4.199999999999999,-6.0,,Estádio do Sport Lisboa e Benfica (Neutral Site),Damir Skomina,UEFA
+367,2019-2020,Quarter-finals,,2020-08-15,20:00,Manchester City,Lyon,1.0,3.0,2.5,1.0,1.5,-2.0,,Estádio José Alvalade (Neutral Site),Danny Makkelie,UEFA
+368,2019-2020,Semi-finals,,2020-08-18,20:00,RB Leipzig,Paris S-G,0.0,3.0,1.0,3.2,-2.2,-3.0,,Estádio do Sport Lisboa e Benfica,Björn Kuipers,UEFA
+369,2019-2020,Semi-finals,,2020-08-19,20:00,Lyon,Bayern Munich,0.0,3.0,1.8,3.2,-1.4000000000000001,-3.0,,Estádio José Alvalade,Antonio Matéu Lahoz,UEFA
+370,2019-2020,Final,,2020-08-23,20:00,Paris S-G,Bayern Munich,0.0,1.0,1.1,1.5,-0.3999999999999999,-1.0,,Estádio do Sport Lisboa e Benfica,Daniele Orsato,UEFA
+371,2020-2021,Group stage,1,2020-10-20,19:55,Zenit,Club Brugge,1.0,2.0,2.2,2.0,0.20000000000000018,-1.0,16682.0,Gazprom Arena,Benoît Bastien,UEFA
+372,2020-2021,Group stage,1,2020-10-20,19:55,Dynamo Kyiv,Juventus,0.0,2.0,0.5,2.0,-1.5,-2.0,14850.0,NSK Olimpijs'kyj,Ovidiu Hațegan,UEFA
+373,2020-2021,Group stage,1,2020-10-20,20:00,Chelsea,Sevilla,0.0,0.0,0.4,0.2,0.2,0.0,,Stamford Bridge,Davide Massa,UEFA
+374,2020-2021,Group stage,1,2020-10-20,21:00,Barcelona,Ferencváros,5.0,1.0,2.8,1.3,1.4999999999999998,4.0,,Camp Nou,Sandro Schärer,UEFA
+375,2020-2021,Group stage,1,2020-10-20,21:00,RB Leipzig,Başakşehir,2.0,0.0,1.0,0.6,0.4,2.0,999.0,Red Bull Arena,Jesús Gil,UEFA
+376,2020-2021,Group stage,1,2020-10-20,21:00,Rennes,Krasnodar,1.0,1.0,2.7,1.4,1.3000000000000003,0.0,4973.0,Roazhon Park,Anastasios Sidiropoulos,UEFA
+377,2020-2021,Group stage,1,2020-10-20,21:00,Paris S-G,Manchester Utd,1.0,2.0,1.4,1.4,0.0,-1.0,,Parc des Princes,Antonio Matéu Lahoz,UEFA
+378,2020-2021,Group stage,1,2020-10-20,21:00,Lazio,Dortmund,3.0,1.0,1.7,1.3,0.3999999999999999,2.0,1000.0,Stadio Olimpico,Clément Turpin,UEFA
+379,2020-2021,Group stage,1,2020-10-21,18:55,Real Madrid,Shakhtar,2.0,3.0,1.0,1.7,-0.7,-1.0,,Estadio Alfredo Di Stéfano,Srđan Jovanović,UEFA
+380,2020-2021,Group stage,1,2020-10-21,18:55,RB Salzburg,Loko Moscow,2.0,2.0,1.1,0.8,0.30000000000000004,0.0,3000.0,Red Bull Arena,Serdar Gözübüyük,UEFA
+381,2020-2021,Group stage,1,2020-10-21,20:00,Manchester City,Porto,3.0,1.0,1.5,0.2,1.3,2.0,,Etihad Stadium,Andris Treimanis,UEFA
+382,2020-2021,Group stage,1,2020-10-21,21:00,Bayern Munich,Atlético Madrid,4.0,0.0,2.6,0.4,2.2,4.0,,Allianz Arena,Michael Oliver,UEFA
+383,2020-2021,Group stage,1,2020-10-21,21:00,Inter,M'Gladbach,2.0,2.0,2.8,1.4,1.4,0.0,1000.0,Stadio Giuseppe Meazza,Björn Kuipers,UEFA
+384,2020-2021,Group stage,1,2020-10-21,21:00,Ajax,Liverpool,0.0,1.0,1.4,1.1,0.2999999999999998,-1.0,,Johan Cruyff ArenA,Felix Brych,UEFA
+385,2020-2021,Group stage,1,2020-10-21,21:00,Midtjylland,Atalanta,0.0,4.0,0.8,2.5,-1.7,-4.0,132.0,MCH Arena,Artur Soares Dias,UEFA
+386,2020-2021,Group stage,1,2020-10-21,22:00,Olympiacos,Marseille,1.0,0.0,1.0,0.9,0.09999999999999998,1.0,,Stadio Georgios Karaiskáki,Daniele Orsato,UEFA
+387,2020-2021,Group stage,2,2020-10-27,19:55,Shakhtar,Inter,0.0,0.0,0.1,1.7,-1.5999999999999999,0.0,10178.0,Oblasny SportKomplex Metalist,Georgi Kabakov,UEFA
+388,2020-2021,Group stage,2,2020-10-27,20:00,Liverpool,Midtjylland,2.0,0.0,2.2,1.2,1.0000000000000002,2.0,,Anfield,Paweł Raczkowski,UEFA
+389,2020-2021,Group stage,2,2020-10-27,20:00,Porto,Olympiacos,2.0,0.0,1.4,1.0,0.3999999999999999,2.0,2450.0,Estádio Do Dragão,Daniel Siebert,UEFA
+390,2020-2021,Group stage,2,2020-10-27,20:55,Loko Moscow,Bayern Munich,1.0,2.0,1.5,3.2,-1.7000000000000002,-1.0,8196.0,RZD Arena,István Kovács,UEFA
+391,2020-2021,Group stage,2,2020-10-27,21:00,Marseille,Manchester City,0.0,3.0,0.1,1.9,-1.7999999999999998,-3.0,,Orange Vélodrome,Tobias Stieler,UEFA
+392,2020-2021,Group stage,2,2020-10-27,21:00,Atalanta,Ajax,2.0,2.0,1.7,1.4,0.30000000000000004,0.0,,Stadio Atleti Azzurri d'Italia,Damir Skomina,UEFA
+393,2020-2021,Group stage,2,2020-10-27,21:00,Atlético Madrid,RB Salzburg,3.0,2.0,2.5,1.1,1.4,1.0,,Estadio Wanda Metropolitano,Ovidiu Hațegan,UEFA
+394,2020-2021,Group stage,2,2020-10-27,21:00,M'Gladbach,Real Madrid,2.0,2.0,1.6,2.6,-1.0,0.0,,Stadion im Borussia-Park,Orel Grinfeeld,UEFA
+395,2020-2021,Group stage,2,2020-10-28,20:00,Manchester Utd,RB Leipzig,5.0,0.0,3.2,0.5,2.7,5.0,577.0,Old Trafford,Matej Jug,UEFA
+396,2020-2021,Group stage,2,2020-10-28,20:55,Krasnodar,Chelsea,0.0,4.0,0.6,2.4,-1.7999999999999998,-4.0,10544.0,Krasnodar Stadium,Ali Palabıyık,UEFA
+397,2020-2021,Group stage,2,2020-10-28,20:55,Başakşehir,Paris S-G,0.0,2.0,0.9,2.4,-1.5,-2.0,350.0,Başakşehir Fatih Terim Stadium,Andreas Ekberg,UEFA
+398,2020-2021,Group stage,2,2020-10-28,21:00,Dortmund,Zenit,2.0,0.0,1.7,0.2,1.5,2.0,,Signal Iduna Park,Björn Kuipers,UEFA
+399,2020-2021,Group stage,2,2020-10-28,21:00,Club Brugge,Lazio,1.0,1.0,2.1,0.8,1.3,0.0,,Jan Breydelstadion,Anthony Taylor,UEFA
+400,2020-2021,Group stage,2,2020-10-28,21:00,Sevilla,Rennes,1.0,0.0,2.6,0.1,2.5,1.0,,Estadio Ramón Sánchez Pizjuán,Cüneyt Çakιr,UEFA
+401,2020-2021,Group stage,2,2020-10-28,21:00,Ferencváros,Dynamo Kyiv,2.0,2.0,1.0,1.6,-0.6000000000000001,0.0,6171.0,Groupama Arena,Ivan Kružliak,UEFA
+402,2020-2021,Group stage,2,2020-10-28,21:00,Juventus,Barcelona,0.0,2.0,0.4,2.3,-1.9,-2.0,,Allianz Stadium,Danny Makkelie,UEFA
+403,2020-2021,Group stage,3,2020-11-03,19:55,Shakhtar,M'Gladbach,0.0,6.0,0.4,2.3,-1.9,-6.0,,Oblasny SportKomplex Metalist,Serdar Gözübüyük,UEFA
+404,2020-2021,Group stage,3,2020-11-03,20:00,Porto,Marseille,3.0,0.0,2.4,1.0,1.4,3.0,,Estádio Do Dragão,Antonio Matéu Lahoz,UEFA
+405,2020-2021,Group stage,3,2020-11-03,20:00,Manchester City,Olympiacos,3.0,0.0,1.7,0.6,1.1,3.0,,Etihad Stadium,Carlos del Cerro,UEFA
+406,2020-2021,Group stage,3,2020-11-03,20:55,Loko Moscow,Atlético Madrid,1.0,1.0,0.9,1.0,-0.09999999999999998,0.0,8147.0,RZD Arena,Benoît Bastien,UEFA
+407,2020-2021,Group stage,3,2020-11-03,21:00,RB Salzburg,Bayern Munich,2.0,6.0,1.8,2.9,-1.0999999999999999,-4.0,,Red Bull Arena,Danny Makkelie,UEFA
+408,2020-2021,Group stage,3,2020-11-03,21:00,Midtjylland,Ajax,1.0,2.0,0.7,0.7,0.0,-1.0,132.0,MCH Arena,Bobby Madden,UEFA
+409,2020-2021,Group stage,3,2020-11-03,21:00,Real Madrid,Inter,3.0,2.0,1.2,0.7,0.5,1.0,,Estadio Alfredo Di Stéfano,Clément Turpin,UEFA
+410,2020-2021,Group stage,3,2020-11-03,21:00,Atalanta,Liverpool,0.0,5.0,1.2,2.5,-1.3,-5.0,,Stadio Atleti Azzurri d'Italia,Ovidiu Hațegan,UEFA
+411,2020-2021,Group stage,3,2020-11-04,20:00,Chelsea,Rennes,3.0,0.0,3.3,0.6,2.6999999999999997,3.0,,Stamford Bridge,Felix Zwayer,UEFA
+412,2020-2021,Group stage,3,2020-11-04,20:55,Başakşehir,Manchester Utd,2.0,1.0,1.0,0.7,0.30000000000000004,1.0,350.0,Başakşehir Fatih Terim Stadium,Davide Massa,UEFA
+413,2020-2021,Group stage,3,2020-11-04,20:55,Zenit,Lazio,1.0,1.0,1.2,0.7,0.5,0.0,17427.0,Gazprom Arena,Artur Soares Dias,UEFA
+414,2020-2021,Group stage,3,2020-11-04,21:00,Sevilla,Krasnodar,3.0,2.0,2.0,1.4,0.6000000000000001,1.0,,Estadio Ramón Sánchez Pizjuán,Felix Brych,UEFA
+415,2020-2021,Group stage,3,2020-11-04,21:00,Club Brugge,Dortmund,0.0,3.0,1.2,1.8,-0.6000000000000001,-3.0,,Jan Breydelstadion,Damir Skomina,UEFA
+416,2020-2021,Group stage,3,2020-11-04,21:00,Ferencváros,Juventus,1.0,4.0,1.5,2.7,-1.2000000000000002,-3.0,18531.0,Puskás Aréna,Orel Grinfeeld,UEFA
+417,2020-2021,Group stage,3,2020-11-04,21:00,Barcelona,Dynamo Kyiv,2.0,1.0,3.5,2.7,0.7999999999999998,1.0,,Camp Nou,Michael Oliver,UEFA
+418,2020-2021,Group stage,3,2020-11-04,21:00,RB Leipzig,Paris S-G,2.0,1.0,1.9,1.3,0.5999999999999999,1.0,,Red Bull Arena,Szymon Marciniak,UEFA
+419,2020-2021,Group stage,4,2020-11-24,18:55,Rennes,Chelsea,1.0,2.0,1.1,2.2,-1.1,-1.0,,Roazhon Park,Björn Kuipers,UEFA
+420,2020-2021,Group stage,4,2020-11-24,20:00,Manchester Utd,Başakşehir,4.0,1.0,2.9,1.3,1.5999999999999999,3.0,545.0,Old Trafford,Ovidiu Hațegan,UEFA
+421,2020-2021,Group stage,4,2020-11-24,20:55,Krasnodar,Sevilla,1.0,2.0,1.1,1.6,-0.5,-1.0,10554.0,Krasnodar Stadium,Marco Guida,UEFA
+422,2020-2021,Group stage,4,2020-11-24,21:00,Lazio,Zenit,3.0,1.0,3.3,0.6,2.6999999999999997,2.0,,Stadio Olimpico,Michael Oliver,UEFA
+423,2020-2021,Group stage,4,2020-11-24,21:00,Paris S-G,RB Leipzig,1.0,0.0,1.1,1.4,-0.2999999999999998,1.0,,Parc des Princes,Danny Makkelie,UEFA
+424,2020-2021,Group stage,4,2020-11-24,21:00,Dortmund,Club Brugge,3.0,0.0,1.6,0.1,1.5,3.0,,Signal Iduna Park,Ivan Kružliak,UEFA
+425,2020-2021,Group stage,4,2020-11-24,21:00,Juventus,Ferencváros,2.0,1.0,1.0,0.4,0.6,1.0,,Allianz Stadium,Daniel Siebert,UEFA
+426,2020-2021,Group stage,4,2020-11-24,22:00,Dynamo Kyiv,Barcelona,0.0,4.0,0.3,3.0,-2.7,-4.0,,NSK Olimpijs'kyj,Matej Jug,UEFA
+427,2020-2021,Group stage,4,2020-11-25,18:55,M'Gladbach,Shakhtar,4.0,0.0,3.2,0.7,2.5,4.0,,Stadion im Borussia-Park,Cüneyt Çakιr,UEFA
+428,2020-2021,Group stage,4,2020-11-25,19:55,Olympiacos,Manchester City,0.0,1.0,0.1,2.4,-2.3,-1.0,,Stadio Georgios Karaiskáki,Davide Massa,UEFA
+429,2020-2021,Group stage,4,2020-11-25,20:00,Liverpool,Atalanta,0.0,2.0,0.2,1.2,-1.0,-2.0,,Anfield,Carlos del Cerro,UEFA
+430,2020-2021,Group stage,4,2020-11-25,21:00,Marseille,Porto,0.0,2.0,1.3,2.1,-0.8,-2.0,,Orange Vélodrome,Andreas Ekberg,UEFA
+431,2020-2021,Group stage,4,2020-11-25,21:00,Inter,Real Madrid,0.0,2.0,0.2,2.0,-1.8,-2.0,,Stadio Giuseppe Meazza,Anthony Taylor,UEFA
+432,2020-2021,Group stage,4,2020-11-25,21:00,Ajax,Midtjylland,3.0,1.0,2.4,1.4,1.0,2.0,,Johan Cruyff ArenA,Sergey Karasev,UEFA
+433,2020-2021,Group stage,4,2020-11-25,21:00,Atlético Madrid,Loko Moscow,0.0,0.0,1.6,0.2,1.4000000000000001,0.0,,Estadio Wanda Metropolitano,Slavko Vinčič,UEFA
+434,2020-2021,Group stage,4,2020-11-25,21:00,Bayern Munich,RB Salzburg,3.0,1.0,1.3,3.3,-1.9999999999999998,2.0,,Allianz Arena,Orel Grinfeeld,UEFA
+435,2020-2021,Group stage,5,2020-12-01,19:55,Shakhtar,Real Madrid,2.0,0.0,1.3,1.4,-0.09999999999999987,2.0,,Oblasny SportKomplex Metalist,Ovidiu Hațegan,UEFA
+436,2020-2021,Group stage,5,2020-12-01,20:00,Liverpool,Ajax,1.0,0.0,2.0,1.5,0.5,1.0,,Anfield,Tobias Stieler,UEFA
+437,2020-2021,Group stage,5,2020-12-01,20:00,Porto,Manchester City,0.0,0.0,0.1,2.5,-2.4,0.0,,Estádio Do Dragão,Björn Kuipers,UEFA
+438,2020-2021,Group stage,5,2020-12-01,20:55,Loko Moscow,RB Salzburg,1.0,3.0,1.1,2.4,-1.2999999999999998,-2.0,6759.0,RZD Arena,Ali Palabıyık,UEFA
+439,2020-2021,Group stage,5,2020-12-01,21:00,Marseille,Olympiacos,2.0,1.0,2.0,0.3,1.7,1.0,,Orange Vélodrome,Jesús Gil,UEFA
+440,2020-2021,Group stage,5,2020-12-01,21:00,Atalanta,Midtjylland,1.0,1.0,2.4,0.7,1.7,0.0,,Stadio Atleti Azzurri d'Italia,Anastasios Sidiropoulos,UEFA
+441,2020-2021,Group stage,5,2020-12-01,21:00,M'Gladbach,Inter,2.0,3.0,1.3,1.6,-0.30000000000000004,-1.0,,Stadion im Borussia-Park,Danny Makkelie,UEFA
+442,2020-2021,Group stage,5,2020-12-01,21:00,Atlético Madrid,Bayern Munich,1.0,1.0,1.6,1.1,0.5,0.0,,Estadio Wanda Metropolitano,Clément Turpin,UEFA
+443,2020-2021,Group stage,5,2020-12-02,20:00,Manchester Utd,Paris S-G,1.0,3.0,1.2,2.8,-1.5999999999999999,-2.0,,Old Trafford,Daniele Orsato,UEFA
+444,2020-2021,Group stage,5,2020-12-02,20:55,Krasnodar,Rennes,1.0,0.0,1.5,0.7,0.8,1.0,8747.0,Krasnodar Stadium,William Collum,UEFA
+445,2020-2021,Group stage,5,2020-12-02,20:55,Başakşehir,RB Leipzig,3.0,4.0,0.6,2.1,-1.5,-1.0,,Başakşehir Fatih Terim Stadium,Carlos del Cerro,UEFA
+446,2020-2021,Group stage,5,2020-12-02,21:00,Club Brugge,Zenit,3.0,0.0,2.0,0.2,1.8,3.0,,Jan Breydelstadion,Serdar Gözübüyük,UEFA
+447,2020-2021,Group stage,5,2020-12-02,21:00,Juventus,Dynamo Kyiv,3.0,0.0,2.9,0.6,2.3,3.0,,Allianz Stadium,Stéphanie Frappart,UEFA
+448,2020-2021,Group stage,5,2020-12-02,21:00,Dortmund,Lazio,1.0,1.0,1.4,1.9,-0.5,0.0,,Signal Iduna Park,Antonio Matéu Lahoz,UEFA
+449,2020-2021,Group stage,5,2020-12-02,21:00,Ferencváros,Barcelona,0.0,3.0,0.8,4.0,-3.2,-3.0,,Puskás Aréna,Aliaksei Kulbakou,UEFA
+450,2020-2021,Group stage,5,2020-12-02,21:00,Sevilla,Chelsea,0.0,4.0,1.3,2.4,-1.0999999999999999,-4.0,,Estadio Ramón Sánchez Pizjuán,Artur Soares Dias,UEFA
+451,2020-2021,Group stage,6,2020-12-08,18:55,Lazio,Club Brugge,2.0,2.0,2.7,1.1,1.6,0.0,,Stadio Olimpico,Cüneyt Çakιr,UEFA
+452,2020-2021,Group stage,6,2020-12-08,20:00,Chelsea,Krasnodar,1.0,1.0,2.5,0.4,2.1,0.0,2000.0,Stamford Bridge,Pavel Královec,UEFA
+453,2020-2021,Group stage,6,2020-12-08,20:55,Zenit,Dortmund,1.0,2.0,1.2,1.6,-0.40000000000000013,-1.0,10860.0,Gazprom Arena,István Kovács,UEFA
+454,2020-2021,Group stage,6,2020-12-08,21:00,Barcelona,Juventus,0.0,3.0,0.9,2.9,-2.0,-3.0,,Camp Nou,Tobias Stieler,UEFA
+455,2020-2021,Group stage,6,2020-12-08,21:00,Rennes,Sevilla,1.0,3.0,2.4,1.5,0.8999999999999999,-2.0,,Roazhon Park,Bartosz Frankowski,UEFA
+456,2020-2021,Group stage,6,2020-12-08,21:00,RB Leipzig,Manchester Utd,3.0,2.0,1.5,2.0,-0.5,1.0,,Red Bull Arena,Antonio Matéu Lahoz,UEFA
+457,2020-2021,Group stage,6,2020-12-08,22:00,Dynamo Kyiv,Ferencváros,1.0,0.0,0.5,0.7,-0.19999999999999996,1.0,,NSK Olimpijs'kyj,Andreas Ekberg,UEFA
+458,2020-2021,Group stage,6,2020-12-09,18:55,Ajax,Atalanta,0.0,1.0,0.7,1.2,-0.5,-1.0,,Johan Cruyff ArenA,Carlos del Cerro,UEFA
+459,2020-2021,Group stage,6,2020-12-09,18:55,Paris S-G,Başakşehir,5.0,1.0,3.1,0.8,2.3,4.0,,Parc des Princes,Danny Makkelie,UEFA
+460,2020-2021,Group stage,6,2020-12-09,18:55,Midtjylland,Liverpool,1.0,1.0,2.3,1.1,1.1999999999999997,0.0,,MCH Arena,François Letexier,UEFA
+461,2020-2021,Group stage,6,2020-12-09,20:00,Manchester City,Marseille,3.0,0.0,2.4,0.5,1.9,3.0,,Etihad Stadium,Halil Umut Meler,UEFA
+462,2020-2021,Group stage,6,2020-12-09,21:00,Real Madrid,M'Gladbach,2.0,0.0,2.8,1.0,1.7999999999999998,2.0,,Estadio Alfredo Di Stéfano,Björn Kuipers,UEFA
+463,2020-2021,Group stage,6,2020-12-09,21:00,Bayern Munich,Loko Moscow,2.0,0.0,1.7,0.4,1.2999999999999998,2.0,,Allianz Arena,Sandro Schärer,UEFA
+464,2020-2021,Group stage,6,2020-12-09,21:00,RB Salzburg,Atlético Madrid,0.0,2.0,1.4,0.6,0.7999999999999999,-2.0,,Red Bull Arena,Anthony Taylor,UEFA
+465,2020-2021,Group stage,6,2020-12-09,21:00,Inter,Shakhtar,0.0,0.0,1.3,0.4,0.9,0.0,,Stadio Giuseppe Meazza,Slavko Vinčič,UEFA
+466,2020-2021,Group stage,6,2020-12-09,22:00,Olympiacos,Porto,0.0,2.0,1.0,1.0,0.0,-2.0,,Stadio Georgios Karaiskáki,Felix Brych,UEFA
+467,2020-2021,Round of 16,,2021-02-16,21:00,Barcelona,Paris S-G,1.0,4.0,1.6,2.8,-1.1999999999999997,-3.0,,Camp Nou,Björn Kuipers,UEFA
+468,2020-2021,Round of 16,,2021-02-16,21:00,RB Leipzig,Liverpool,0.0,2.0,1.3,1.4,-0.09999999999999987,-2.0,,Puskás Aréna,Slavko Vinčič,UEFA
+469,2020-2021,Round of 16,,2021-02-17,20:00,Porto,Juventus,2.0,1.0,1.3,0.9,0.4,1.0,,Estádio Do Dragão,Carlos del Cerro,UEFA
+470,2020-2021,Round of 16,,2021-02-17,21:00,Sevilla,Dortmund,2.0,3.0,0.9,1.2,-0.29999999999999993,-1.0,,Estadio Ramón Sánchez Pizjuán,Danny Makkelie,UEFA
+471,2020-2021,Round of 16,,2021-02-23,21:00,Lazio,Bayern Munich,1.0,4.0,0.9,1.9,-0.9999999999999999,-3.0,,Stadio Olimpico,Orel Grinfeeld,UEFA
+472,2020-2021,Round of 16,,2021-02-23,21:00,Atlético Madrid,Chelsea,0.0,1.0,0.8,1.0,-0.19999999999999996,-1.0,,Arena Naţională,Felix Brych,UEFA
+473,2020-2021,Round of 16,,2021-02-24,21:00,M'Gladbach,Manchester City,0.0,2.0,0.4,1.6,-1.2000000000000002,-2.0,,Puskás Aréna,Artur Soares Dias,UEFA
+474,2020-2021,Round of 16,,2021-02-24,21:00,Atalanta,Real Madrid,0.0,1.0,0.1,1.5,-1.4,-1.0,,Stadio Atleti Azzurri d'Italia,Tobias Stieler,UEFA
+475,2020-2021,Round of 16,,2021-03-09,21:00,Juventus,Porto,3.0,2.0,3.0,2.2,0.7999999999999998,1.0,,Allianz Stadium,Björn Kuipers,UEFA
+476,2020-2021,Round of 16,,2021-03-09,21:00,Dortmund,Sevilla,2.0,2.0,2.2,2.0,0.20000000000000018,0.0,,Fußballpark BVB Hohenbuschei,Cüneyt Çakιr,UEFA
+477,2020-2021,Round of 16,,2021-03-10,20:00,Liverpool,RB Leipzig,2.0,0.0,2.4,0.9,1.5,2.0,,Puskás Aréna,Clément Turpin,UEFA
+478,2020-2021,Round of 16,,2021-03-10,21:00,Paris S-G,Barcelona,1.0,1.0,1.7,2.2,-0.5000000000000002,0.0,,Parc des Princes,Anthony Taylor,UEFA
+479,2020-2021,Round of 16,,2021-03-16,20:00,Manchester City,M'Gladbach,2.0,0.0,1.4,0.3,1.0999999999999999,2.0,,Etihad Stadium,Sergey Karasev,UEFA
+480,2020-2021,Round of 16,,2021-03-16,21:00,Real Madrid,Atalanta,3.0,1.0,2.7,1.3,1.4000000000000001,2.0,,Estadio Alfredo Di Stéfano,Danny Makkelie,UEFA
+481,2020-2021,Round of 16,,2021-03-17,20:00,Chelsea,Atlético Madrid,2.0,0.0,2.0,0.5,1.5,2.0,,Stamford Bridge,Daniele Orsato,UEFA
+482,2020-2021,Round of 16,,2021-03-17,21:00,Bayern Munich,Lazio,2.0,1.0,1.9,1.1,0.7999999999999998,1.0,,Allianz Arena,István Kovács,UEFA
+483,2020-2021,Quarter-finals,,2021-04-06,20:00,Manchester City,Dortmund,2.0,1.0,2.1,1.1,1.0,1.0,,Etihad Stadium,Ovidiu Hațegan,UEFA
+484,2020-2021,Quarter-finals,,2021-04-06,21:00,Real Madrid,Liverpool,3.0,1.0,2.1,0.7,1.4000000000000001,2.0,,Estadio Alfredo Di Stéfano,Felix Brych,UEFA
+485,2020-2021,Quarter-finals,,2021-04-07,20:00,Porto,Chelsea,0.0,2.0,1.4,1.6,-0.20000000000000018,-2.0,,Estadio Ramón Sánchez Pizjuán,Slavko Vinčič,UEFA
+486,2020-2021,Quarter-finals,,2021-04-07,21:00,Bayern Munich,Paris S-G,2.0,3.0,3.7,1.3,2.4000000000000004,-1.0,,Allianz Arena,Antonio Matéu Lahoz,UEFA
+487,2020-2021,Quarter-finals,,2021-04-13,20:00,Chelsea,Porto,0.0,1.0,1.2,0.4,0.7999999999999999,-1.0,,Estadio Ramón Sánchez Pizjuán,Clément Turpin,UEFA
+488,2020-2021,Quarter-finals,,2021-04-13,21:00,Paris S-G,Bayern Munich,0.0,1.0,1.6,1.5,0.10000000000000009,-1.0,,Parc des Princes,Daniele Orsato,UEFA
+489,2020-2021,Quarter-finals,,2021-04-14,20:00,Liverpool,Real Madrid,0.0,0.0,1.2,0.8,0.3999999999999999,0.0,,Anfield,Björn Kuipers,UEFA
+490,2020-2021,Quarter-finals,,2021-04-14,21:00,Dortmund,Manchester City,1.0,2.0,0.5,2.5,-2.0,-1.0,,Signal Iduna Park,Carlos del Cerro,UEFA
+491,2020-2021,Semi-finals,,2021-04-27,21:00,Real Madrid,Chelsea,1.0,1.0,0.7,1.7,-1.0,0.0,,Estadio Alfredo Di Stéfano,Danny Makkelie,UEFA
+493,2020-2021,Semi-finals,,2021-04-28,21:00,Paris S-G,Manchester City,1.0,2.0,1.0,0.8,0.19999999999999996,-1.0,,Parc des Princes,Felix Brych,UEFA
+494,2020-2021,Semi-finals,,2021-05-04,20:00,Manchester City,Paris S-G,2.0,0.0,1.4,0.8,0.5999999999999999,2.0,,Etihad Stadium,Björn Kuipers,UEFA
+495,2020-2021,Semi-finals,,2021-05-05,20:00,Chelsea,Real Madrid,2.0,0.0,4.0,0.5,3.5,2.0,,Stamford Bridge,Daniele Orsato,UEFA
+496,2020-2021,Final,,2021-05-29,22:00,Manchester City,Chelsea,0.0,1.0,0.5,1.4,-0.8999999999999999,-1.0,14110.0,Estádio Do Dragão,Antonio Matéu Lahoz,UEFA
+497,2021-2022,Group stage,1,2021-09-14,18:45,Sevilla,RB Salzburg,1.0,1.0,1.5,2.9,-1.4,0.0,18373.0,Estadio Ramón Sánchez Pizjuán,Aliaksei Kulbakou,UEFA
+498,2021-2022,Group stage,1,2021-09-14,18:45,Young Boys,Manchester Utd,2.0,1.0,1.4,0.5,0.8999999999999999,1.0,31120.0,Wankdorfstadion,François Letexier,UEFA
+499,2021-2022,Group stage,1,2021-09-14,20:00,Chelsea,Zenit,1.0,0.0,0.7,0.9,-0.20000000000000007,1.0,39252.0,Stamford Bridge,Bartosz Frankowski,UEFA
+500,2021-2022,Group stage,1,2021-09-14,21:00,Villarreal,Atalanta,2.0,2.0,2.3,1.3,0.9999999999999998,0.0,12916.0,Estadio de la Cerámica,Clément Turpin,UEFA
+501,2021-2022,Group stage,1,2021-09-14,21:00,Barcelona,Bayern Munich,0.0,3.0,0.2,2.7,-2.5,-3.0,39737.0,Camp Nou,Michael Oliver,UEFA
+502,2021-2022,Group stage,1,2021-09-14,21:00,Lille,Wolfsburg,0.0,0.0,1.6,0.1,1.5,0.0,34314.0,Stade Pierre-Mauroy,Danny Makkelie,UEFA
+503,2021-2022,Group stage,1,2021-09-14,21:00,Malmö,Juventus,0.0,3.0,0.4,3.5,-3.1,-3.0,5832.0,Eleda Stadion,Artur Dias,UEFA
+504,2021-2022,Group stage,1,2021-09-14,22:00,Dynamo Kyiv,Benfica,0.0,0.0,0.6,1.0,-0.4,0.0,21657.0,NSK Olimpijs'kyj,Anthony Taylor,UEFA
+505,2021-2022,Group stage,1,2021-09-15,19:45,Sheriff Tiraspol,Shakhtar,2.0,0.0,1.0,0.8,0.19999999999999996,2.0,5205.0,Bolshaya Sportivnaya Arena,Deniz Aytekin,UEFA
+506,2021-2022,Group stage,1,2021-09-15,19:45,Beşiktaş,Dortmund,1.0,2.0,1.2,3.0,-1.8,-1.0,22445.0,Vodafone Arena,Antonio Matéu Lahoz,UEFA
+507,2021-2022,Group stage,1,2021-09-15,20:00,Sporting CP,Ajax,1.0,5.0,0.7,3.1,-2.4000000000000004,-4.0,20382.0,Estádio José Alvalade,José Sánchez,UEFA
+508,2021-2022,Group stage,1,2021-09-15,20:00,Manchester City,RB Leipzig,6.0,3.0,2.3,1.3,0.9999999999999998,3.0,38062.0,Etihad Stadium,Serdar Gözübüyük,UEFA
+509,2021-2022,Group stage,1,2021-09-15,20:00,Liverpool,Milan,3.0,2.0,2.5,1.6,0.8999999999999999,1.0,51445.0,Anfield,Szymon Marciniak,UEFA
+510,2021-2022,Group stage,1,2021-09-15,21:00,Inter,Real Madrid,0.0,1.0,2.4,1.2,1.2,-1.0,37082.0,Stadio Giuseppe Meazza,Daniel Siebert,UEFA
+511,2021-2022,Group stage,1,2021-09-15,21:00,Club Brugge,Paris S-G,1.0,1.0,1.3,1.4,-0.09999999999999987,0.0,27546.0,Jan Breydelstadion,Sandro Schärer,UEFA
+512,2021-2022,Group stage,1,2021-09-15,21:00,Atlético Madrid,Porto,0.0,0.0,0.3,1.6,-1.3,0.0,40098.0,Estadio Wanda Metropolitano,Ovidiu Hațegan,UEFA
+513,2021-2022,Group stage,2,2021-09-28,18:45,Ajax,Beşiktaş,2.0,0.0,3.5,0.9,2.6,2.0,52628.0,Johan Cruyff ArenA,Benoît Bastien,UEFA
+514,2021-2022,Group stage,2,2021-09-28,19:45,Shakhtar,Inter,0.0,0.0,1.3,1.0,0.30000000000000004,0.0,26170.0,NSK Olimpijs'kyj,István Kovács,UEFA
+515,2021-2022,Group stage,2,2021-09-28,20:00,Porto,Liverpool,1.0,5.0,0.9,3.4,-2.5,-4.0,23520.0,Estádio Do Dragão,Sergey Karasev,UEFA
+516,2021-2022,Group stage,2,2021-09-28,21:00,Real Madrid,Sheriff Tiraspol,1.0,2.0,3.1,0.4,2.7,-1.0,24522.0,Estadio Santiago Bernabéu,Lawrence Visser,UEFA
+517,2021-2022,Group stage,2,2021-09-28,21:00,RB Leipzig,Club Brugge,1.0,2.0,1.3,1.4,-0.09999999999999987,-1.0,23500.0,Red Bull Arena,Slavko Vinčič,UEFA
+518,2021-2022,Group stage,2,2021-09-28,21:00,Dortmund,Sporting CP,1.0,0.0,0.3,0.4,-0.10000000000000003,1.0,25000.0,Signal Iduna Park,Srdjan Stojanovic,UEFA
+519,2021-2022,Group stage,2,2021-09-28,21:00,Paris S-G,Manchester City,2.0,0.0,0.4,1.9,-1.5,2.0,37350.0,Parc des Princes,Carlos del Cerro,UEFA
+520,2021-2022,Group stage,2,2021-09-28,21:00,Milan,Atlético Madrid,1.0,2.0,0.7,2.1,-1.4000000000000001,-1.0,35374.0,Stadio Giuseppe Meazza,Cüneyt Çakιr,UEFA
+521,2021-2022,Group stage,2,2021-09-29,18:45,Atalanta,Young Boys,1.0,0.0,2.5,0.1,2.4,1.0,8536.0,Stadio Atleti Azzurri d'Italia,Felix Brych,UEFA
+522,2021-2022,Group stage,2,2021-09-29,19:45,Zenit,Malmö,4.0,0.0,2.5,0.5,2.0,4.0,15339.0,Gazprom Arena,Anastasios Sidiropoulos,UEFA
+523,2021-2022,Group stage,2,2021-09-29,20:00,Manchester Utd,Villarreal,2.0,1.0,1.1,2.3,-1.1999999999999997,1.0,73130.0,Old Trafford,Felix Zwayer,UEFA
+524,2021-2022,Group stage,2,2021-09-29,20:00,Benfica,Barcelona,3.0,0.0,1.9,1.2,0.7,3.0,29454.0,Estádio do Sport Lisboa e Benfica,Daniele Orsato,UEFA
+525,2021-2022,Group stage,2,2021-09-29,21:00,RB Salzburg,Lille,2.0,1.0,2.1,0.5,1.6,1.0,24207.0,Red Bull Arena,Halil Umut Meler,UEFA
+526,2021-2022,Group stage,2,2021-09-29,21:00,Juventus,Chelsea,1.0,0.0,0.9,1.3,-0.4,1.0,19934.0,Allianz Stadium,Jesús Gil,UEFA
+527,2021-2022,Group stage,2,2021-09-29,21:00,Bayern Munich,Dynamo Kyiv,5.0,0.0,2.7,0.3,2.4000000000000004,5.0,25000.0,Allianz Arena,Marco Guida,UEFA
+528,2021-2022,Group stage,2,2021-09-29,21:00,Wolfsburg,Sevilla,1.0,1.0,1.2,1.1,0.09999999999999987,0.0,11733.0,Volkswagen Arena,Georgi Kabakov,UEFA
+529,2021-2022,Group stage,3,2021-10-19,18:45,Club Brugge,Manchester City,1.0,5.0,0.6,4.7,-4.1000000000000005,-4.0,24915.0,Jan Breydelstadion,István Kovács,UEFA
+530,2021-2022,Group stage,3,2021-10-19,19:45,Beşiktaş,Sporting CP,1.0,4.0,0.9,4.4,-3.5000000000000004,-3.0,22936.0,Vodafone Arena,Slavko Vinčič,UEFA
+531,2021-2022,Group stage,3,2021-10-19,20:00,Porto,Milan,1.0,0.0,1.1,0.2,0.9000000000000001,1.0,32130.0,Estádio Do Dragão,Felix Brych,UEFA
+532,2021-2022,Group stage,3,2021-10-19,21:00,Atlético Madrid,Liverpool,2.0,3.0,2.2,1.3,0.9000000000000001,-1.0,60725.0,Estadio Wanda Metropolitano,Daniel Siebert,UEFA
+533,2021-2022,Group stage,3,2021-10-19,21:00,Inter,Sheriff Tiraspol,3.0,1.0,2.3,0.4,1.9,2.0,43305.0,Stadio Giuseppe Meazza,Danny Makkelie,UEFA
+534,2021-2022,Group stage,3,2021-10-19,21:00,Paris S-G,RB Leipzig,3.0,2.0,3.0,2.1,0.8999999999999999,1.0,47359.0,Parc des Princes,Marco Guida,UEFA
+535,2021-2022,Group stage,3,2021-10-19,21:00,Ajax,Dortmund,4.0,0.0,2.1,1.2,0.9000000000000001,4.0,54029.0,Johan Cruyff ArenA,Jesús Gil,UEFA
+536,2021-2022,Group stage,3,2021-10-19,22:00,Shakhtar,Real Madrid,0.0,5.0,0.7,2.6,-1.9000000000000001,-5.0,34037.0,Oblasny SportKomplex Metalist,Srđan Jovanović,UEFA
+537,2021-2022,Group stage,3,2021-10-20,18:45,RB Salzburg,Wolfsburg,3.0,1.0,2.7,0.9,1.8000000000000003,2.0,29520.0,Red Bull Arena,Daniele Orsato,UEFA
+538,2021-2022,Group stage,3,2021-10-20,18:45,Barcelona,Dynamo Kyiv,1.0,0.0,2.2,0.1,2.1,1.0,45968.0,Camp Nou,Clément Turpin,UEFA
+539,2021-2022,Group stage,3,2021-10-20,20:00,Manchester Utd,Atalanta,3.0,2.0,2.8,1.6,1.1999999999999997,1.0,72279.0,Old Trafford,Szymon Marciniak,UEFA
+540,2021-2022,Group stage,3,2021-10-20,20:00,Benfica,Bayern Munich,0.0,4.0,0.7,3.0,-2.3,-4.0,55201.0,Estádio do Sport Lisboa e Benfica,Ovidiu Hațegan,UEFA
+541,2021-2022,Group stage,3,2021-10-20,20:00,Chelsea,Malmö,4.0,0.0,2.6,0.1,2.5,4.0,39095.0,Stamford Bridge,François Letexier,UEFA
+542,2021-2022,Group stage,3,2021-10-20,21:00,Lille,Sevilla,0.0,0.0,0.8,1.1,-0.30000000000000004,0.0,34362.0,Stade Pierre-Mauroy,Michael Oliver,UEFA
+543,2021-2022,Group stage,3,2021-10-20,21:00,Young Boys,Villarreal,1.0,4.0,2.7,2.7,0.0,-3.0,27398.0,Wankdorfstadion,Sergey Karasev,UEFA
+544,2021-2022,Group stage,3,2021-10-20,22:00,Zenit,Juventus,0.0,1.0,0.6,1.2,-0.6,-1.0,18717.0,Gazprom Arena,Sandro Schärer,UEFA
+545,2021-2022,Group stage,4,2021-11-02,18:45,Wolfsburg,RB Salzburg,2.0,1.0,1.7,1.6,0.09999999999999987,1.0,16112.0,Volkswagen Arena,Artur Dias,UEFA
+546,2021-2022,Group stage,4,2021-11-02,18:45,Malmö,Chelsea,0.0,1.0,0.2,2.5,-2.3,-1.0,19551.0,Eleda Stadion,Felix Brych,UEFA
+547,2021-2022,Group stage,4,2021-11-02,21:00,Bayern Munich,Benfica,5.0,2.0,4.8,1.0,3.8,3.0,50000.0,Allianz Arena,Szymon Marciniak,UEFA
+548,2021-2022,Group stage,4,2021-11-02,21:00,Atalanta,Manchester Utd,2.0,2.0,1.5,1.1,0.3999999999999999,0.0,14443.0,Stadio Atleti Azzurri d'Italia,Slavko Vinčič,UEFA
+549,2021-2022,Group stage,4,2021-11-02,21:00,Villarreal,Young Boys,2.0,0.0,2.2,1.1,1.1,2.0,14890.0,Estadio de la Cerámica,Serdar Gözübüyük,UEFA
+550,2021-2022,Group stage,4,2021-11-02,21:00,Juventus,Zenit,4.0,2.0,2.7,1.3,1.4000000000000001,2.0,20053.0,Allianz Stadium,Alejandro Hernández,UEFA
+551,2021-2022,Group stage,4,2021-11-02,21:00,Sevilla,Lille,1.0,2.0,1.0,1.9,-0.8999999999999999,-1.0,29369.0,Estadio Ramón Sánchez Pizjuán,István Kovács,UEFA
+552,2021-2022,Group stage,4,2021-11-02,22:00,Dynamo Kyiv,Barcelona,0.0,1.0,1.0,0.8,0.19999999999999996,-1.0,31378.0,NSK Olimpijs'kyj,Ovidiu Hațegan,UEFA
+553,2021-2022,Group stage,4,2021-11-03,18:45,Milan,Porto,1.0,1.0,0.6,1.8,-1.2000000000000002,0.0,39675.0,Stadio Giuseppe Meazza,Clément Turpin,UEFA
+554,2021-2022,Group stage,4,2021-11-03,18:45,Real Madrid,Shakhtar,2.0,1.0,2.0,1.3,0.7,1.0,38105.0,Estadio Santiago Bernabéu,Benoît Bastien,UEFA
+555,2021-2022,Group stage,4,2021-11-03,20:00,Manchester City,Club Brugge,4.0,1.0,4.6,0.8,3.8,3.0,50228.0,Etihad Stadium,Antonio Matéu Lahoz,UEFA
+556,2021-2022,Group stage,4,2021-11-03,20:00,Sporting CP,Beşiktaş,4.0,0.0,2.7,1.1,1.6,4.0,40835.0,Estádio José Alvalade,Sergey Karasev,UEFA
+557,2021-2022,Group stage,4,2021-11-03,20:00,Liverpool,Atlético Madrid,2.0,0.0,3.0,0.2,2.8,2.0,51347.0,Anfield,Danny Makkelie,UEFA
+558,2021-2022,Group stage,4,2021-11-03,21:00,RB Leipzig,Paris S-G,2.0,2.0,3.3,2.1,1.1999999999999997,0.0,39794.0,Red Bull Arena,Andreas Ekberg,UEFA
+559,2021-2022,Group stage,4,2021-11-03,21:00,Dortmund,Ajax,1.0,3.0,1.7,2.0,-0.30000000000000004,-2.0,54820.0,Signal Iduna Park,Michael Oliver,UEFA
+560,2021-2022,Group stage,4,2021-11-03,22:00,Sheriff Tiraspol,Inter,1.0,3.0,0.3,2.5,-2.2,-2.0,5930.0,Bolshaya Sportivnaya Arena,Felix Zwayer,UEFA
+561,2021-2022,Group stage,5,2021-11-23,18:45,Villarreal,Manchester Utd,0.0,2.0,0.6,1.2,-0.6,-2.0,20875.0,Estadio de la Cerámica,Felix Brych,UEFA
+562,2021-2022,Group stage,5,2021-11-23,19:45,Dynamo Kyiv,Bayern Munich,1.0,2.0,1.1,1.0,0.10000000000000009,-1.0,28732.0,NSK Olimpijs'kyj,Halil Umut Meler,UEFA
+563,2021-2022,Group stage,5,2021-11-23,20:00,Chelsea,Juventus,4.0,0.0,3.0,0.7,2.3,4.0,39513.0,Stamford Bridge,Srđan Jovanović,UEFA
+564,2021-2022,Group stage,5,2021-11-23,21:00,Barcelona,Benfica,0.0,0.0,1.4,1.2,0.19999999999999996,0.0,49572.0,Camp Nou,Sergey Karasev,UEFA
+565,2021-2022,Group stage,5,2021-11-23,21:00,Lille,RB Salzburg,1.0,0.0,0.7,0.5,0.19999999999999996,1.0,33573.0,Stade Pierre-Mauroy,Anthony Taylor,UEFA
+566,2021-2022,Group stage,5,2021-11-23,21:00,Young Boys,Atalanta,3.0,3.0,0.7,1.2,-0.5,0.0,31120.0,Stade de Suisse Wankdorf Bern,Daniel Siebert,UEFA
+567,2021-2022,Group stage,5,2021-11-23,21:00,Sevilla,Wolfsburg,2.0,0.0,1.6,0.3,1.3,2.0,28663.0,Estadio Ramón Sánchez Pizjuán,Cüneyt Çakιr,UEFA
+568,2021-2022,Group stage,5,2021-11-23,21:00,Malmö,Zenit,1.0,1.0,0.2,1.9,-1.7,0.0,15520.0,Eleda Stadion,Andris Treimanis,UEFA
+569,2021-2022,Group stage,5,2021-11-24,18:45,Inter,Shakhtar,2.0,0.0,2.6,0.6,2.0,2.0,46225.0,Stadio Giuseppe Meazza,Ovidiu Hațegan,UEFA
+570,2021-2022,Group stage,5,2021-11-24,20:00,Manchester City,Paris S-G,2.0,1.0,2.1,1.0,1.1,1.0,52030.0,Etihad Stadium,Daniele Orsato,UEFA
+571,2021-2022,Group stage,5,2021-11-24,20:00,Sporting CP,Dortmund,3.0,1.0,1.9,1.6,0.2999999999999998,2.0,41341.0,Estádio José Alvalade,Carlos del Cerro,UEFA
+572,2021-2022,Group stage,5,2021-11-24,20:00,Liverpool,Porto,2.0,0.0,0.6,1.1,-0.5000000000000001,2.0,52209.0,Anfield,Felix Zwayer,UEFA
+573,2021-2022,Group stage,5,2021-11-24,20:45,Beşiktaş,Ajax,1.0,2.0,1.9,2.5,-0.6000000000000001,-1.0,11712.0,Vodafone Arena,Irfan Peljto,UEFA
+574,2021-2022,Group stage,5,2021-11-24,21:00,Atlético Madrid,Milan,0.0,1.0,0.9,1.3,-0.4,-1.0,61019.0,Estadio Wanda Metropolitano,Slavko Vinčič,UEFA
+575,2021-2022,Group stage,5,2021-11-24,21:00,Club Brugge,RB Leipzig,0.0,5.0,0.9,3.8,-2.9,-5.0,24072.0,Jan Breydelstadion,Davide Massa,UEFA
+576,2021-2022,Group stage,5,2021-11-24,22:00,Sheriff Tiraspol,Real Madrid,0.0,3.0,1.4,1.5,-0.10000000000000009,-3.0,5932.0,Bolshaya Sportivnaya Arena,Szymon Marciniak,UEFA
+577,2021-2022,Group stage,6,2021-12-07,18:45,Paris S-G,Club Brugge,4.0,1.0,3.6,1.1,2.5,3.0,47492.0,Parc des Princes,Jesús Gil,UEFA
+578,2021-2022,Group stage,6,2021-12-07,18:45,RB Leipzig,Manchester City,2.0,1.0,1.7,1.2,0.5,1.0,,Red Bull Arena,Sandro Schärer,UEFA
+579,2021-2022,Group stage,6,2021-12-07,20:00,Porto,Atlético Madrid,1.0,3.0,1.6,3.7,-2.1,-2.0,38830.0,Estádio Do Dragão,Clément Turpin,UEFA
+580,2021-2022,Group stage,6,2021-12-07,21:00,Real Madrid,Inter,2.0,0.0,1.2,0.9,0.29999999999999993,2.0,44887.0,Estadio Santiago Bernabéu,Felix Brych,UEFA
+581,2021-2022,Group stage,6,2021-12-07,21:00,Dortmund,Beşiktaş,5.0,0.0,3.5,0.1,3.4,5.0,15000.0,Signal Iduna Park,François Letexier,UEFA
+582,2021-2022,Group stage,6,2021-12-07,21:00,Ajax,Sporting CP,4.0,2.0,2.1,1.2,0.9000000000000001,2.0,,Johan Cruyff ArenA,Davide Massa,UEFA
+583,2021-2022,Group stage,6,2021-12-07,21:00,Milan,Liverpool,1.0,2.0,1.4,1.9,-0.5,-1.0,56237.0,Stadio Giuseppe Meazza,Danny Makkelie,UEFA
+584,2021-2022,Group stage,6,2021-12-07,22:00,Shakhtar,Sheriff Tiraspol,1.0,1.0,2.0,1.0,1.0,0.0,6841.0,Oblasny SportKomplex Metalist,Donatas Rumšas,UEFA
+585,2021-2022,Group stage,6,2021-12-08,18:45,Juventus,Malmö,1.0,0.0,2.1,0.2,1.9000000000000001,1.0,17501.0,Allianz Stadium,Irfan Peljto,UEFA
+586,2021-2022,Group stage,6,2021-12-08,20:00,Benfica,Dynamo Kyiv,2.0,0.0,1.1,1.0,0.10000000000000009,2.0,36591.0,Estádio do Sport Lisboa e Benfica,Deniz Aytekin,UEFA
+587,2021-2022,Group stage,6,2021-12-08,20:00,Manchester Utd,Young Boys,1.0,1.0,1.2,1.3,-0.10000000000000009,0.0,73156.0,Old Trafford,Benoît Bastien,UEFA
+588,2021-2022,Group stage,6,2021-12-08,20:45,Zenit,Chelsea,3.0,3.0,2.6,2.7,-0.10000000000000009,0.0,29349.0,Gazprom Arena,Serdar Gözübüyük,UEFA
+589,2021-2022,Group stage,6,2021-12-08,21:00,Bayern Munich,Barcelona,3.0,0.0,2.4,0.4,2.0,3.0,,Allianz Arena,Ovidiu Hațegan,UEFA
+590,2021-2022,Group stage,6,2021-12-08,21:00,Wolfsburg,Lille,1.0,3.0,0.7,2.5,-1.8,-2.0,6544.0,Volkswagen Arena,Daniele Orsato,UEFA
+591,2021-2022,Group stage,6,2021-12-08,21:00,RB Salzburg,Sevilla,1.0,0.0,0.6,0.9,-0.30000000000000004,1.0,,Red Bull Arena,Slavko Vinčič,UEFA
+592,2021-2022,Group stage,6,2021-12-09,19:00,Atalanta,Villarreal,2.0,3.0,2.0,2.2,-0.20000000000000018,-1.0,11690.0,Stadio Atleti Azzurri d'Italia,Anthony Taylor,UEFA
+593,2021-2022,Round of 16,,2022-02-15,20:00,Sporting CP,Manchester City,0.0,5.0,0.1,2.1,-2.0,-5.0,48129.0,Estádio José Alvalade,Srdjan Stojanovic,UEFA
+594,2021-2022,Round of 16,,2022-02-15,21:00,Paris S-G,Real Madrid,1.0,0.0,2.4,0.3,2.1,1.0,47443.0,Parc des Princes,Daniele Orsato,UEFA
+595,2021-2022,Round of 16,,2022-02-16,21:00,RB Salzburg,Bayern Munich,1.0,1.0,1.1,2.3,-1.1999999999999997,0.0,29520.0,Red Bull Arena,Michael Oliver,UEFA
+596,2021-2022,Round of 16,,2022-02-16,21:00,Inter,Liverpool,0.0,2.0,0.6,1.0,-0.4,-2.0,37918.0,Stadio Giuseppe Meazza,Szymon Marciniak,UEFA
+597,2021-2022,Round of 16,,2022-02-22,20:00,Chelsea,Lille,2.0,0.0,1.2,0.8,0.3999999999999999,2.0,38832.0,Stamford Bridge,Jesús Gil,UEFA
+598,2021-2022,Round of 16,,2022-02-22,21:00,Villarreal,Juventus,1.0,1.0,1.3,0.7,0.6000000000000001,0.0,17686.0,Estadio de la Cerámica,Daniel Siebert,UEFA
+599,2021-2022,Round of 16,,2022-02-23,20:00,Benfica,Ajax,2.0,2.0,2.0,2.4,-0.3999999999999999,0.0,54760.0,Estádio do Sport Lisboa e Benfica,Slavko Vinčič,UEFA
+600,2021-2022,Round of 16,,2022-02-23,21:00,Atlético Madrid,Manchester Utd,1.0,1.0,1.3,0.6,0.7000000000000001,0.0,63273.0,Estadio Wanda Metropolitano,Ovidiu Hațegan,UEFA
+601,2021-2022,Round of 16,,2022-03-08,20:00,Liverpool,Inter,0.0,1.0,1.8,0.5,1.3,-1.0,51747.0,Anfield,Antonio Matéu Lahoz,UEFA
+602,2021-2022,Round of 16,,2022-03-08,21:00,Bayern Munich,RB Salzburg,7.0,1.0,4.2,0.7,3.5,6.0,25000.0,Allianz Arena,Clément Turpin,UEFA
+603,2021-2022,Round of 16,,2022-03-09,20:00,Manchester City,Sporting CP,0.0,0.0,1.5,0.8,0.7,0.0,51213.0,Etihad Stadium,Halil Umut Meler,UEFA
+604,2021-2022,Round of 16,,2022-03-09,21:00,Real Madrid,Paris S-G,3.0,1.0,1.9,1.1,0.7999999999999998,2.0,59895.0,Estadio Santiago Bernabéu,Danny Makkelie,UEFA
+605,2021-2022,Round of 16,,2022-03-15,20:00,Manchester Utd,Atlético Madrid,0.0,1.0,1.0,0.5,0.5,-1.0,73008.0,Old Trafford,Slavko Vinčič,UEFA
+606,2021-2022,Round of 16,,2022-03-15,21:00,Ajax,Benfica,0.0,1.0,1.3,0.4,0.9,-1.0,54066.0,Johan Cruyff ArenA,Carlos del Cerro,UEFA
+607,2021-2022,Round of 16,,2022-03-16,21:00,Lille,Chelsea,1.0,2.0,1.7,1.0,0.7,-1.0,49048.0,Stade Pierre-Mauroy,Davide Massa,UEFA
+608,2021-2022,Round of 16,,2022-03-16,21:00,Juventus,Villarreal,0.0,3.0,1.5,2.5,-1.0,-3.0,30385.0,Allianz Stadium,Szymon Marciniak,UEFA
+609,2021-2022,Quarter-finals,,2022-04-05,20:00,Benfica,Liverpool,1.0,3.0,1.2,3.9,-2.7,-2.0,59633.0,Estádio do Sport Lisboa e Benfica,Jesús Gil,UEFA
+610,2021-2022,Quarter-finals,,2022-04-05,20:00,Manchester City,Atlético Madrid,1.0,0.0,1.0,0.0,1.0,1.0,52018.0,Etihad Stadium,István Kovács,UEFA
+611,2021-2022,Quarter-finals,,2022-04-06,20:00,Chelsea,Real Madrid,1.0,3.0,1.3,1.8,-0.5,-2.0,38689.0,Stamford Bridge,Clément Turpin,UEFA
+612,2021-2022,Quarter-finals,,2022-04-06,21:00,Villarreal,Bayern Munich,1.0,0.0,1.5,1.6,-0.10000000000000009,1.0,21626.0,Estadio de la Cerámica,Anthony Taylor,UEFA
+613,2021-2022,Quarter-finals,,2022-04-12,21:00,Bayern Munich,Villarreal,1.0,1.0,1.4,0.7,0.7,0.0,70000.0,Allianz Arena,Slavko Vinčič,UEFA
+614,2021-2022,Quarter-finals,,2022-04-12,21:00,Real Madrid,Chelsea,2.0,3.0,1.2,2.7,-1.5000000000000002,-1.0,59839.0,Estadio Santiago Bernabéu,Szymon Marciniak,UEFA
+615,2021-2022,Quarter-finals,,2022-04-13,20:00,Liverpool,Benfica,3.0,3.0,1.8,1.2,0.6000000000000001,0.0,51373.0,Anfield,Serdar Gözübüyük,UEFA
+616,2021-2022,Quarter-finals,,2022-04-13,21:00,Atlético Madrid,Manchester City,0.0,0.0,0.8,1.2,-0.3999999999999999,0.0,65675.0,Estadio Wanda Metropolitano,Daniel Siebert,UEFA
+617,2021-2022,Semi-finals,,2022-04-26,20:00,Manchester City,Real Madrid,4.0,3.0,2.7,1.6,1.1,1.0,52217.0,Etihad Stadium,István Kovács,UEFA
+619,2021-2022,Semi-finals,,2022-04-27,20:00,Liverpool,Villarreal,2.0,0.0,1.6,0.1,1.5,2.0,51586.0,Anfield,Szymon Marciniak,UEFA
+620,2021-2022,Semi-finals,,2022-05-03,21:00,Villarreal,Liverpool,2.0,3.0,1.2,2.5,-1.3,-1.0,23665.0,Estadio de la Cerámica,Danny Makkelie,UEFA
+621,2021-2022,Semi-finals,,2022-05-04,21:00,Real Madrid,Manchester City,3.0,1.0,2.3,1.4,0.8999999999999999,2.0,61416.0,Estadio Santiago Bernabéu,Daniele Orsato,UEFA
+622,2021-2022,Final,,2022-05-28,21:30,Liverpool,Real Madrid,0.0,1.0,2.2,0.9,1.3000000000000003,-1.0,75000.0,Stade de France (Neutral Site),Clément Turpin,UEFA
