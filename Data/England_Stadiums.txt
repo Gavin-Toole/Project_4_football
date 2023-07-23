@@ -1,0 +1,67 @@
+City	Club	Stadium	Cap.
+Barnsley	Barnsley	Oakwell Stadium	23,287
+Birmingham	Aston Villa	Villa Park	42,785
+Birmingham	Birmingham City	St Andrew's Stadium	30,009
+Blackburn	Blackburn Rovers	Ewood Park	31,154
+Blackpool	Blackpool	Bloomfield Road	16,007
+Bolton	Bolton Wanderers	University of Bolton Stadium	28,100
+Bournemouth	Bournemouth	Vitality Stadium	11,464
+Bradford	Bradford City	Coral Windows Stadium	25,136
+Brighton	Brighton & Hove Albion	The Amex	31,800
+Bristol	Bristol City	Ashton Gate Stadium	27,000
+Bristol	Bristol Rovers	Memorial Stadium	11,000
+Burnley	Burnley	Turf Moor	21,401
+Bury	Bury	Gigg Lane	11,840
+Coventry	Coventry City	Coventry Building Society Arena	32,604
+Dagenham	Dagenham & Redbridge	Victoria Road	6,078
+Derby	Derby County	The iPro Stadium	33,010
+Doncaster	Doncaster Rovers	Keepmoat Stadium	15,231
+Fleetwood	Fleetwood Town	Highbury Stadium	5,094
+Gillingham	Gillingham FC	Priestfield Stadium	10,500
+Huddersfield	Huddersfield Town	John Smith's Stadium	24,554
+Hull	Hull City	MKM Stadium	25,586
+Ipswich	Ipswich Town	Portman Road	30,311
+Leeds	Leeds United	Elland Road	39,460
+Leicester	Leicester City	King Power Stadium	32,312
+Liverpool	Everton	Goodison Park	40,157
+Liverpool	Liverpool	Anfield	54,074
+London	Arsenal	Emirates Stadium	60,361
+London	Brentford	Brentford Community Stadium	17,250
+London	Charlton Athletic	The Valley	27,111
+London	Chelsea	Stamford Bridge	41,837
+London	Crystal Palace	Selhurst Park	26,225
+London	Fulham	Craven Cottage	25,700
+London	Leyton Orient	The Matchroom Stadium	9,271
+London	Millwall	The Den	19,734
+London	Queens Park Rangers	Loftus Road	18,439
+London	Tottenham Hotspur	Tottenham Hotspur Stadium	62,303
+London	West Ham United	London Stadium	60,000
+London	--	Wembley Stadium	90,000
+Luton	Luton Town	Kenilworth Road	10,226
+Manchester	Manchester City	Etihad Stadium	55,000
+Manchester	Manchester United	Old Trafford	75,811
+Middlesbrough	Middlesbrough	Riverside Stadium	34,742
+Newcastle-upon-Tyne	Newcastle United	St James Park	52,339
+Norwich	Norwich City	Carrow Road	27,010
+Nottingham	Nottingham Forest	City Ground	30,567
+Nottingham	Notts County	Meadow Lane	20,300
+Oxford	Oxford United	The Kassam Stadium	12,500
+Peterborough	Peterborough	ABAX Stadium	14,084
+Portsmouth	Portsmouth	Fratton Park	21,178
+Preston	Preston North End	Deepdale	23,404
+Reading	Reading	Madejski Stadium	24,161
+Rochdale	Rochdale AFC	Crown Oil Arena	12,249
+Rotherham	Rotherham United	New York Stadium	12,000
+Scunthorpe	Scunthorpe United	Glanford Park	9,088
+Sheffield	Sheffield United	Bramall Lane	32,609
+Sheffield	Sheffield Wednesday	Hillsborough	39,732
+Shrewsbury	Shrewsbury Town	Montgomery Waters Stadium	9,875
+Southampton	Southampton	St Mary's Stadium	32,689
+Southend-on-Sea	Southend United	Roots Hall Stadium	13,392
+Stevenage	Stevenage FC	The Lamex Stadium	6,490
+Stoke-on-Trent	Stoke City	bet365 Stadium	27,743
+Sunderland	Sunderland	Stadium of Light	49,000
+Watford	Watford	Vicarage Road	21,500
+West Bromwich	West Bromwich Albion	The Hawthorns	26,287
+Wigan	Wigan Athletic	DW Stadium	25,133
+Wolverhampton	Wolverhampton Wanderers	Molineux Stadium	31,700

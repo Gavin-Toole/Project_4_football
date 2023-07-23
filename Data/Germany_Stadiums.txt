@@ -1,0 +1,44 @@
+City	Club	Stadium	Cap.
+Aachen	Alemannia Aachen	Tivoli	32,960
+Aue	Erzgebirge Aue	Erzgebirgsstadion	16,485
+Augsburg	FC Augsburg	WWK Arena	30,660
+Berlin	FC Union Berlin	Stadion An der Alten Försterei	22,012
+Berlin	Hertha BSC	Olympiastadion	74,649
+Bielefeld	Arminia Bielefeld	SchucoArena	26,515
+Bochum	VFL Bochum	Vonovia Ruhrstadion	29,299
+Bremen	Werder Bremen	Weserstadion	42,100
+Brunswick	Eintracht Braunschweig	Eintracht-Stadion	23,325
+Cologne	1. FC Koln	RheinEnergieStadion	50,000
+Cottbus	Energie Cottbus	Stadion der Freundschaft	22,528
+Darmstadt	SV Darmstadt 98	Stadion am Bollenfalltor	17,400
+Dortmund	Borussia Dortmund	Signal Iduna Park	81,359
+Dresden	Dynamo Dresden	Rudolf-Harbig-Stadion	32,249
+Duisburg	MSV Duisburg	Schauinsland-Reisen-Stadion	31,500
+Dusseldorf	Fortuna Dusseldorf	Merkur Spiel Arena	54,600
+Essen	Rot-Weiss Essen	Stadion Essen	20,650
+Frankfurt	Eintracht Frankfurt	Deutsche Bank Park	51,500
+Freiburg	SC Freiburg	Schwarzwald-Stadion	24,000
+Furth	Greuther Furth	Sportpark Ronhof	18,000
+Gelsenkirchen	FC Schalke 04	VELTINS-Arena	61,673
+Hamburg	Hamburger SV	Volksparkstadion	57,000
+Hamburg	St. Pauli	Millerntor-Stadion	29,546
+Hanover	Hannover 96	HDI Arena	49,000
+Ingolstadt	FC Ingolstadt 04	Audi Sportpark	15,800
+Kaiserslautern	1. FC Kaiserslautern	Fritz-Walter-Stadion	49,780
+Kiel	Holstein Kiel	Holstein-Stadion	13,400
+Leipzig	RB Leipzig	Red Bull Arena	42,959
+Leverkusen	Bayer 04 Leverkusen	BayArena	30,000
+Magdeburg	1. FC Magdeburg	MDCC-Arena	25,500
+Mainz	1. FSV Mainz 05	MEWA Arena	33,305
+Mainz	1. FSV Mainz 05 II	Bruchwegstadion	18,000
+Monchengladbach	Borussia Monchengladbach	Borussia-Park	54,010
+Munich	FC Bayern	Allianz Arena	75,000
+Munich	TSV 1860 Munchen	Grunwalder Stadion	15,000
+Munich	--	Olympiastadion Munich	69,250
+Nuremberg	1. FC Nurnberg	Max-Morlock-Stadion	50,000
+Paderborn	SC Paderborn 07	Benteler-Arena	15,000
+Regensburg	Jahn Regensburg	Jahnstadion Regensburg	15,115
+Sinsheim	1899 Hoffenheim	PreZero Arena	30,150
+Stuttgart	VFB Stuttgart	Mercedes-Benz Arena	60,441
+Wiesbaden	SV Wehen Wiesbaden	BRITA-Arena	12,556
+Wolfsburg	VFL Wolfsburg	Volkswagen Arena	30,000

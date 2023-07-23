@@ -1,0 +1,43 @@
+City	Club	Stadium	Cap.
+Ajaccio	AC Ajaccio	Stade Francois Coty	10,660
+Amiens	Amiens SC	Stade de la Licorne	12,097
+Angers	Angers SCO	Stade Raymond Kopa	16,500
+Annecy	FC Annecy	Parc des Sports	15,660
+Auxerre	AJ Auxerre	Stade Abbe Deschamps	21,379
+Bastia	SC Bastia	Stade Armand Cesari	16,480
+Bordeaux	Girondins de Bordeaux	Matmut Atlantique	42,115
+Bordeaux	--	Stade Chaban-Delmas	34,263
+Bourg-en-Bresse	FBBP 01	Stade Marcel Verchere	11,500
+Brest	Stade Brestois 29	Stade Francis-Le Ble	15,097
+Caen	Stade Malherbe Caen	Stade Michel d'Ornano	21,000
+Chateauroux	Le Berrichonne de Chateauroux	Stade Gaston Petit	17,000
+Dijon	Dijon FCO	Stade Gaston-Gerard	16,000
+Grenoble	Grenoble Foot 38	Stade des Alpes	20,000
+Guingamp	EA Guingamp	Stade du Roudourou	18,250
+Le Havre	Havre AC	Stade Oceane	25,278
+Le Mans	Le Mans FC	MMArena	25,000
+Lens	RC Lens	Stade Bollaert-Delelis	38,223
+Lille	Lille OSC	Stade Pierre Mauroy	50,000
+Lorient	FC Lorient	Stade du Moustoir	14,340
+Lyon	Olympique Lyonnais	Groupama Stadium	59,186
+Lyon	--	Stade Gerland	40,494
+Marseille	Olympique de Marseille	Orange Velodrome	67,000
+Metz	FC Metz	Stade Saint-Symphorien	26,600
+Monaco	AS Monaco FC	Stade Louis II	18,523
+Montbeliard	FC Sochaux	Stade Auguste Bonal	20,000
+Montpellier	Montpellier HSC	Stade de la Mosson	32,900
+Nancy	AS Nancy Lorraine	Stade Marcel-Picot	20,087
+Nantes	FC Nantes	Stade de La Beaujoire	37,473
+Nice	OGC Nice	Allianz Riviera	35,624
+Nimes	Nimes Olympique	Stade des Costieres	29,487
+Niort	Chamois Niortais	Stade Rene Gaillard	11,352
+Paris	Paris FC	Stade Charlety	20,000
+Paris	Paris Saint-Germain	Parc des Princes	48,527
+Reims	Stade de Reims	Stade Auguste Delaune	21,684
+Rennes	Stade Rennais FC	Roazhon Park	29,778
+Saint-Denis	--	Stade de France	80,000
+Saint-Etienne	AS Saint-Etienne	Stade Geoffroy Guichard	41,500
+Strasbourg	RC Strasbourg Alsace	Stade de la Meinau	27,500
+Toulouse	Toulouse FC	Stadium de Toulouse	35,472
+Troyes	ES Troyes AC	Stade de l'Aube	20,400
+Valenciennes	Valenciennes FC	Stade du Hainaut	24,926

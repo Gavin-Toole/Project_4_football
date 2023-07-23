@@ -1,0 +1,44 @@
+City	Club	Stadium	Cap.
+Bari	Bari	Stadio San Nicola	58,270
+Benevento	Benevento Calcio	Stadio Ciro Vigorito	12,847
+Bergamo	Atalanta	Stadio Atleti Azzurri d'Italia	26,562
+Bologna	Bologna	Stadio Renato Dall'Ara	38,279
+Brescia	Brescia	Stadio Mario Rigamonti	16,308
+Cagliari	Cagliari	Stadio Sant'Elia	23,486
+Catania	Catania	Stadio Angelo Massimio	20,016
+Como	Como	Stadio G. Sinigaglia	8,028
+Cremona	Cremonese	Stadio Giovanni Zini	16,003
+Crotone	Crotone	Stadio Ezio Scida	9,631
+Empoli	Empoli	Stadio Carlo Castellani	20,000
+Ferrara	S.P.A.L.	Stadio Paolo Mazza	16,134
+Florence	Fiorentina	Stadio Artemio Franchi	43,147
+Frosinone	Frosinone	Stadio Benito Stirpe	16,227
+Genova	Genoa
+Sampdoria	Stadio Luigi Ferraris	36,599
+La Spezia	Spezia	Stadio Alberto Picco	10,336
+Lecce	Lecce	Stadio Via Del Mare	31,533
+Livorno	Livorno	Stadio Armando Picchi	19,234
+Milan	Inter
+Milan	San Siro	80,018
+Modena	Modena	Stadio Alberto Braglia	21,151
+Monza	Monza	Stadio Brianteo	7,499
+Naples	Napoli	Stadio San Paolo	60,240
+Novara	Novara	Stadio Silvio Piola	17,875
+Padua	Padova	Stadio Euganeo	18,060
+Palermo	Palermo	Stadio Renzo Barbera	36,349
+Parma	Parma	Stadio Ennio Tardini	27,906
+Pescara	Pescara	Stadio Adriatico	20,476
+Piacenza	Piacenza	Stadio Leonardo Garilli	17,821
+Reggio Emilia	Reggiana
+Sassuolo	MAPEI Stadium - Citta del Tricolore	20,084
+Rome	Lazio
+Roma	Stadio Olimpico	72,698
+Siena	Siena	Stadio Artemio Franchi	15,373
+Turin	Juventus	Allianz Stadium	41,000
+Turin	Torino	Stadio Olimpico di Torino	25,300
+Udine	Udinese
+Pordenone	Stadio Friuli	25,000
+Varese	--	Stadio Franco Ossola	9,926
+Venice	Venezia	Stadio Pierluigi Penzo	7,450
+Verona	Chievo Verona
+Hellas Verona	Stadio Marcantonio Bentegodi	39,221

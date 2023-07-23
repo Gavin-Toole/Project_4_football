@@ -1,0 +1,137 @@
+league,avgofannual_wages,squad,wages_rank
+Bundesliga,214600262.6,Bayern Munich,1
+Bundesliga,95156702.6,Dortmund,3
+Bundesliga,63199947.4,Wolfsburg,4
+Bundesliga,56765032.25,Schalke 04,5
+Bundesliga,56206762,RB Leipzig,6
+Bundesliga,56000901,Leverkusen,7
+Bundesliga,49089490,M'Gladbach,8
+Bundesliga,42290893.2,Hoffenheim,9
+Bundesliga,38849964.2,Eint Frankfurt,10
+Bundesliga,37924307,Hertha BSC,11
+Bundesliga,34882158,Hamburger SV,12
+Bundesliga,34358841.25,Werder Bremen,13
+Bundesliga,32381509.25,KÃ¶ln,14
+Bundesliga,25449741.75,Stuttgart,15
+Bundesliga,23492258.4,Augsburg,16
+Bundesliga,21579385,Mainz 05,17
+Bundesliga,20433189.6666667,Union Berlin,18
+Bundesliga,18905798,DÃ¼sseldorf,19
+Bundesliga,15936971.2,Freiburg,20
+Bundesliga,13768197,Bochum,21
+Bundesliga,12942721,Greuther FÃ¼rth,22
+Bundesliga,11176598,NÃ¼rnberg,23
+Bundesliga,10303219.5,Arminia,24
+Bundesliga,7143974,Paderborn 07,25
+EPL,222433114.8,Manchester Utd,1
+EPL,179932697,Manchester City,2
+EPL,175604562.4,Chelsea,3
+EPL,163805984.4,Arsenal,4
+EPL,149067536.8,Liverpool,5
+EPL,127294420.2,Tottenham,6
+EPL,107874700,Everton,7
+EPL,92044989.2,Crystal Palace,8
+EPL,89788562.8,Leicester City,9
+EPL,89407711.8,West Ham,10
+EPL,74838599.6666667,Aston Villa,11
+EPL,73859079,Southampton,12
+EPL,69386704,Newcastle Utd,13
+EPL,62637256.5,Fulham,14
+EPL,60791683.5,Wolves,15
+EPL,59609032,Stoke City,16
+EPL,59218946.25,Watford,17
+EPL,58417020.5,West Brom,18
+EPL,58054764,Swansea City,19
+EPL,55941092.3333333,Bournemouth,20
+EPL,55778389.4,Brighton,21
+EPL,48016067.4,Burnley,22
+EPL,40090150,Cardiff City,23
+EPL,36895335.5,Huddersfield,24
+EPL,34943688.5,Norwich City,25
+EPL,29163122.5,Leeds United,26
+EPL,26897219.5,Sheffield Utd,27
+EPL,25677627,Brentford,28
+La Liga,297759978.4,Barcelona,1
+La Liga,291618608.4,Real Madrid,2
+La Liga,163951428.8,AtlÃ©tico Madrid,3
+La Liga,82376021.2,Sevilla,4
+La Liga,72550359.2,Valencia,5
+La Liga,70072285.4,Villarreal,6
+La Liga,57305466.2,Athletic Club,7
+La Liga,46892590.4,Celta Vigo,8
+La Liga,44880863.6,Real Sociedad,9
+La Liga,37822700.2,Betis,10
+La Liga,35995024,LeganÃ©s,11
+La Liga,32068896.75,Espanyol,12
+La Liga,25454012.3333333,Granada,13
+La Liga,25449261,MÃ¡laga,14
+La Liga,25232595.8,Levante,15
+La Liga,25170427.4,Getafe,16
+La Liga,22370928.8,AlavÃ©s,17
+La Liga,21461472,La CoruÃ±a,18
+La Liga,20080579,Las Palmas,19
+La Liga,20056120,CÃ¡diz,20
+La Liga,19185032.75,Eibar,21
+La Liga,19098153.3333333,Osasuna,22
+La Liga,18605584,Valladolid,23
+La Liga,17279040,Mallorca,24
+La Liga,16723621.5,Elche,25
+La Liga,16635470,Huesca,26
+La Liga,16376107.5,Girona,27
+La Liga,16010245,Rayo Vallecano,28
+Ligue1,294309377.8,Paris S-G,1
+Ligue1,58144648.8,Marseille,2
+Ligue1,51527008.8,Monaco,3
+Ligue1,41251695.2,Lyon,4
+Ligue1,26975966.6,Nice,5
+Ligue1,25880288,Lille,6
+Ligue1,22218438.2,Rennes,7
+Ligue1,21374085.25,Saint-Ã‰tienne,8
+Ligue1,18499666,Bordeaux,9
+Ligue1,15344930.4,Nantes,10
+Ligue1,14451503.3333333,Toulouse,11
+Ligue1,13069600,Guingamp,12
+Ligue1,12574777.6,Montpellier,13
+Ligue1,12149626.2,Angers,14
+Ligue1,12058638,Amiens,15
+Ligue1,11660168.5,Caen,16
+Ligue1,11565218.3333333,Dijon,17
+Ligue1,11214305,Metz,18
+Ligue1,10685204,Reims,19
+Ligue1,9055199,Brest,20
+Ligue1,8415243.4,Strasbourg,21
+Ligue1,7958994.33333333,Lorient,22
+Ligue1,5288560.66666667,Troyes,23
+Ligue1,4717418.5,NÃ®mes,24
+Ligue1,3654049,Clermont Foot,25
+Ligue1,3475017.66666667,Lens,26
+Ligue1,2309378,Ajaccio,27
+Ligue1,412543,Auxerre,28
+Serie A,210186081.2,Juventus,1
+Serie A,123290501.2,Inter,2
+Serie A,107143493.2,Milan,3
+Serie A,103369110,Roma,4
+Serie A,98757631.4,Napoli,5
+Serie A,71988418.8,Lazio,6
+Serie A,47466756.4,Fiorentina,7
+Serie A,45278725,Torino,8
+Serie A,40849256.8,Genoa,9
+Serie A,39081303.2,Cagliari,10
+Serie A,38519975.2,Atalanta,11
+Serie A,36558183.4,Sampdoria,12
+Serie A,34034253,Bologna,13
+Serie A,32937690,Lecce,14
+Serie A,32249449.6666667,Parma,15
+Serie A,32067979,Sassuolo,16
+Serie A,28833726.5,Empoli,17
+Serie A,25546072.5,Benevento,18
+Serie A,25541179.4,Udinese,19
+Serie A,25526712.3333333,SPAL,20
+Serie A,24403904.25,Hellas Verona,21
+Serie A,23490524,Salernitana,22
+Serie A,23368232,Venezia,23
+Serie A,22931028,Frosinone,24
+Serie A,19094074,Chievo,25
+Serie A,18690509,Spezia,26
+Serie A,16499416,Brescia,27
+Serie A,14927945.5,Crotone,28
