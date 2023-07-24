@@ -1,0 +1,51 @@
+City	Club	Stadium	Cap.
+A Coruna	Deportivo de La Coruna	Estadio ABANCA-Riazor	32,660
+Alcorcon	AD Alcorcon	Estadio Municipal de Santo Domingo	5,880
+Alicante	Alicante CF	Estadio Jose Rico Perez	29,500
+Almeria	UD Almeria	Estadio de los Juegos Mediterraneos	15,000
+Barakaldo	Barakaldo CF	Campo de Lasesarre	7,960
+Barcelona	FC Barcelona	Camp Nou	99,354
+Barcelona	RCD Espanyol	RCDE Stadium	40,500
+Bilbao	Athletic Club	Estadio San Mames	53,000
+Cadiz	Cadiz CF	Nuevo Estadio Ramon de Carranza	20,000
+Cartagena	FC Cartagena	Estadio Cartagonova	15,105
+Cordoba	Cordoba CF	Estadio El Arcangel	20,989
+Eibar	SD Eibar	Estadio de Ipurua	7,083
+Elche	Elche CF	Estadio Martinez Valero	36,017
+Getafe	Getafe CF	Coliseum Alfonso Perez	17,500
+Gijon	Real Sporting de Gijon	Estadio El Molinon	30,000
+Girona	Girona FC	Estadi Municipal de Montilivi	9,500
+Granada	Granada CF	Estadio de Los Carmenes	22,500
+Huesca	SD Huesca	Estadio El Alcoraz	7,683
+Irun	Real Union Club de Irun	Stadium Gal	5,000
+Las Palmas	UD Las Palmas	Estadio de Gran Canaria	31,250
+Leganes	CD Leganes	Estadio Municipal de Butarque	10,958
+Logrono	UD Logrones
+SD Logrones	Estadio Las Gaunas	16,000
+Madrid	Atletico de Madrid	Wanda Metropolitano	68,000
+Madrid	Rayo Vallecano	Campo de Futbol de Vallecas	14,708
+Madrid	Real Madrid CF	Estadio Santiago Bernabeu	81,044
+Madrid	Real Madrid Castilla	Estadio Alfredo di Stefano	6,000
+Malaga	Malaga CF	Estadio La Rosaleda	30,044
+Murcia	Real Murcia FC	Estadio Enrique Roca de Murcia	31,179
+Oviedo	Real Oviedo	Estadio Carlos Tartiere	30,500
+Palma de Mallorca	RCD Mallorca	Iberostar Estadio	23,142
+Pamplona	CA Osasuna	Estadio El Sadar	23,500
+Ponferrada	SD Ponferradina	Estadio Municipal El Toralin	8,400
+Sabadell	CE Sabadell FC	Estadi Municipal de la Nova Creu Alta	20,000
+San Sebastian	Real Sociedad	Reale Arena	40,000
+Santa Cruz de Tenerife	CD Tenerife	Estadio Heliodoro Rodriguez Lopez	22,824
+Santander	Racing Club de Santander	Campos de Sport de El Sardinero	22,222
+Seville	--	Estadio La Cartuja de Sevilla	60,000
+Seville	Real Betis Balompie	Estadio Benito Villamarin	60,721
+Seville	Sevilla FC	Estadio Ramon Sanchez Pizjuan	42,714
+Soria	CD Numancia	Nuevo Estadio Los Pajaritos	8,727
+Tarragona	Gimnastic de Tarragona	Nou Estadi	14,591
+Valencia	Levante UD	Estadi Ciutat de Valencia	26,354
+Valencia	Valencia CF	Estadio de Mestalla	55,000
+Valladolid	Real Valladolid CF	Estadio Jose Zorrilla	26,512
+Villarreal	Villarreal CF	Estadio El Madrigal	25,000
+Vigo	RC Celta de Vigo	Estadio Municipal de Balaidos	31,800
+Vitoria-Gasteiz	Deportivo Alaves	Estadio de Mendizorroza	19,840
+Zaragoza	Real Zaragoza	Estadio La Romareda	34,596
+GEEF EEN ANTWOORD

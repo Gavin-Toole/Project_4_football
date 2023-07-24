@@ -1,0 +1,137 @@
+league,squad,avgofannual_wages,avgofpts
+Bundesliga,Bayern Munich,214600262.6,79.8
+Bundesliga,Dortmund,95156702.6,66.6
+Bundesliga,Wolfsburg,63199947.4,48
+Bundesliga,Schalke 04,56765032.25,37.75
+Bundesliga,RB Leipzig,56206762,61.6
+Bundesliga,Leverkusen,56000901,58.4
+Bundesliga,M'Gladbach,49089490,52.2
+Bundesliga,Hoffenheim,42290893.2,49.4
+Bundesliga,Eint Frankfurt,38849964.2,50
+Bundesliga,Hertha BSC,37924307,39
+Bundesliga,Hamburger SV,34882158,31
+Bundesliga,Werder Bremen,34358841.25,39.25
+Bundesliga,KÃ¶ln,32381509.25,35.75
+Bundesliga,Stuttgart,25449741.75,39.25
+Bundesliga,Augsburg,23492258.4,36.6
+Bundesliga,Mainz 05,21579385,40.2
+Bundesliga,Union Berlin,20433189.6666667,49.3333333333333
+Bundesliga,DÃ¼sseldorf,18905798,37
+Bundesliga,Freiburg,15936971.2,44
+Bundesliga,Bochum,13768197,42
+Bundesliga,Greuther FÃ¼rth,12942721,18
+Bundesliga,NÃ¼rnberg,11176598,19
+Bundesliga,Arminia,10303219.5,31.5
+Bundesliga,Paderborn 07,7143974,20
+EPL,Manchester Utd,222433114.8,69
+EPL,Manchester City,179932697,91.6
+EPL,Chelsea,175604562.4,69.8
+EPL,Arsenal,163805984.4,63.8
+EPL,Liverpool,149067536.8,86.4
+EPL,Tottenham,127294420.2,68
+EPL,Everton,107874700,50
+EPL,Crystal Palace,92044989.2,45.6
+EPL,Leicester City,89788562.8,55.8
+EPL,West Ham,89407711.8,50.8
+EPL,Aston Villa,74838599.6666667,45
+EPL,Southampton,73859079,42
+EPL,Newcastle Utd,69386704,45.4
+EPL,Fulham,62637256.5,27
+EPL,Wolves,60791683.5,53
+EPL,Stoke City,59609032,33
+EPL,Watford,59218946.25,37
+EPL,West Brom,58417020.5,28.5
+EPL,Swansea City,58054764,33
+EPL,Bournemouth,55941092.3333333,41
+EPL,Brighton,55778389.4,41.8
+EPL,Burnley,48016067.4,44.4
+EPL,Cardiff City,40090150,34
+EPL,Huddersfield,36895335.5,26.5
+EPL,Norwich City,34943688.5,21.5
+EPL,Leeds United,29163122.5,48.5
+EPL,Sheffield Utd,26897219.5,38.5
+EPL,Brentford,25677627,46
+La Liga,Barcelona,297759978.4,82.8
+La Liga,Real Madrid,291618608.4,80.2
+La Liga,AtlÃ©tico Madrid,163951428.8,76.4
+La Liga,Sevilla,82376021.2,66.8
+La Liga,Valencia,72550359.2,55.6
+La Liga,Villarreal,70072285.4,56.4
+La Liga,Athletic Club,57305466.2,49.6
+La Liga,Celta Vigo,46892590.4,45.2
+La Liga,Real Sociedad,44880863.6,55.8
+La Liga,Betis,37822700.2,55.4
+La Liga,LeganÃ©s,35995024,36
+La Liga,Espanyol,32068896.75,42.25
+La Liga,Granada,25454012.3333333,46.6666666666667
+La Liga,MÃ¡laga,25449261,20
+La Liga,Levante,25232595.8,43
+La Liga,Getafe,25170427.4,49
+La Liga,AlavÃ©s,22370928.8,41
+La Liga,La CoruÃ±a,21461472,29
+La Liga,Las Palmas,20080579,22
+La Liga,CÃ¡diz,20056120,41.5
+La Liga,Eibar,19185032.75,42.5
+La Liga,Osasuna,19098153.3333333,47.6666666666667
+La Liga,Valladolid,18605584,38
+La Liga,Mallorca,17279040,36
+La Liga,Elche,16723621.5,39
+La Liga,Huesca,16635470,33.5
+La Liga,Girona,16376107.5,44
+La Liga,Rayo Vallecano,16010245,37
+Ligue1,Paris S-G,294309377.8,84.2
+Ligue1,Marseille,58144648.8,66
+Ligue1,Monaco,51527008.8,64.2
+Ligue1,Lyon,41251695.2,66.8
+Ligue1,Nice,26975966.6,54.6
+Ligue1,Lille,25880288,60.6
+Ligue1,Rennes,22218438.2,56.8
+Ligue1,Saint-Ã‰tienne,21374085.25,49.75
+Ligue1,Bordeaux,18499666,43
+Ligue1,Nantes,15344930.4,45.2
+Ligue1,Toulouse,14451503.3333333,37.6666666666667
+Ligue1,Guingamp,13069600,37
+Ligue1,Montpellier,12574777.6,48.8
+Ligue1,Angers,12149626.2,37.2
+Ligue1,Amiens,12058638,41.5
+Ligue1,Caen,11660168.5,35.5
+Ligue1,Dijon,11565218.3333333,34.3333333333333
+Ligue1,Metz,11214305,34.6666666666667
+Ligue1,Reims,10685204,47.5
+Ligue1,Brest,9055199,39
+Ligue1,Strasbourg,8415243.4,43.6
+Ligue1,Lorient,7958994.33333333,41
+Ligue1,Troyes,5288560.66666667,30.6666666666667
+Ligue1,NÃ®mes,4717418.5,44
+Ligue1,Clermont Foot,3654049,38
+Ligue1,Lens,3475017.66666667,60.6666666666667
+Ligue1,Ajaccio,2309378,21
+Ligue1,Auxerre,412543,29
+Serie A,Juventus,210186081.2,83.2
+Serie A,Inter,123290501.2,79.6
+Serie A,Milan,107143493.2,72.6
+Serie A,Roma,103369110,67.6
+Serie A,Napoli,98757631.4,77.6
+Serie A,Lazio,71988418.8,68.2
+Serie A,Fiorentina,47466756.4,49.8
+Serie A,Torino,45278725,48.8
+Serie A,Genoa,40849256.8,37.6
+Serie A,Cagliari,39081303.2,38.4
+Serie A,Atalanta,38519975.2,68.8
+Serie A,Sampdoria,36558183.4,47.4
+Serie A,Bologna,34034253,43.4
+Serie A,Lecce,32937690,35
+Serie A,Parma,32249449.6666667,36.6666666666667
+Serie A,Sassuolo,32067979,49.8
+Serie A,Empoli,28833726.5,39.5
+Serie A,Benevento,25546072.5,27
+Serie A,Udinese,25541179.4,43
+Serie A,SPAL,25526712.3333333,33.3333333333333
+Serie A,Hellas Verona,24403904.25,43
+Serie A,Salernitana,23490524,31
+Serie A,Venezia,23368232,27
+Serie A,Frosinone,22931028,25
+Serie A,Chievo,19094074,28.5
+Serie A,Spezia,18690509,37.5
+Serie A,Brescia,16499416,25
+Serie A,Crotone,14927945.5,29

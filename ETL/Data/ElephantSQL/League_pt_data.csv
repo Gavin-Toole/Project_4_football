@@ -1,0 +1,137 @@
+league,avg_pts,squad,pts_rank
+Bundesliga,79.8,Bayern Munich,1
+Bundesliga,66.6,Dortmund,1
+Bundesliga,61.6,RB Leipzig,2
+Bundesliga,58.4,Leverkusen,3
+Bundesliga,52.2,M'Gladbach,4
+Bundesliga,50,Eint Frankfurt,5
+Bundesliga,49.4,Hoffenheim,6
+Bundesliga,49.3333333333333,Union Berlin,7
+Bundesliga,48,Wolfsburg,8
+Bundesliga,44,Freiburg,9
+Bundesliga,42,Bochum,10
+Bundesliga,40.2,Mainz 05,11
+Bundesliga,39.25,Stuttgart,12
+Bundesliga,39.25,Werder Bremen,13
+Bundesliga,39,Hertha BSC,14
+Bundesliga,37.75,Schalke 04,15
+Bundesliga,37,DÃ¼sseldorf,16
+Bundesliga,36.6,Augsburg,17
+Bundesliga,35.75,KÃ¶ln,18
+Bundesliga,31.5,Arminia,19
+Bundesliga,31,Hamburger SV,20
+Bundesliga,20,Paderborn 07,21
+Bundesliga,19,NÃ¼rnberg,22
+Bundesliga,18,Greuther FÃ¼rth,23
+EPL,91.6,Manchester City,1
+EPL,86.4,Liverpool,2
+EPL,69.8,Chelsea,3
+EPL,69,Manchester Utd,4
+EPL,68,Tottenham,5
+EPL,63.8,Arsenal,6
+EPL,55.8,Leicester City,7
+EPL,53,Wolves,8
+EPL,50.8,West Ham,9
+EPL,50,Everton,10
+EPL,48.5,Leeds United,11
+EPL,46,Brentford,12
+EPL,45.6,Crystal Palace,13
+EPL,45.4,Newcastle Utd,14
+EPL,45,Aston Villa,15
+EPL,44.4,Burnley,16
+EPL,42,Southampton,17
+EPL,41.8,Brighton,18
+EPL,41,Bournemouth,19
+EPL,38.5,Sheffield Utd,20
+EPL,37,Watford,21
+EPL,34,Cardiff City,22
+EPL,33,Swansea City,23
+EPL,33,Stoke City,24
+EPL,28.5,West Brom,25
+EPL,27,Fulham,26
+EPL,26.5,Huddersfield,27
+EPL,21.5,Norwich City,28
+La Liga,82.8,Barcelona,1
+La Liga,80.2,Real Madrid,2
+La Liga,76.4,AtlÃ©tico Madrid,3
+La Liga,66.8,Sevilla,4
+La Liga,56.4,Villarreal,5
+La Liga,55.8,Real Sociedad,6
+La Liga,55.6,Valencia,7
+La Liga,55.4,Betis,8
+La Liga,49.6,Athletic Club,9
+La Liga,49,Getafe,10
+La Liga,47.6666666666667,Osasuna,11
+La Liga,46.6666666666667,Granada,12
+La Liga,45.2,Celta Vigo,13
+La Liga,44,Girona,14
+La Liga,43,Levante,15
+La Liga,42.5,Eibar,16
+La Liga,42.25,Espanyol,17
+La Liga,41.5,CÃ¡diz,18
+La Liga,41,AlavÃ©s,19
+La Liga,39,Elche,20
+La Liga,38,Valladolid,21
+La Liga,37,Rayo Vallecano,22
+La Liga,36,Mallorca,23
+La Liga,36,LeganÃ©s,24
+La Liga,33.5,Huesca,25
+La Liga,29,La CoruÃ±a,26
+La Liga,22,Las Palmas,27
+La Liga,20,MÃ¡laga,28
+Ligue1,84.2,Paris S-G,1
+Ligue1,66.8,Lyon,2
+Ligue1,66,Marseille,3
+Ligue1,64.2,Monaco,4
+Ligue1,60.6666666666667,Lens,5
+Ligue1,60.6,Lille,6
+Ligue1,56.8,Rennes,7
+Ligue1,54.6,Nice,8
+Ligue1,49.75,Saint-Ã‰tienne,9
+Ligue1,48.8,Montpellier,10
+Ligue1,47.5,Reims,11
+Ligue1,45.2,Nantes,12
+Ligue1,44,NÃ®mes,13
+Ligue1,43.6,Strasbourg,14
+Ligue1,43,Bordeaux,15
+Ligue1,41.5,Amiens,16
+Ligue1,41,Lorient,17
+Ligue1,39,Brest,18
+Ligue1,38,Clermont Foot,19
+Ligue1,37.6666666666667,Toulouse,20
+Ligue1,37.2,Angers,21
+Ligue1,37,Guingamp,22
+Ligue1,35.5,Caen,23
+Ligue1,34.6666666666667,Metz,24
+Ligue1,34.3333333333333,Dijon,25
+Ligue1,30.6666666666667,Troyes,26
+Ligue1,29,Auxerre,27
+Ligue1,21,Ajaccio,28
+Serie A,83.2,Juventus,1
+Serie A,79.6,Inter,2
+Serie A,77.6,Napoli,3
+Serie A,72.6,Milan,4
+Serie A,68.8,Atalanta,5
+Serie A,68.2,Lazio,6
+Serie A,67.6,Roma,7
+Serie A,49.8,Sassuolo,8
+Serie A,49.8,Fiorentina,9
+Serie A,48.8,Torino,10
+Serie A,47.4,Sampdoria,11
+Serie A,43.4,Bologna,12
+Serie A,43,Hellas Verona,13
+Serie A,43,Udinese,14
+Serie A,39.5,Empoli,15
+Serie A,38.4,Cagliari,16
+Serie A,37.6,Genoa,17
+Serie A,37.5,Spezia,18
+Serie A,36.6666666666667,Parma,19
+Serie A,35,Lecce,20
+Serie A,33.3333333333333,SPAL,21
+Serie A,31,Salernitana,22
+Serie A,29,Crotone,23
+Serie A,28.5,Chievo,24
+Serie A,27,Benevento,25
+Serie A,27,Venezia,26
+Serie A,25,Brescia,27
+Serie A,25,Frosinone,28
