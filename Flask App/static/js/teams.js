@@ -29,6 +29,8 @@ function teamTable(league) {
   
       // Create the table header row
       const headerRow = document.createElement("tr");
+
+    
       tableHeaders.forEach(header => {
         const th = document.createElement("th");
         th.textContent = header;
@@ -39,6 +41,15 @@ function teamTable(league) {
       // Create the table rows with data
       data.forEach(rowData => {
         const row = document.createElement("tr");
+
+        if (rowData.Points >= 75) {
+          row.classList.add("green-row");
+        } else if (rowData.Points >= 25 && rowData.Points < 75) {
+          row.classList.add("yellow-row");
+        } else {
+          row.classList.add("red-row");
+        };
+  
         tableHeaders.forEach(header => {
           const cell = document.createElement("td");
           cell.textContent = rowData[header];
