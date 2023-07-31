@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Top 5 European Football Leagues</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://d3js.org/d3.v5.min.js"></script>
+  
+  <!-- Our own CSS stylesheet -->
+  <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+  
+
+</head>
+
+<body>
+    <div class="container">
+      <div class="text-center">
+        <h3>Top 5 European Football Leagues Team Performance</h3>
+        <h4>League</h4>
+        <select id="selDataset">
+          <!-- Dropdown options will be populated dynamically using JavaScript -->
+        </select>
+        <a href="/">Home</a>
+      </div>
+      <div class="table-container">
+        <div class="team-table-container">
+          <h4>Team Performance Last 10 Seasons</h4>
+          <table id="team-table">
+            <!-- Table data will be populated dynamically using JavaScript -->
+          </table>
+        </div>
+        <div class="cluster-table-container">
+          <h4>Predicted Performance</h4>
+          <label for="Teams">Choose a Team:</label>
+          <select id="Teams">
+            <!-- <option value="" disabled selected>Select a team</option> -->
+            <!-- Dropdown options will be populated dynamically using JavaScript -->
+          </select>
+          <table id="cluster-table">
+            <!-- Table data will be populated dynamically using JavaScript -->
+          </table>
+        </div>
+      </div>
+    </div>
+    <!-- JavaScript code to populate dropdown, fetch data, and create tables -->
+    <script type="text/javascript" src="../static/js/teams.js"></script>
+  </body>
+  </html>

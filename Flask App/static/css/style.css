@@ -1,0 +1,110 @@
+html,
+body  
+{background-image: url('../soccer2.jpeg'); 
+/* -webkit-background-size: cover; 
+-moz-background-size: cover; */ 
+background-size: cover; 
+background-repeat: no-repeat;
+background-position: center;
+}
+/* #map-id {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+} */
+
+h3 { 
+  color : white;
+}
+h2 { 
+  color: white;
+}
+h1 {
+  color :white;
+}
+p {
+  color: white;
+}
+h4 {
+  color: white;
+}
+/* h5{
+  color: white;
+} */
+
+select { 
+  color: black;
+  background-color: white;
+}
+
+.chart-container {
+  display: flex;
+  width: 1500px;
+  height: 600px;
+}
+
+
+
+#barline {
+  flex: 0 0 65%; /* Adjust the width as needed */
+}
+
+#sunburst {
+  flex: 0 0 35%; /* Adjust the width as needed */
+  margin-right: 15px;
+  
+}
+
+#map-id {
+  width: 1500px;
+  height: 500px;
+  margin-bottom: 10px;
+}
+
+#selDataset {
+  margin-bottom: 10px;
+  margin-right: 20px;
+
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  background-color: white;
+}
+
+th,
+td {
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+  color : black;
+  width : 150px;
+}
+
+.table-container {
+  display: flex;
+  /* width: 1500px;
+  height: 600px;
+} */
+}
+
+.team-table-container {
+  flex: 0 0 70%; 
+  padding: 10px; 
+  margin-right : 25px
+}
+
+.cluster-table-container {
+  flex: 0 0 30%; 
+  padding: 10px; 
+}
+
+label {
+  color : white;
+}
+
+#Teams {
+  margin-bottom: 15px;
+}
