@@ -30,6 +30,7 @@ function teamTable(league) {
       // Create the table header row
       const headerRow = document.createElement("tr");
 
+      headerRow.classList.add("header-row");
     
       tableHeaders.forEach(header => {
         const th = document.createElement("th");

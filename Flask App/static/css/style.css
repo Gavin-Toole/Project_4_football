@@ -79,7 +79,7 @@ td {
   border: 1px solid black;
   padding: 8px;
   text-align: left;
-  color : black;
+  /* color : white; */
   width : 150px;
 }
 
@@ -111,15 +111,19 @@ label {
 
 .green-row {
   background-color: rgb(8, 115, 40);
-  color: white; 
+  color : white;  
 }
 
 .yellow-row {
   background-color: rgb(181, 134, 16);
-  color: white; 
+  color : white;
 }
 
 .red-row {
   background-color: rgb(181, 60, 16);
-  color: white; 
+  color : white;
+}
+
+.header-row {
+  background-color: rgb(138, 135, 134);
 }
