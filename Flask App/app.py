@@ -7,6 +7,7 @@ import sqlalchemy
 from sqlalchemy import inspect
 import pandas as pd
 from collections import OrderedDict
+import json
 
 # Database Setup
 #################################################
@@ -175,10 +176,11 @@ cluster_df.replace(to_replace=float('nan'), value=None, inplace=True)
 @app.route('/api/satisfaction_table/<league>')
 def satisfaction_table(league):
     filtered_df = satisfaction_df[satisfaction_df['League'] == league]
-    satisfaction_dict = filtered_df[['Squad', 'Wins', 'Draws', 'Losses', 'Points', 'Goals_For',
+    satisfaction_list = filtered_df[['Squad', 'Wins', 'Draws', 'Losses', 'Points', 'Goals_For',
                                      'Goals_Against', 'Goal_Differential', 'Possession', 'Wages']].to_dict('records')
 
-    return jsonify(satisfaction_dict)
+    return jsonify(satisfaction_list)
+    # return satisfaction_dict
 
     # satisfaction_list = []
     # for _, row in filtered_df.iterrows():
@@ -197,8 +199,15 @@ def cluster_table(team):
                                                                                                                                                                                'Goals_Against', 'Possession', 'cluster_label']].sort_values('cluster_label', ascending=False).reset_index(drop=True)
     result_df = result_df.T.reset_index().rename(
         columns={'index': 'Feature', 0: 'Predicted Performance', 1: 'Top Team Performance'})
-    result_dict = result_df[:-1].to_dict('records')
-    return jsonify(result_dict)
+    result_df = result_df[:-1]
+    result_df['Predicted Performance'] = result_df['Predicted Performance'].astype(
+        'float')
+    result_df['Top Team Performance'] = result_df['Top Team Performance'].astype(
+        'float')
+    result_df['Percent Gap'] = (result_df['Predicted Performance'].sub(
+        result_df['Top Team Performance']).div(result_df['Top Team Performance']) * 100).round(2)
+    result_list = result_df.to_dict('records')
+    return jsonify(result_list)
 
 
 if __name__ == '__main__':

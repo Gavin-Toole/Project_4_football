@@ -25,7 +25,20 @@ function teamTable(league) {
 
     const teamTable = document.getElementById("team-table");
       teamTable.innerHTML = ""; // Clear previous data
-      const tableHeaders = Object.keys(data[0]);
+      // const tableHeaders = Object.keys(data[0]);
+
+      const tableHeaders = [
+        'Squad',
+        'Wins',
+        'Draws',
+        'Losses',
+        'Points',
+        'Goals_For',
+        'Goals_Against',
+        'Goal_Differential',
+        'Possession',
+        'Wages'
+      ];
   
       // Create the table header row
       const headerRow = document.createElement("tr");
@@ -83,7 +96,14 @@ function predTable(team) {
       console.log(data)
       const clusterTable = document.getElementById("cluster-table");
       clusterTable.innerHTML = ""; // Clear previous data
-      const tableHeaders = Object.keys(data[0]);
+      // const tableHeaders = Object.keys(data[0]);
+      
+      const tableHeaders = [
+        'Feature',
+        'Predicted Performance',
+        'Top Team Performance',
+        'Percent Gap'
+      ];
   
       // Create the table header row
       const headerRow = document.createElement("tr");
