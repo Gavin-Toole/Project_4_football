@@ -47,11 +47,11 @@ select {
 
 
 #barline {
-  flex: 0 0 65%; /* Adjust the width as needed */
+  flex: 0 0 65%; 
 }
 
 #sunburst {
-  flex: 0 0 35%; /* Adjust the width as needed */
+  flex: 0 0 35%; 
   margin-right: 15px;
   
 }
@@ -79,7 +79,7 @@ td {
   border: 1px solid black;
   padding: 8px;
   text-align: left;
-  color : black;
+  /* color : white; */
   width : 150px;
 }
 
@@ -107,4 +107,23 @@ label {
 
 #Teams {
   margin-bottom: 15px;
+}
+
+.green-row {
+  background-color: rgb(8, 115, 40);
+  color : white;  
+}
+
+.yellow-row {
+  background-color: rgb(181, 134, 16);
+  color : white;
+}
+
+.red-row {
+  background-color: rgb(181, 60, 16);
+  color : white;
+}
+
+.header-row {
+  background-color: rgb(138, 135, 134);
 }
