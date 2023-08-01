@@ -62,9 +62,8 @@ We were not able to full functionality of the app but got the leaflet map to loa
 
 A custom background was created for the webapp.
 
-A fly.io app was created to display this project.
+A fly.io app was created to display this project and updated for Project 4
 
-https://projectball.fly.dev/
 
 Project 4 Machine Learning Branch
 
