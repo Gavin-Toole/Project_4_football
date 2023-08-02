@@ -8,6 +8,7 @@
   <title>Top 5 European Football Leagues</title>
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
   <script src="https://d3js.org/d3.v5.min.js"></script>
+  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
   
   <!-- Our own CSS stylesheet -->
   <link rel="stylesheet" type="text/css" href="../static/css/style.css">
@@ -31,7 +32,7 @@
           <h4>Team Performance Last 10 Seasons</h4>
           <table id="team-table">
             <!-- Table data will be populated dynamically using JavaScript -->
-            
+
           </table>
         </div>
         <div class="cluster-table-container">
@@ -41,9 +42,12 @@
             <!-- <option value="" disabled selected>Select a team</option> -->
             <!-- Dropdown options will be populated dynamically using JavaScript -->
           </select>
-          <table id="cluster-table">
+          <table id="cluster-table" style="margin-bottom: 40px;">
             <!-- Table data will be populated dynamically using JavaScript -->
           </table>
+          <div class="bubble-container"></div>
+          <div id="bubble-chart"></div>
+        
         </div>
       </div>
     </div>
