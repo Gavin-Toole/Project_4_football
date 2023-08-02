@@ -76,4 +76,4 @@ The same cdv files were created for the 10 year season summary.  Teams, Wins, Lo
 
 Once the clustering was complete we started the analysis using Tableau to provide visualization and also added to our app project 3.
 
-Link to project app:  https://projectvall2.fly.dev
+Link to project app:  https://europeanfootball.fly.dev/
