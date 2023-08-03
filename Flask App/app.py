@@ -180,15 +180,6 @@ def satisfaction_table(league):
                                      'Goals_Against', 'Goal_Differential', 'Possession', 'Wages']].to_dict('records')
 
     return jsonify(satisfaction_list)
-    # return satisfaction_dict
-
-    # satisfaction_list = []
-    # for _, row in filtered_df.iterrows():
-    #     record = OrderedDict(row[['Squad', 'Wins', 'Draws', 'Losses', 'Points', 'Goals_For', 'Goals_Against',
-    #                               'Goal_Differential', 'Possession', 'Wages']].to_dict())
-    #     satisfaction_list.append(record)
-
-    # return jsonify(satisfaction_list)
 
 
 @app.route('/api/cluster_table/<team>')
@@ -196,18 +187,41 @@ def cluster_table(team):
     league_cluster = satisfaction_df[satisfaction_df['Squad'] == team][[
         'League', 'cluster_label']].values
     result_df = cluster_df[(cluster_df['League'] == league_cluster[0][0]) & ((cluster_df['cluster_label'] == league_cluster[0][1]) | (cluster_df['cluster_label'] == "1st"))][['Points', 'Wins', 'Draws', 'Losses', 'Goals_For',
-                                                                                                                                                                               'Goals_Against', 'Possession', 'cluster_label']].sort_values('cluster_label', ascending=False).reset_index(drop=True)
+                                                                                                                                                                              'Goals_Against', 'Possession', 'cluster_label']].sort_values('cluster_label', ascending=False).reset_index(drop=True)
+    # adding a dupplicating row if cluster_label for the team selected is 1st
+    if league_cluster[0][1] == "1st":
+        duplicate_row = result_df.iloc[0].copy()
+        result_df = result_df.append(duplicate_row, ignore_index=True)
+
     result_df = result_df.T.reset_index().rename(
         columns={'index': 'Feature', 0: 'Predicted Performance', 1: 'Top Team Performance'})
+
     result_df = result_df[:-1]
+
     result_df['Predicted Performance'] = result_df['Predicted Performance'].astype(
         'float')
     result_df['Top Team Performance'] = result_df['Top Team Performance'].astype(
         'float')
-    result_df['Percent Gap'] = (result_df['Predicted Performance'].sub(
-        result_df['Top Team Performance']).div(result_df['Top Team Performance']) * 100).round(2)
+    result_df['Percent Gap'] = (((result_df['Predicted Performance'] -
+                                result_df['Top Team Performance']) / result_df['Top Team Performance']) * 100).round(2)
+
     result_list = result_df.to_dict('records')
     return jsonify(result_list)
+
+
+@app.route('/api/bubble_chart/<team>')
+def bubble_chart(team):
+    league_cluster = satisfaction_df[satisfaction_df['Squad'] == team][[
+        'League', 'cluster_label']].values
+    features = ['Points', 'Wins', 'Goals_For',
+                'Goals_Against', 'cluster_label']
+    result_1_df = cluster_df[(cluster_df['League'] == league_cluster[0][0]) & (
+        cluster_df['cluster_label'] == league_cluster[0][1])][features]
+    result_2_df = cluster_df[(cluster_df['League'] == league_cluster[0][0])
+                             ][features].sort_values('cluster_label', ascending=False)
+    final_result = pd.concat([result_1_df, result_2_df]).drop_duplicates()
+    final_result_list = final_result.to_dict('records')
+    return jsonify(final_result_list)
 
 
 if __name__ == '__main__':

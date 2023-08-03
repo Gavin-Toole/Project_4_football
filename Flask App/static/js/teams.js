@@ -97,7 +97,7 @@ function predTable(team) {
       const clusterTable = document.getElementById("cluster-table");
       clusterTable.innerHTML = ""; // Clear previous data
       // const tableHeaders = Object.keys(data[0]);
-      
+
       const tableHeaders = [
         'Feature',
         'Predicted Performance',
@@ -128,6 +128,145 @@ function predTable(team) {
     });
 };
 
+
+// creating function to plot Bullet chart using plotly
+
+function bulletChart(team) {
+
+  d3.json(`/api/bubble_chart/${team}`).then(data => {
+  console.log(data);
+  
+  let clusterLabel = [];
+  clusterLabel =  data.map(row => row['cluster_label'])  
+  console.log(clusterLabel);
+
+  console.log(data[0]['Points'])
+  console.log(data[5]['Points'])
+
+  // removing h2 from the bubble-container if any
+
+  d3.select('#bubble-container').select('h2').remove();
+
+  // clearing existing plotly chart
+
+  Plotly.purge('bubble-chart');
+
+  if (clusterLabel[0] === "1st") {
+  const h2Element = document.createElement("h2");
+  h2Element.innerHTML = "I am Top of the League....Catch Me If You Can";
+
+  const h2container = document.getElementById("bubble-container");
+  h2container.appendChild(h2Element);
+  } else {
+  var chartData = [
+    {
+      type: "indicator",
+      mode: "number+gauge+delta",
+      value: data[0]['Points'],
+      // value: points[0],
+      delta: { reference: data[5]['Points']},
+      domain: { x: [0.25, 1], y: [0.05, 0.20] },
+      title: { text: "Points" },
+      gauge: {
+        shape: "bullet",
+        axis: { range: [null, data[5]['Points']+10] },
+        bar: { color: "black" }
+      }
+    },
+    {
+      type: "indicator",
+      mode: "number+gauge+delta",
+      value: data[0]['Wins'],
+      // value: wins[0],
+      delta: { reference: data[5]['Wins']},
+      domain: { x: [0.25, 1], y: [0.35, 0.5] },
+      title: { text: "Wins" },
+      gauge: {
+        shape: "bullet",
+        axis: { range: [null, data[5]['Wins']+5] },
+        // threshold: {
+        //   line: { color: "black", width: 2 },
+        //   thickness: 0.75,
+        //   value: 170
+        // },
+        // steps: [
+        //   { range: [0, sortedWins[0]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedWins[0], sortedWins[1]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedWins[1], sortedWins[2]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedWins[2], sortedWins[3]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedWins[3], sortedWins[4]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedWins[4], sortedWins[5]], color: "white", line: {color: "black",  width: 2}}           
+        // ],
+        bar: { color: "black" }
+      }
+    },
+    {
+      type: "indicator",
+      mode: "number+gauge+delta",
+      value: data[0]['Goals_For'],
+      // value: goalsFor[0],
+      delta: { reference: data[5]['Goals_For']},
+      domain: { x: [0.25, 1], y: [0.6, 0.75] },
+      title: { text: "Goals For" },
+      gauge: {
+        shape: "bullet",
+        axis: { range: [null, data[5]['Goals_For']+10] },
+        // threshold: {
+        //   line: { color: "black", width: 2 },
+        //   thickness: 0.75,
+        //   value: 170
+        // },
+        // steps: [
+        //   { range: [0, sortedGoalsFor[0]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsFor[0], sortedGoalsFor[1]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsFor[1], sortedGoalsFor[2]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsFor[2], sortedGoalsFor[3]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsFor[3], sortedGoalsFor[4]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsFor[4], sortedGoalsFor[5]], color: "white", line: {color: "black",  width: 2}}           
+        // ],
+        bar: { color: "black" }
+      }
+    },
+    {
+      type: "indicator",
+      mode: "number+gauge+delta",
+      value: data[0]['Goals_Against'],
+      // value: goalsAgainst[0],
+      delta: { reference: data[5]['Goals_Against']},
+      domain: { x: [0.25, 1], y: [0.85, 1] },
+      title: { text: "Goals Against" },
+      gauge: {
+        shape: "bullet",
+        axis: { range: [null, data[5]['Goals_Against']+10] },
+        // threshold: {
+        //   line: { color: "black", width: 2 },
+        //   thickness: 0.75,
+        //   value: 170
+        // },
+        // steps: [
+        //   { range: [0, sortedGoalsAgainst[0]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsAgainst[0], sortedGoalsAgainst[1]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsAgainst[1], sortedGoalsAgainst[2]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsAgainst[2], sortedGoalsAgainst[3]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsAgainst[3], sortedGoalsAgainst[4]], color: "white", line: {color: "black",  width: 2}},
+        //   { range: [sortedGoalsAgainst[4], sortedGoalsAgainst[5]], color: "white", line: {color: "black",  width: 2}}           
+        // ],
+        bar: { color: "black" }
+      }
+    }
+  ];
+
+  var layout = {
+    width: 700, height: 250,
+    margin: { t: 10, r: 25, l: 25, b: 10 },
+  };
+
+  Plotly.newPlot('bubble-chart', chartData, layout);
+}
+
+})
+};
+
 // Initialize the table with default league EPL
 
 teamTable('EPL');
@@ -138,11 +277,13 @@ d3.selectAll('#selDataset').on('change', function () {
     console.log(this.value);
     teamTable(this.value); 
     const clusterTable = document.getElementById("cluster-table");
-    clusterTable.innerHTML = ""
-
+    clusterTable.innerHTML = "";
+    Plotly.purge('bubble-chart');
+    d3.select('#bubble-container').select('h2').remove();
 });
 
 d3.selectAll('#Teams').on('change', function () {
     console.log(this.value);
     predTable(this.value); 
+    bulletChart(this.value);
 });
