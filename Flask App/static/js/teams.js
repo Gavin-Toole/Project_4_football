@@ -141,44 +141,58 @@ function predTable(team) {
 //   console.log(clusterLabel);
 
 //   let points = [];
-//   points = data.map(row => row['Points']);
+//   data.forEach(row => {
+//   let point = row['Points']
+//   points.push(point)
+//   }); 
 //   console.log(points);
 
-//   sortedPoints = points.sort((a, b) => a - b);
+//   let sortedPoints = points.sort((a, b) => a - b);
+//   console.log(sortedPoints)
 
 //   let wins = [];
-//   wins = data.map(row => row['Wins']);
+//   data.forEach(row => {
+//     let win = row['Wins']
+//     wins.push(win)
+//     });
 //   console.log(wins);
 
-//   sortedWins = wins.sort((a, b) => a - b);
+//   let sortedWins = wins.sort((a, b) => a - b);
   
 //   let goalsFor = []
-//   goalsFor = data.map(row => row['Goals_For']);
+//   data.forEach(row => {
+//     let goalF = row['Goals_For']
+//     goalsFor.push(goalF)
+//     });
 //   console.log(goalsFor);
 
-//   sortedGoalsFor = goalsFor.sort((a, b) => a - b);
+
+//   let sortedGoalsFor = goalsFor.sort((a, b) => a - b);
 
 //   let goalsAgainst = [];
-//   goalsAgainst = data.map(row => row['Goals_Against']);  
+//   data.forEach(row => {
+//     let goalA = row['Goals_Against']
+//     goalsAgainst.push(goalA)
+//     }); 
 //   console.log(goalsAgainst);
 
-//   sortedGoalsAgainst = goalsAgainst.sort((a, b) => a - b)
+//   let sortedGoalsAgainst = goalsAgainst.sort((a, b) => a - b)
 
-//   // removing h4 from the bubble-container if any
+// //   // removing h4 from the bubble-container if any
 
-//   d3.select('.bubble-container').select('h4').remove();
+// //   d3.select('.bubble-container').select('h4').remove();
 
-//   // clearing existing plotly chart
+// //   // clearing existing plotly chart
 
 //   Plotly.purge('bubble-chart');
 
-//   if (clusterLabel[0] === "1st") {
-//   const h4Element = document.createElement("h4");
-//   h4Element.innerHTML = "I am Top of the League<br>Catch Me If You Can";
+// //   if (clusterLabel[0] === "1st") {
+// //   const h4Element = document.createElement("h4");
+// //   h4Element.innerHTML = "I am Top of the League<br>Catch Me If You Can";
 
-//   const h4container = document.getElementById("bubble-container");
-//   h4container.appendChild(h4Element);
-//   } else {
+// //   const h4container = document.getElementById("bubble-container");
+// //   h4container.appendChild(h4Element);
+// //   } else {
 //   var chartData = [
 //     {
 //       type: "indicator",
@@ -289,24 +303,24 @@ function predTable(team) {
 //   var layout = {
 //     width: 600, height: 250,
 //     margin: { t: 10, r: 25, l: 25, b: 10 },
-//     xaxis: {
-//       tickvals: [
-//         [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
-//         [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
-//         [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
-//         [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
-//       ],
-//       ticktext: [
-//         [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
-//         [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
-//         [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
-//         [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
-//       ]
-//     }
+//     // xaxis: {
+//     //   tickvals: [
+//     //     [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
+//     //     [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
+//     //     [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
+//     //     [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
+//     //   ],
+//     //   ticktext: [
+//     //     [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
+//     //     [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
+//     //     [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
+//     //     [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
+//     //   ]
+//     // }
 //   };
 
 //   Plotly.newPlot('bubble-chart', chartData, layout);
-// }
+// // }
 
 // })
 // };
