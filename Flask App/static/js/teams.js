@@ -143,59 +143,21 @@ function bulletChart(team) {
   console.log(data[0]['Points'])
   console.log(data[5]['Points'])
 
-//   let points = [];
-//   data.forEach(row => {
-//   let point = row['Points']
-//   points.push(point)
-//   }); 
-//   console.log(points);
+  // removing h2 from the bubble-container if any
 
-//   let sortedPoints = points.sort((a, b) => a - b);
-//   console.log(sortedPoints)
+  d3.select('#bubble-container').select('h2').remove();
 
-//   let wins = [];
-//   data.forEach(row => {
-//     let win = row['Wins']
-//     wins.push(win)
-//     });
-//   console.log(wins);
+  // clearing existing plotly chart
 
-//   let sortedWins = wins.sort((a, b) => a - b);
-  
-//   let goalsFor = []
-//   data.forEach(row => {
-//     let goalF = row['Goals_For']
-//     goalsFor.push(goalF)
-//     });
-//   console.log(goalsFor);
+  Plotly.purge('bubble-chart');
 
+  if (clusterLabel[0] === "1st") {
+  const h2Element = document.createElement("h2");
+  h2Element.innerHTML = "I am Top of the League....Catch Me If You Can";
 
-//   let sortedGoalsFor = goalsFor.sort((a, b) => a - b);
-
-//   let goalsAgainst = [];
-//   data.forEach(row => {
-//     let goalA = row['Goals_Against']
-//     goalsAgainst.push(goalA)
-//     }); 
-//   console.log(goalsAgainst);
-
-//   let sortedGoalsAgainst = goalsAgainst.sort((a, b) => a - b)
-
-// //   // removing h4 from the bubble-container if any
-
-// //   d3.select('.bubble-container').select('h4').remove();
-
-// //   // clearing existing plotly chart
-
-//   Plotly.purge('bubble-chart');
-
-// //   if (clusterLabel[0] === "1st") {
-// //   const h4Element = document.createElement("h4");
-// //   h4Element.innerHTML = "I am Top of the League<br>Catch Me If You Can";
-
-// //   const h4container = document.getElementById("bubble-container");
-// //   h4container.appendChild(h4Element);
-// //   } else {
+  const h2container = document.getElementById("bubble-container");
+  h2container.appendChild(h2Element);
+  } else {
   var chartData = [
     {
       type: "indicator",
@@ -208,19 +170,6 @@ function bulletChart(team) {
       gauge: {
         shape: "bullet",
         axis: { range: [null, data[5]['Points']+10] },
-        // threshold: {
-        //   line: { color: "black", width: 2 },
-        //   thickness: 0.75,
-        //   value: 170
-        // },
-        // steps: [
-        //   { range: [0, sortedPoints[0]], color: "white", line: {color: "black",  width: 2}},
-        //   { range: [sortedPoints[0], sortedPoints[1]], color: "white", line: {color: "black",  width: 2}},
-        //   { range: [sortedPoints[1], sortedPoints[2]], color: "white", line: {color: "black",  width: 2}},
-        //   { range: [sortedPoints[2], sortedPoints[3]], color: "white", line: {color: "black",  width: 2}},
-        //   { range: [sortedPoints[3], sortedPoints[4]], color: "white", line: {color: "black",  width: 2}},
-        //   { range: [sortedPoints[4], sortedPoints[5]], color: "white", line: {color: "black",  width: 2}}           
-        // ],
         bar: { color: "black" }
       }
     },
@@ -310,24 +259,10 @@ function bulletChart(team) {
   var layout = {
     width: 700, height: 250,
     margin: { t: 10, r: 25, l: 25, b: 10 },
-    // xaxis: {
-    //   tickvals: [
-    //     [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
-    //     [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
-    //     [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
-    //     [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
-    //   ],
-    //   ticktext: [
-    //     [0, sortedPoints[0],sortedPoints[1],sortedPoints[2],sortedPoints[3],sortedPoints[4],sortedPoints[5] ],
-    //     [0, sortedWins[0],sortedWins[1],sortedWins[2],sortedWins[3],sortedWins[4],sortedWins[5]],
-    //     [0, sortedGoalsFor[0],sortedGoalsFor[1],sortedGoalsFor[2],sortedGoalsFor[3],sortedGoalsFor[4],sortedGoalsFor[5]],
-    //     [0, sortedGoalsAgainst[0], sortedGoalsAgainst[1], sortedGoalsAgainst[2], sortedGoalsAgainst[3], sortedGoalsAgainst[4], sortedGoalsAgainst[5]]
-    //   ]
-    // }
   };
 
   Plotly.newPlot('bubble-chart', chartData, layout);
-// // }
+}
 
 })
 };
@@ -342,8 +277,9 @@ d3.selectAll('#selDataset').on('change', function () {
     console.log(this.value);
     teamTable(this.value); 
     const clusterTable = document.getElementById("cluster-table");
-    clusterTable.innerHTML = ""
-
+    clusterTable.innerHTML = "";
+    Plotly.purge('bubble-chart');
+    d3.select('#bubble-container').select('h2').remove();
 });
 
 d3.selectAll('#Teams').on('change', function () {
